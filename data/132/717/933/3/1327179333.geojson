@@ -1,0 +1,66 @@
+{
+  "id": 1327179333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39111,35.96389,14.39111,35.96389",
+    "geom:latitude":35.96389,
+    "geom:longitude":14.39111,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Tal-Blata",
+    "gn:country_code":"MT",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562421,
+    "gn:latitude":35.96389,
+    "gn:longitude":14.39111,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tal-Blata",
+    "gn:population":0,
+    "gn:timezone":"Europe/Malta",
+    "iso:country":"MT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686947,
+        1175612955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562421
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"1fb6403ad9cf715d2740d89e573bdb8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1327179333,
+            "region_id":85686947
+        }
+    ],
+    "wof:id":1327179333,
+    "wof:lastmodified":1537044417,
+    "wof:name":"Tal-Blata",
+    "wof:parent_id":1175612955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.39111,
+    35.96389,
+    14.39111,
+    35.96389
+],
+  "geometry": {"coordinates":[14.39111,35.96389],"type":"Point"}
+}

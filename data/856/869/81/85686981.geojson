@@ -1,0 +1,158 @@
+{
+  "id": 85686981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000288,
+    "geom:area_square_m":2883565.679705,
+    "geom:bbox":"14.2262475,36.032865,14.2530245,36.053327",
+    "geom:latitude":36.044276,
+    "geom:longitude":14.240777,
+    "iso:country":"MT",
+    "label:eng_x_preferred_longname":[
+        "Rabat (Ghawdex) (Citta' Vittoria) Local Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "local council"
+    ],
+    "lbl:latitude":36.044875,
+    "lbl:longitude":14.243008,
+    "mps:latitude":36.044875,
+    "mps:longitude":14.243008,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Rabat (Ghawdex) (Citta' Vittoria)"
+    ],
+    "name:eng_x_variant":[
+        "Victoria"
+    ],
+    "name:mlt_x_preferred":[
+        "Ir-Rabat"
+    ],
+    "name:mlt_x_variant":[
+        "Ir-Rabat G\u0127awdex"
+    ],
+    "name:unk_x_variant":[
+        "Rabat"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MLT",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"8",
+    "ne:adm1_cod_1":"MLT-5982",
+    "ne:adm1_code":"MLT-5982",
+    "ne:admin":"Malta",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"-99",
+    "ne:code_local":"",
+    "ne:datarank":"11",
+    "ne:diss_me":"5982",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Malta",
+    "ne:gn_a1_code":"MT.46",
+    "ne:gn_id":"8299745",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Ir-Rabat",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MT46",
+    "ne:gns_id":"11535788",
+    "ne:gns_lang":"mlt",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Ir-Rabat",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MLT",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MT-",
+    "ne:iso_a2":"MT",
+    "ne:labelrank":"20",
+    "ne:latitude":"36.04070000000",
+    "ne:longitude":"14.24440000000",
+    "ne:mapcolor13":8,
+    "ne:mapcolor9":1,
+    "ne:name":"Victoria",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"Gozo",
+    "ne:region_cod":"",
+    "ne:region_sub":"Gozo and Comino",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"11",
+    "ne:sov_a3":"MLT",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":24551352,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Malta",
+    "qs:a0_lc":"MT00000",
+    "qs:a1":"Rabat (Ghawdex) (Citta' Vittoria)",
+    "qs:a1_alt":"Rabat (Ghawdex) (Citta' Vittoria)",
+    "qs:a1_lc":"MT12611",
+    "qs:adm0":"Malta",
+    "qs:adm0_a3":"MLT",
+    "qs:level":"adm1",
+    "qs:source":"EuroGlobalMap",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":8299745,
+        "gp:id":24551352,
+        "hasc:id":"-99"
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"41327e676603b2f28b6f6b8de181f116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "region_id":85686981
+        }
+    ],
+    "wof:id":85686981,
+    "wof:lang_x_official":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lastmodified":1553624329,
+    "wof:name":"Rabat (Ghawdex) (Citta' Vittoria)",
+    "wof:parent_id":85633331,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:shortcode":"99",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.22624749999977,
+    36.03286499999984,
+    14.25302449999978,
+    36.05332699999985
+],
+  "geometry": {"coordinates":[[[14.23758099999978,36.05238099999985],[14.24130399999978,36.05045049999987],[14.24347049999977,36.05076649999987],[14.24436849999978,36.04976799999986],[14.2480989999998,36.04940499999986],[14.25025899999977,36.05000049999987],[14.24925899999979,36.04716999999985],[14.24940649999979,36.04606749999985],[14.25302449999978,36.04404549999987],[14.25171949999978,36.04171899999986],[14.2513749999998,36.04020049999986],[14.25188799999978,36.03985699999987],[14.25019449999979,36.03806449999985],[14.25122449999978,36.03746899999985],[14.25021049999978,36.03670999999986],[14.25115899999977,36.03593949999987],[14.25005049999979,36.03514599999986],[14.24902849999978,36.03543199999984],[14.24847599999978,36.03475299999985],[14.24528599999979,36.03629799999985],[14.24276749999978,36.03395949999986],[14.24056049999979,36.03463499999986],[14.24037149999978,36.03343349999986],[14.23908999999978,36.03286499999984],[14.23752099999979,36.03326149999987],[14.23935599999979,36.03742749999986],[14.23984899999979,36.04099799999986],[14.23764199999979,36.04097099999987],[14.23801499999979,36.04219949999987],[14.23623149999977,36.04219949999987],[14.23305799999977,36.04001749999986],[14.23279099999979,36.04267649999985],[14.22971899999979,36.04592999999986],[14.22985349999979,36.04829199999986],[14.22624749999977,36.05025249999986],[14.22678649999977,36.05269],[14.2318094999998,36.05230849999987],[14.23378949999977,36.05332699999985],[14.23758099999978,36.05238099999985]]],"type":"Polygon"}
+}

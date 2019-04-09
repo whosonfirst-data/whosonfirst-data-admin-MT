@@ -1,0 +1,97 @@
+{
+  "id": 101846465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":359977.947728,
+    "geom:bbox":"14.3363609698,35.8986336605,14.3506640523,35.9040323364",
+    "geom:latitude":35.901452,
+    "geom:longitude":14.345233,
+    "iso:country":"MT",
+    "lbl:latitude":35.901421,
+    "lbl:longitude":14.346533,
+    "mps:latitude":35.901421,
+    "mps:longitude":14.346533,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Ba\u0127rija"
+    ],
+    "name:dut_x_preferred":[
+        "Ba\u0127rija"
+    ],
+    "name:eng_x_preferred":[
+        "Ba\u0127rija"
+    ],
+    "name:fra_x_preferred":[
+        "Ba\u0127rija"
+    ],
+    "name:fre_x_preferred":[
+        "Ba\u0127rija"
+    ],
+    "name:ger_x_preferred":[
+        "Ba\u0127rija"
+    ],
+    "name:hun_x_preferred":[
+        "Ba\u0127rija"
+    ],
+    "qs:a0":"Malta",
+    "qs:a1":"*Rabat (Malta)",
+    "qs:a1r":"0",
+    "qs:adm0":"Malta",
+    "qs:la":"Rabat (Malta)",
+    "qs:la_lc":"*MT11450",
+    "qs:level":"locality",
+    "qs:loc":"Bahrija",
+    "qs:loc_alt":"Bahrija",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":380,
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":10645036,
+        "qs:id":1061783,
+        "qs_pg:id":1061783,
+        "wd:id":"Q586551"
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"62f06da272acafd6d855786793b04a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":101846465,
+            "region_id":85686929
+        }
+    ],
+    "wof:id":101846465,
+    "wof:lastmodified":1527714709,
+    "wof:name":"Bahrija",
+    "wof:parent_id":85686929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33636096977921,
+    35.89863366045597,
+    14.35066405231055,
+    35.90403233635715
+],
+  "geometry": {"coordinates":[[[14.34852653264142,35.90392984723718],[14.34847196447134,35.90302153561947],[14.35066405231055,35.90291899637145],[14.35050027777709,35.90019405886079],[14.34940427554801,35.90024533268723],[14.34934970171633,35.89933701704672],[14.34496573407978,35.89954198028903],[14.34491121693895,35.89863366045597],[14.3427192524245,35.89873606314092],[14.34288272781384,35.9014610235559],[14.33740258800344,35.90171681563851],[14.33745701542989,35.9026251371339],[14.33636096977921,35.90267625757792],[14.33641538552899,35.90358457862828],[14.33860750284208,35.90348232333662],[14.33855305974299,35.9025740037826],[14.34512929750872,35.90226693262889],[14.34518382265401,35.90317524768903],[14.34627987126714,35.90312402323963],[14.34633441208842,35.90403233635715],[14.34852653264142,35.90392984723718]]],"type":"Polygon"}
+}

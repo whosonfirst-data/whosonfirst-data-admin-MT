@@ -1,0 +1,71 @@
+{
+  "id": 1343292581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39639,35.87083,14.39639,35.87083",
+    "geom:latitude":35.87083,
+    "geom:longitude":14.39639,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Gnien il-Kbir",
+    "gn:cc2":"MT",
+    "gn:country_code":"MT",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2563031,
+    "gn:latitude":35.87083,
+    "gn:longitude":14.39639,
+    "gn:modification_date":"2014-10-28",
+    "gn:name":"\u0120nien il-Kbir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Malta",
+    "iso:country":"MT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gnien-Il Gbir",
+        "Gnien el Gbir",
+        "\u0120nien il-Kbir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2563031
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"2f875cf37978e229ad59105f4fc141b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1343292581,
+            "region_id":85686875
+        }
+    ],
+    "wof:id":1343292581,
+    "wof:lastmodified":1537665821,
+    "wof:name":"Gnien il-Kbir",
+    "wof:parent_id":85686875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.39639,
+    35.87083,
+    14.39639,
+    35.87083
+],
+  "geometry": {"coordinates":[14.39639,35.87083],"type":"Point"}
+}

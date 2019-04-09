@@ -1,0 +1,118 @@
+{
+  "id": 85686823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:area_square_m":1045596.681248,
+    "geom:bbox":"14.4799295,35.8812985,14.5002615,35.892323",
+    "geom:latitude":35.886958,
+    "geom:longitude":14.488526,
+    "iso:country":"MT",
+    "label:eng_x_preferred_longname":[
+        "Hamrun Local Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "local council"
+    ],
+    "lbl:latitude":35.887244,
+    "lbl:longitude":14.487524,
+    "mps:latitude":35.887244,
+    "mps:longitude":14.487524,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "\u0126amrun"
+    ],
+    "name:ceb_x_preferred":[
+        "Il-\u0126amrun"
+    ],
+    "name:ces_x_preferred":[
+        "\u0126amrun"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062d\u0627\u0645\u0631\u0648\u0646\u060c \u0645\u0627\u06b5\u062a\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "\u0126amrun"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bc\u03c1\u03bf\u03cd\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Hamrun"
+    ],
+    "name:eus_x_preferred":[
+        "\u0126amrun"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0631\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Il-\u0126amrun"
+    ],
+    "name:spa_x_preferred":[
+        "\u0126amrun"
+    ],
+    "qs:a0":"Malta",
+    "qs:a0_lc":"MT00000",
+    "qs:a1":"Hamrun",
+    "qs:a1_alt":"Hamrun",
+    "qs:a1_lc":"MT11227",
+    "qs:adm0":"Malta",
+    "qs:adm0_a3":"MLT",
+    "qs:level":"adm1",
+    "qs:source":"EuroGlobalMap",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"MT-18",
+    "wd:wordcount":2420,
+    "wof:belongsto":[
+        102191581,
+        85633331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "unlc:id":"MT-18",
+        "wd:id":"Q343001"
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"cb6205a7e9938c84a507858b845008bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "region_id":85686823
+        }
+    ],
+    "wof:id":85686823,
+    "wof:lang_x_official":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lastmodified":1553624329,
+    "wof:name":"Hamrun",
+    "wof:parent_id":85633331,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:subdivision":"MT-18",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4799294999998,
+    35.88129849999984,
+    14.50026149999979,
+    35.89232299999986
+],
+  "geometry": {"coordinates":[[[14.4898914999998,35.89107149999987],[14.49068849999978,35.89075499999987],[14.48994299999978,35.88923299999985],[14.4925714999998,35.88856899999985],[14.49423549999977,35.88857699999986],[14.49744799999979,35.89086199999986],[14.50026149999979,35.88992749999986],[14.49791,35.88760799999986],[14.4963984999998,35.88606649999986],[14.4930214999998,35.88475849999985],[14.48939949999979,35.88454849999984],[14.48539399999978,35.88211849999985],[14.48495699999978,35.88129849999984],[14.48324649999978,35.88161899999985],[14.4799294999998,35.88391499999985],[14.48000649999977,35.88620799999987],[14.4812024999998,35.88613149999986],[14.4813704999998,35.88712349999986],[14.48414199999979,35.88743249999985],[14.48406799999978,35.89091149999985],[14.48473099999979,35.89204049999987],[14.48586299999979,35.89174299999985],[14.48670799999979,35.89232299999986],[14.4898914999998,35.89107149999987]]],"type":"Polygon"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 85686825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":157088.755973,
+    "geom:bbox":"14.5134005,35.8843195,14.5198675,35.8911775",
+    "geom:latitude":35.887878,
+    "geom:longitude":14.516868,
+    "iso:country":"MT",
+    "label:eng_x_preferred_longname":[
+        "Isla (Citta' Invicta) Local Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "local council"
+    ],
+    "lbl:latitude":35.887871,
+    "lbl:longitude":14.516917,
+    "mps:latitude":35.887871,
+    "mps:longitude":14.516917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Isla (Citta' Invicta)"
+    ],
+    "qs:a0":"Malta",
+    "qs:a0_lc":"MT00000",
+    "qs:a1":"Isla (Citta' Invicta)",
+    "qs:a1_alt":"Isla (Citta' Invicta)",
+    "qs:a1_lc":"MT11104",
+    "qs:adm0":"Malta",
+    "qs:adm0_a3":"MLT",
+    "qs:level":"adm1",
+    "qs:source":"EuroGlobalMap",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"MT-20",
+    "wof:belongsto":[
+        102191581,
+        85633331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "unlc:id":"MT-20"
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"5e25bae33f2baf131d24b45fbb2f7c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "region_id":85686825
+        }
+    ],
+    "wof:id":85686825,
+    "wof:lang_x_official":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lastmodified":1553624329,
+    "wof:name":"Isla (Citta' Invicta)",
+    "wof:parent_id":85633331,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:subdivision":"MT-20",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.51340049999979,
+    35.88431949999986,
+    14.51986749999977,
+    35.89117749999986
+],
+  "geometry": {"coordinates":[[[14.51969199999979,35.88439499999987],[14.51905749999978,35.88431949999986],[14.5139489999998,35.88944349999986],[14.51340049999979,35.89080899999984],[14.5138924999998,35.89117749999986],[14.51670849999979,35.88981799999985],[14.51986749999977,35.88607449999986],[14.51969199999979,35.88439499999987]]],"type":"Polygon"}
+}

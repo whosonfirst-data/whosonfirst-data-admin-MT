@@ -1,0 +1,71 @@
+{
+  "id": 1209849883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40639,35.86528,14.40639,35.86528",
+    "geom:latitude":35.86528,
+    "geom:longitude":14.40639,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Ix-Xaghra ta' l-Isqof",
+    "gn:country_code":"MT",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562842,
+    "gn:latitude":35.86528,
+    "gn:longitude":14.40639,
+    "gn:modification_date":"2014-10-28",
+    "gn:name":"Ix-Xag\u0127ra ta\u2019 l-Isqof",
+    "gn:population":0,
+    "gn:timezone":"Europe/Malta",
+    "iso:country":"MT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sha\u2019ra tal Iskof",
+        "Shaghra tal Iskof",
+        "Xaghra ta Liskof",
+        "Ix-Xag\u0127ra ta\u2019 l-Isqof"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562842
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"b45897426e936b9b66c1a220505fb741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1209849883,
+            "region_id":85686875
+        }
+    ],
+    "wof:id":1209849883,
+    "wof:lastmodified":1537665820,
+    "wof:name":"Ix-Xaghra ta' l-Isqof",
+    "wof:parent_id":85686875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40639,
+    35.86528,
+    14.40639,
+    35.86528
+],
+  "geometry": {"coordinates":[14.40639,35.86528],"type":"Point"}
+}

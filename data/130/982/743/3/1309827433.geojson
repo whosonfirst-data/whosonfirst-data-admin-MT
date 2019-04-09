@@ -1,0 +1,70 @@
+{
+  "id": 1309827433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.37694,35.85611,14.37694,35.85611",
+    "geom:latitude":35.85611,
+    "geom:longitude":14.37694,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tal-Vecca",
+    "gn:country_code":"MT",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562369,
+    "gn:latitude":35.85611,
+    "gn:longitude":14.37694,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tal-Ve\u010b\u010ba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Malta",
+    "iso:country":"MT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tal Vechia",
+        "Tal Veccia",
+        "Tal-Ve\u010b\u010ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562369
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"22e5fd43c191790cbd7110edd4b7a4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1309827433,
+            "region_id":85686763
+        }
+    ],
+    "wof:id":1309827433,
+    "wof:lastmodified":1537665818,
+    "wof:name":"Tal-Vecca",
+    "wof:parent_id":85686763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.37694,
+    35.85611,
+    14.37694,
+    35.85611
+],
+  "geometry": {"coordinates":[14.37694,35.85611],"type":"Point"}
+}

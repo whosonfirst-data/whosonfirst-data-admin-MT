@@ -1,0 +1,72 @@
+{
+  "id": 1309879823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.37361,35.91,14.37361,35.91",
+    "geom:latitude":35.91,
+    "geom:longitude":14.37361,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Bingemma",
+    "gn:country_code":"MT",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2563197,
+    "gn:latitude":35.91,
+    "gn:longitude":14.37361,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Bin\u0121emma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Malta",
+    "iso:country":"MT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Il Wilgia ta Bengemma",
+        "Il Wilgia ta Bingemma",
+        "Binjemma",
+        "Ta Bengemma",
+        "Bin\u0121emma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2563197
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"3abf10317c8a4537d1182d4085e17bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1309879823,
+            "region_id":85686929
+        }
+    ],
+    "wof:id":1309879823,
+    "wof:lastmodified":1537665822,
+    "wof:name":"Bingemma",
+    "wof:parent_id":85686929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.37361,
+    35.91,
+    14.37361,
+    35.91
+],
+  "geometry": {"coordinates":[14.37361,35.91],"type":"Point"}
+}

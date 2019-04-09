@@ -1,0 +1,111 @@
+{
+  "id": 1125992393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.418869,35.954708,14.418869,35.954708",
+    "geom:latitude":35.954708,
+    "geom:longitude":14.418869,
+    "gn:gn_country":null,
+    "iso:country":"MT",
+    "lbl:latitude":35.954708,
+    "lbl:longitude":14.418869,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Qawra"
+    ],
+    "name:dan_x_preferred":[
+        "Qawra"
+    ],
+    "name:dut_x_preferred":[
+        "Qawra"
+    ],
+    "name:eng_x_preferred":[
+        "Qawra"
+    ],
+    "name:fre_x_preferred":[
+        "Qawra"
+    ],
+    "name:ger_x_preferred":[
+        "Qawra"
+    ],
+    "name:hun_x_preferred":[
+        "Qawra"
+    ],
+    "name:ita_x_preferred":[
+        "Qawra"
+    ],
+    "name:spa_x_preferred":[
+        "Qawra"
+    ],
+    "name:swe_x_preferred":[
+        "Qawra"
+    ],
+    "qs_pg:aaroncc":"MT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Qawra",
+    "qs_pg:name_adm0":"Malta",
+    "qs_pg:name_adm1":"Malta Majjistral",
+    "qs_pg:photos":783,
+    "qs_pg:photos_1k":159,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":783,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":895412,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424897,
+    "qs_pg:woe_id":10645038,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424897,
+    "woe:name_adm0":"Malta",
+    "woe:name_adm1":"Malta Majjistral",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":10645038,
+        "qs_pg:id":895412,
+        "wd:id":"Q1038990"
+    },
+    "wof:country":"MT",
+    "wof:created":1497299123,
+    "wof:geomhash":"0a6a224c3a46b0267c5d852b1a3c7683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1125992393,
+            "region_id":85686943
+        }
+    ],
+    "wof:id":1125992393,
+    "wof:lastmodified":1514485352,
+    "wof:name":"Qawra",
+    "wof:parent_id":85686943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.418869,
+    35.954708,
+    14.418869,
+    35.954708
+],
+  "geometry": {"coordinates":[14.418869,35.954708],"type":"Point"}
+}

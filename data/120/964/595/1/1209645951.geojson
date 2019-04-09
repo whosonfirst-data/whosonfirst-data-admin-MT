@@ -1,0 +1,61 @@
+{
+  "id": 1209645951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40611,35.84944,14.40611,35.84944",
+    "geom:latitude":35.84944,
+    "geom:longitude":14.40611,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Ghar Mundu",
+    "gn:country_code":"MT",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2563056,
+    "gn:latitude":35.84944,
+    "gn:longitude":14.40611,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"G\u0127ar Mundu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Malta",
+    "iso:country":"MT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2563056
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"dddbbfd79412b1ba48837b7b6f7bcfb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633331,
+            "locality_id":1209645951
+        }
+    ],
+    "wof:id":1209645951,
+    "wof:lastmodified":1536280735,
+    "wof:name":"Ghar Mundu",
+    "wof:parent_id":85633331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40611,
+    35.84944,
+    14.40611,
+    35.84944
+],
+  "geometry": {"coordinates":[14.40611,35.84944],"type":"Point"}
+}

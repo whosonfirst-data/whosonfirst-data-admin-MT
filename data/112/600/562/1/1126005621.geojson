@@ -1,0 +1,91 @@
+{
+  "id": 1126005621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3393,36.01231,14.3393,36.01231",
+    "geom:latitude":36.01231,
+    "geom:longitude":14.3393,
+    "gn:gn_country":"MT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10,
+    "gn:population":10,
+    "iso:country":"MT",
+    "lbl:latitude":36.01231,
+    "lbl:longitude":14.3393,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_historical":[
+        "Ephaestia"
+    ],
+    "name:eng_x_preferred":[
+        "Comino"
+    ],
+    "name:eng_x_variant":[
+        "Ephaestia"
+    ],
+    "name:mlt_x_preferred":[
+        "Kemmuna"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0438\u043d\u043e"
+    ],
+    "qs_pg:aaroncc":"MT",
+    "qs_pg:gn_country":"MT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7522265,
+    "qs_pg:gn_pop":10,
+    "qs_pg:name":"Comino",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":689682,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7522265,
+        "qs_pg:id":689682
+    },
+    "wof:country":"MT",
+    "wof:created":1497299927,
+    "wof:geomhash":"1dac24a3295f0f82c089b4c0ec6b1c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1126005621,
+            "region_id":85686959
+        }
+    ],
+    "wof:id":1126005621,
+    "wof:lastmodified":1509406396,
+    "wof:name":"Comino",
+    "wof:parent_id":85686959,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3393,
+    36.01231,
+    14.3393,
+    36.01231
+],
+  "geometry": {"coordinates":[14.3393,36.01231],"type":"Point"}
+}

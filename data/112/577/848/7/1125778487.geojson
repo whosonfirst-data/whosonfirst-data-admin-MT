@@ -1,0 +1,80 @@
+{
+  "id": 1125778487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.342978,35.9458985,14.342978,35.9458985",
+    "geom:latitude":35.945898,
+    "geom:longitude":14.342978,
+    "gn:gn_country":null,
+    "iso:country":"MT",
+    "lbl:latitude":35.945898,
+    "lbl:longitude":14.342978,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"\u017bebbieg\u0127",
+    "qs_pg:name_adm0":"Malta",
+    "qs_pg:name_adm1":"Malta Majjistral",
+    "qs_pg:photos":28,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":28,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1078175,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424897,
+    "qs_pg:woe_id":483572,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424897,
+    "woe:name_adm0":"Malta",
+    "woe:name_adm1":"Malta Majjistral",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":483572,
+        "qs_pg:id":1078175
+    },
+    "wof:country":"MT",
+    "wof:created":1497290368,
+    "wof:geomhash":"496556fa962f879ec6fef6914a0e3869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1125778487,
+            "region_id":85686947
+        }
+    ],
+    "wof:id":1125778487,
+    "wof:lastmodified":1509391417,
+    "wof:name":"\u017bebbieg\u0127",
+    "wof:parent_id":85686947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.342978,
+    35.9458985,
+    14.342978,
+    35.9458985
+],
+  "geometry": {"coordinates":[14.342978,35.9458985],"type":"Point"}
+}

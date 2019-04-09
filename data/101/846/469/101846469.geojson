@@ -1,0 +1,99 @@
+{
+  "id": 101846469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":829950.777678,
+    "geom:bbox":"14.3608553305,35.9245977832,14.3828928746,35.930459456",
+    "geom:latitude":35.927272,
+    "geom:longitude":14.371582,
+    "gn:population":2868,
+    "iso:country":"MT",
+    "lbl:latitude":35.927296,
+    "lbl:longitude":14.374678,
+    "mps:latitude":35.927296,
+    "mps:longitude":14.374678,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "M\u0121arr"
+    ],
+    "name:ces_x_preferred":[
+        "M\u0121arr"
+    ],
+    "name:fra_x_preferred":[
+        "M\u0121arr"
+    ],
+    "name:hun_x_preferred":[
+        "M\u0121arr"
+    ],
+    "name:pol_x_preferred":[
+        "M\u0121arr"
+    ],
+    "name:swe_x_preferred":[
+        "M\u0121arr"
+    ],
+    "qs:a0":"Malta",
+    "qs:a1":"*Mgarr",
+    "qs:a1r":"0",
+    "qs:adm0":"Malta",
+    "qs:la":"San Pawl Il-Ba\u0127ar",
+    "qs:la_lc":"*MT11555",
+    "qs:level":"locality",
+    "qs:loc":"Mgarr",
+    "qs:loc_alt":"Mgarr",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562734,
+        "gp:id":483433,
+        "qs:id":9,
+        "qs_pg:id":302100,
+        "wd:id":"Q737590",
+        "wk:page":"M\u0121arr, Gozo"
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"d8c2813236e5f822f6c6891d98ef8a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":101846469,
+            "region_id":85686929
+        }
+    ],
+    "wof:id":101846469,
+    "wof:lastmodified":1507750736,
+    "wof:name":"Mgarr",
+    "wof:parent_id":85686929,
+    "wof:placetype":"locality",
+    "wof:population":2868,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3608553304619,
+    35.92459778315475,
+    14.3828928746301,
+    35.93045945601563
+],
+  "geometry": {"coordinates":[[[14.3688042949139,35.93030501562748],[14.36869457491122,35.92848848832381],[14.37198382624172,35.92833393625079],[14.37203872629834,35.92924219823539],[14.37752085327787,35.92898434943334],[14.37757582378816,35.92989260644993],[14.38086512481829,35.92973773995681],[14.38070009616035,35.9270129721337],[14.3828928746301,35.9269096677827],[14.38278281088105,35.92509315296428],[14.37401188351851,35.9255060483984],[14.37395696415348,35.92459778315475],[14.37176424617115,35.92470087639111],[14.37181913816556,35.92560914314447],[14.36853001001333,35.92576368842805],[14.36847515907499,35.92485541941198],[14.36299332027625,35.9251127328879],[14.3630481027858,35.92602100567183],[14.3608553304619,35.92612384218859],[14.36101960793673,35.92884865790614],[14.36430888758468,35.92869437698619],[14.36436369182798,35.9296026442492],[14.36546012936998,35.92955119069808],[14.36551494931376,35.93045945601563],[14.3688042949139,35.93030501562748]]],"type":"Polygon"}
+}

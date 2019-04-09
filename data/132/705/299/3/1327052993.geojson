@@ -1,0 +1,65 @@
+{
+  "id": 1327052993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.52139,35.83056,14.52139,35.83056",
+    "geom:latitude":35.83056,
+    "geom:longitude":14.52139,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Il-Brolli",
+    "gn:country_code":"MT",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562961,
+    "gn:latitude":35.83056,
+    "gn:longitude":14.52139,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Il-Brolli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Malta",
+    "iso:country":"MT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562961
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"900909d1806af114752baa3161b34d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1327052993,
+            "region_id":85686731
+        }
+    ],
+    "wof:id":1327052993,
+    "wof:lastmodified":1536731034,
+    "wof:name":"Il-Brolli",
+    "wof:parent_id":85686731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.52139,
+    35.83056,
+    14.52139,
+    35.83056
+],
+  "geometry": {"coordinates":[14.52139,35.83056],"type":"Point"}
+}

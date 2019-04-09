@@ -1,0 +1,71 @@
+{
+  "id": 1310249533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40889,35.9025,14.40889,35.9025",
+    "geom:latitude":35.9025,
+    "geom:longitude":14.40889,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Il-Qattara",
+    "gn:cc2":"MT",
+    "gn:country_code":"MT",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562892,
+    "gn:latitude":35.9025,
+    "gn:longitude":14.40889,
+    "gn:modification_date":"2014-10-28",
+    "gn:name":"Il-Qattara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Malta",
+    "iso:country":"MT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Il-Qat-ara",
+        "Il Kattara",
+        "Il-Qattara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562892
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"95edae608e7f805fac027ade0ae83ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1310249533,
+            "region_id":85686875
+        }
+    ],
+    "wof:id":1310249533,
+    "wof:lastmodified":1537665820,
+    "wof:name":"Il-Qattara",
+    "wof:parent_id":85686875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40889,
+    35.9025,
+    14.40889,
+    35.9025
+],
+  "geometry": {"coordinates":[14.40889,35.9025],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 1125805223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35333,35.92583,14.35333,35.92583",
+    "geom:latitude":35.92583,
+    "geom:longitude":14.35333,
+    "gn:gn_country":"MT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MT",
+    "lbl:latitude":35.92583,
+    "lbl:longitude":14.35333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "G\u0127ajn Tuffie\u0127a"
+    ],
+    "name:eng_x_preferred":[
+        "G\u0127ajn Tuffie\u0127a"
+    ],
+    "name:fre_x_preferred":[
+        "G\u0127ajn Tuffie\u0127a"
+    ],
+    "name:ita_x_preferred":[
+        "G\u0127ajn Tuffie\u0127a"
+    ],
+    "name:unk_x_variant":[
+        "Ghain Tuffieha"
+    ],
+    "qs_pg:aaroncc":"MT",
+    "qs_pg:gn_country":"MT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2563079,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"G\u0127ajn Tuffie\u0127a",
+    "qs_pg:name_adm0":"Malta",
+    "qs_pg:name_adm1":"Malta Majjistral",
+    "qs_pg:photos":757,
+    "qs_pg:photos_1k":153,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":757,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082819,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424897,
+    "qs_pg:woe_id":483338,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424897,
+    "woe:name_adm0":"Malta",
+    "woe:name_adm1":"Malta Majjistral",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2563079,
+        "gp:id":483338,
+        "qs_pg:id":1082819,
+        "wd:id":"Q2005526"
+    },
+    "wof:country":"MT",
+    "wof:created":1497291434,
+    "wof:geomhash":"0e73408fa4af81ec20c8776120558b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1125805223,
+            "region_id":85686929
+        }
+    ],
+    "wof:id":1125805223,
+    "wof:lastmodified":1514485324,
+    "wof:name":"G\u0127ajn Tuffie\u0127a",
+    "wof:parent_id":85686929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35333,
+    35.92583,
+    14.35333,
+    35.92583
+],
+  "geometry": {"coordinates":[14.35333,35.92583],"type":"Point"}
+}

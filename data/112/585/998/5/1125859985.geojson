@@ -1,0 +1,89 @@
+{
+  "id": 1125859985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48806,35.90583,14.48806,35.90583",
+    "geom:latitude":35.90583,
+    "geom:longitude":14.48806,
+    "gn:gn_country":"MT",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":7513,
+    "gn:population":7513,
+    "iso:country":"MT",
+    "lbl:latitude":35.90583,
+    "lbl:longitude":14.48806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0413\u0437\u0438\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Gzira"
+    ],
+    "name:unk_x_variant":[
+        "Il-G\u017cira"
+    ],
+    "qs_pg:aaroncc":"MT",
+    "qs_pg:gn_country":"MT",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":2562946,
+    "qs_pg:gn_pop":7513,
+    "qs_pg:name":"G\u017cira",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":278929,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562946,
+        "qs_pg:id":278929
+    },
+    "wof:country":"MT",
+    "wof:created":1497293788,
+    "wof:geomhash":"e37819ffb7b1a79e9a3a9a88251cd6c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1125859985,
+            "region_id":85686901
+        }
+    ],
+    "wof:id":1125859985,
+    "wof:lastmodified":1534379380,
+    "wof:name":"G\u017cira",
+    "wof:parent_id":85686901,
+    "wof:placetype":"locality",
+    "wof:population":7513,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[
+        1125782099
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48806,
+    35.90583,
+    14.48806,
+    35.90583
+],
+  "geometry": {"coordinates":[14.48806,35.90583],"type":"Point"}
+}

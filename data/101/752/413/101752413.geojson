@@ -1,0 +1,199 @@
+{
+  "id": 101752413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:area_square_m":368692.229166,
+    "geom:bbox":"14.490438,35.8958839917,14.5023851391,35.901896",
+    "geom:latitude":35.898956,
+    "geom:longitude":14.496605,
+    "gn:population":1642,
+    "iso:country":"MT",
+    "lbl:latitude":35.899039,
+    "lbl:longitude":14.496605,
+    "mps:latitude":35.899039,
+    "mps:longitude":14.496605,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627 \u0625\u0632\u0628\u064a\u0643\u0633"
+    ],
+    "name:baq_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be \u09ac\u09bf\u098f\u0995\u09cd\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:dan_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:dut_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:eng_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:fin_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:fre_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:ger_x_preferred":[
+        "Ta\u2019 Xbiex"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03b1 \u039a\u03c3\u03bc\u03c0\u03b9\u03ad\u03be"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa4\u0abe '\u0a95\u0acd\u0ab8\u0aac\u0abf\u0a8f\u0a95\u0acd\u0ab8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0' \u05e9\u05d1\u05d9\u05d0\u05e9"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u093e '\u090f\u0915\u094d\u0938\u092c\u093f\u090f\u0915\u094d\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:ind_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:ita_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30b7\u30d3\u30a4\u30b7\u30a7"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca4\u0cbe '\u0cac\u0cbf\u0cac\u0cbf\u0c95\u0ccd\u0cb8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\uc2dc\ube44\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Ta\u0161bi\u0161a"
+    ],
+    "name:lit_x_preferred":[
+        "Ta\u0161bi\u0161as"
+    ],
+    "name:mar_x_preferred":[
+        "\u0924\u093e '\u090f\u0915\u094d\u0938\u092c\u093f\u090f\u0915\u094d\u0938"
+    ],
+    "name:may_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:mlt_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:nob_x_preferred":[
+        "Ta Xbiex"
+    ],
+    "name:pol_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:por_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430-\u0428\u0431\u0438\u0448"
+    ],
+    "name:scn_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dcf'\u0d91\u0d9a\u0dca\u0dc3\u0dca\u0db6\u0dd2\u0d91\u0d9a\u0dca\u0dc3\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:swe_x_preferred":[
+        "Ta\u2019 Xbiex"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4 ' \u0bb8\u0bcd\u0baa\u0bbf\u0b8e\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c3e\u0c15\u0c4d\u0c38\u0c3f\u0c2c\u0c3f\u0c2f\u0c46\u0c15\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e32 \u0e0b\u0e35\u0e1a\u0e23\u0e34\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "Ta'Zbiex"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430-\u0428\u0431\u0456\u0448"
+    ],
+    "name:unk_x_variant":[
+        "Tas Biesh"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0622\u0634\u0628\u06cc\u0626\u0634"
+    ],
+    "name:vie_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "qs:a0":"Malta",
+    "qs:a1":"*Ta'  Xbiex",
+    "qs:a1r":"0",
+    "qs:adm0":"Malta",
+    "qs:la":"G\u0127arg\u0127ur",
+    "qs:la_lc":"*MT11524",
+    "qs:level":"locality",
+    "qs:loc":"Ta' Xbiex",
+    "qs:loc_alt":"Ta' Xbiex",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"urban core",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562320,
+        "qs:id":278922,
+        "wd:id":"Q1017348"
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"4bd19c1b110ecc0d1bcaa3554216fab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":101752413,
+            "region_id":85686869
+        }
+    ],
+    "wof:id":101752413,
+    "wof:lastmodified":1514485366,
+    "wof:name":"Ta' Xbiex",
+    "wof:parent_id":85686869,
+    "wof:placetype":"locality",
+    "wof:population":1642,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49043799999987,
+    35.89588399170145,
+    14.50238513912745,
+    35.901896
+],
+  "geometry": {"coordinates":[[[14.50024599999978,35.89929149999989],[14.50019826845534,35.89901480620296],[14.50238513912745,35.89941241905245],[14.50162750878945,35.89766986927509],[14.50008061509419,35.89648695056684],[14.49880670263917,35.89594098808629],[14.4982082405989,35.89588399170145],[14.49827671700973,35.89677418504465],[14.49695310486578,35.89703890747353],[14.49571773353148,35.89703890747353],[14.49430588057783,35.89677418504465],[14.49402472953261,35.8976176381808],[14.49325749999991,35.89730649999996],[14.49324999999982,35.89730449999979],[14.493247,35.89730449999979],[14.493249,35.89730649999996],[14.49387599999977,35.89816949999994],[14.4928129999999,35.89790649999986],[14.49277049999978,35.89915549999984],[14.49043799999987,35.89911299999989],[14.492287,35.90082199999989],[14.49340199999978,35.901896],[14.49676549999992,35.90099599999985],[14.49840099999989,35.90063849999996],[14.49989949999969,35.900224],[14.50024599999978,35.89929149999989]]],"type":"Polygon"}
+}

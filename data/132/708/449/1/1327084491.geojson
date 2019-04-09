@@ -1,0 +1,65 @@
+{
+  "id": 1327084491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49056,35.85278,14.49056,35.85278",
+    "geom:latitude":35.85278,
+    "geom:longitude":14.49056,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Ta' Bir Miftuh",
+    "gn:country_code":"MT",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562486,
+    "gn:latitude":35.85278,
+    "gn:longitude":14.49056,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ta\u2019 Bir Miftu\u0127",
+    "gn:population":0,
+    "gn:timezone":"Europe/Malta",
+    "iso:country":"MT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562486
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"5078e682d1e714ed98d3fa139e65c32f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1327084491,
+            "region_id":85686775
+        }
+    ],
+    "wof:id":1327084491,
+    "wof:lastmodified":1536685488,
+    "wof:name":"Ta' Bir Miftuh",
+    "wof:parent_id":85686775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49056,
+    35.85278,
+    14.49056,
+    35.85278
+],
+  "geometry": {"coordinates":[14.49056,35.85278],"type":"Point"}
+}

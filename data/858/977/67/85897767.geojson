@@ -1,0 +1,107 @@
+{
+  "id": 85897767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":22831789.148801,
+    "geom:bbox":"14.367241,35.959384,14.367241,35.959384",
+    "geom:latitude":35.959384,
+    "geom:longitude":14.367241,
+    "iso:country":"MT",
+    "lbl:latitude":35.959384,
+    "lbl:longitude":14.367241,
+    "mps:latitude":35.952871,
+    "mps:longitude":14.375993,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:und_x_colloquial":[
+        "Ix-Xaghra ta' Barra"
+    ],
+    "name:und_x_preferred":[
+        "Ix-Xag\u0127ra ta' Barra"
+    ],
+    "name:unk_x_variant":[
+        "Ix-Xag\u0127ra ta' Barra"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"34",
+    "qs:gn_name":"Ix-Xag\u0127ra ta\u2019 Barra",
+    "qs:local_max":949,
+    "qs:local_sum":1832,
+    "qs:localhoods":2,
+    "qs:name":"Ix-Xag\u0127ra ta' Barra",
+    "qs:name_adm0":"Malta",
+    "qs:name_adm1":"Malta Majjistral",
+    "qs:name_adm2":"Mellie\u0127a",
+    "qs:name_local":"Mellie\u0127a",
+    "qs:photo_max":209,
+    "qs:photo_sum":949,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":59,
+    "qs:woe_adm0":23424897,
+    "qs:woe_adm1":56043491,
+    "qs:woe_adm2":24551366,
+    "qs:woe_lau":0,
+    "qs:woe_local":483432,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101752447,
+        85633331,
+        85686947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2564546,
+        "gp:id":483402,
+        "qs:id":1082821,
+        "qs_pg:id":1082821
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"63a7de46158916fa2f06f43db0a80f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":101752447,
+            "neighbourhood_id":85897767,
+            "region_id":85686947
+        }
+    ],
+    "wof:id":85897767,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531931937,
+    "wof:name":"Ix-Xag\u0127ra ta' Barra",
+    "wof:parent_id":101752447,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.367241,
+    35.959384,
+    14.367241,
+    35.959384
+],
+  "geometry": {"coordinates":[14.367241,35.959384],"type":"Point"}
+}

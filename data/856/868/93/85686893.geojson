@@ -1,0 +1,116 @@
+{
+  "id": 85686893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:area_square_m":966753.842825,
+    "geom:bbox":"14.487236,35.9004405,14.5081625,35.909824",
+    "geom:latitude":35.904807,
+    "geom:longitude":14.495856,
+    "iso:country":"MT",
+    "label:eng_x_preferred_longname":[
+        "Gzira Local Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "local council"
+    ],
+    "lbl:latitude":35.905151,
+    "lbl:longitude":14.492526,
+    "mps:latitude":35.905151,
+    "mps:longitude":14.492526,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "G\u017cira"
+    ],
+    "name:ceb_x_preferred":[
+        "Il-G\u017cira"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0437\u0438\u0440\u0430"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06af\u0632\u06cc\u0631\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "G\u017cira"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b6\u03af\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Gzira"
+    ],
+    "name:eus_x_preferred":[
+        "G\u017cira"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0632\u06cc\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Il-G\u017cira"
+    ],
+    "name:spa_x_preferred":[
+        "G\u017cira"
+    ],
+    "qs:a0":"Malta",
+    "qs:a0_lc":"MT00000",
+    "qs:a1":"Gzira",
+    "qs:a1_alt":"Gzira",
+    "qs:a1_lc":"MT11221",
+    "qs:adm0":"Malta",
+    "qs:adm0_a3":"MLT",
+    "qs:level":"adm1",
+    "qs:source":"EuroGlobalMap",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"MT-12",
+    "wof:belongsto":[
+        102191581,
+        85633331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "unlc:id":"MT-12"
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"12c050b8218be299027fdfb88ecc9ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "region_id":85686893
+        }
+    ],
+    "wof:id":85686893,
+    "wof:lang_x_official":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lastmodified":1553624328,
+    "wof:name":"Gzira",
+    "wof:parent_id":85633331,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:subdivision":"MT-12",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4872359999998,
+    35.90044049999985,
+    14.5081624999998,
+    35.90982399999984
+],
+  "geometry": {"coordinates":[[[14.49873499999978,35.90737999999985],[14.49592049999978,35.90466499999985],[14.49741549999979,35.90463999999986],[14.50022749999979,35.90600549999985],[14.50069999999979,35.90545],[14.50070299999979,35.90545],[14.50568299999978,35.90533199999985],[14.5081624999998,35.90379249999987],[14.50661449999978,35.90323999999987],[14.50502449999979,35.90139899999986],[14.5028839999998,35.90140199999985],[14.49964149999979,35.90303749999987],[14.49694849999977,35.90324549999985],[14.49608249999977,35.90444149999985],[14.49546349999977,35.90311799999986],[14.49662899999979,35.90112849999986],[14.49356549999979,35.90178],[14.49245,35.90070349999985],[14.49148249999979,35.90136749999985],[14.48850599999978,35.90044049999985],[14.48776099999978,35.90119599999986],[14.48929149999978,35.90326699999986],[14.4872359999998,35.90439249999986],[14.49028349999978,35.90754349999985],[14.48961849999978,35.90912649999987],[14.49469299999978,35.90982399999984],[14.49458899999979,35.90869149999986],[14.49727349999978,35.90937049999985],[14.49873499999978,35.90737999999985]]],"type":"Polygon"}
+}

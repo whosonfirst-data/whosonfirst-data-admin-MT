@@ -1,0 +1,152 @@
+{
+  "id": 85686789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000865,
+    "geom:area_square_m":8670794.398159,
+    "geom:bbox":"14.4119075,35.8604205,14.466599,35.8862305",
+    "geom:latitude":35.873593,
+    "geom:longitude":14.436537,
+    "iso:country":"MT",
+    "label:eng_x_preferred_longname":[
+        "Zebbug (Malta) (Citta' Rohan) Local Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "local council"
+    ],
+    "lbl:latitude":35.872651,
+    "lbl:longitude":14.436015,
+    "mps:latitude":35.872651,
+    "mps:longitude":14.436015,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Zebbug (Malta) (Citta' Rohan)"
+    ],
+    "name:mlt_x_preferred":[
+        "\u0126a\u017c-\u017bebbu\u0121"
+    ],
+    "name:mlt_x_variant":[
+        "\u017bebbu\u0121"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MLT",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"MLT-5946",
+    "ne:adm1_code":"MLT-5946",
+    "ne:admin":"Malta",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MT",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5946",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Malta",
+    "ne:gn_a1_code":"MT.65",
+    "ne:gn_id":"8299763",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Haz-Zebbug",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MT65",
+    "ne:gns_id":"11536396",
+    "ne:gns_lang":"mlt",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Haz-Zebbug",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MLT",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MT-",
+    "ne:iso_a2":"MT",
+    "ne:labelrank":"20",
+    "ne:latitude":"35.87130000000",
+    "ne:longitude":"14.43650000000",
+    "ne:mapcolor13":8,
+    "ne:mapcolor9":1,
+    "ne:name":"\u017bebbu\u0121",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"Malta Majjistral",
+    "ne:region_cod":"",
+    "ne:region_sub":"Western",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MLT",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":24551370,
+    "ne:woe_label":"",
+    "ne:woe_name":"Malta",
+    "qs:a0":"Malta",
+    "qs:a0_lc":"MT00000",
+    "qs:a1":"Zebbug (Malta) (Citta' Rohan)",
+    "qs:a1_alt":"Zebbug (Malta) (Citta' Rohan)",
+    "qs:a1_lc":"MT11407",
+    "qs:adm0":"Malta",
+    "qs:adm0_a3":"MLT",
+    "qs:level":"adm1",
+    "qs:source":"EuroGlobalMap",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":8299763,
+        "gp:id":24551370,
+        "hasc:id":"MT"
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"0c39e91a1634839d9e624d931979bdbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "region_id":85686789
+        }
+    ],
+    "wof:id":85686789,
+    "wof:lang_x_official":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lastmodified":1553624330,
+    "wof:name":"Zebbug (Malta) (Citta' Rohan)",
+    "wof:parent_id":85633331,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:shortcode":"MT",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41190749999978,
+    35.86042049999986,
+    14.46659899999977,
+    35.88623049999987
+],
+  "geometry": {"coordinates":[[[14.45469799999978,35.88465549999987],[14.45081099999979,35.88140849999985],[14.452315,35.87920799999986],[14.45321499999977,35.87919649999986],[14.45223349999978,35.87792599999986],[14.4546009999998,35.87551949999985],[14.4607244999998,35.87481699999987],[14.46017599999979,35.87319599999987],[14.4633134999998,35.87234449999985],[14.46307049999979,35.87044149999986],[14.46391599999978,35.87051799999986],[14.46415449999978,35.86947299999986],[14.4638654999998,35.86602049999985],[14.46659899999977,35.86461349999985],[14.4646304999998,35.86445649999985],[14.46597349999979,35.86356399999985],[14.46503499999977,35.86347149999986],[14.46302049999977,35.86481899999987],[14.46153349999977,35.86400999999987],[14.45905549999978,35.86501699999985],[14.45675299999979,35.86766849999987],[14.45304899999979,35.86849999999987],[14.4508739999998,35.86736699999986],[14.45012999999977,35.86616149999986],[14.4478799999998,35.86736699999986],[14.44575699999979,35.86723349999986],[14.44405499999979,35.86397199999985],[14.44108449999979,35.86214849999985],[14.43412649999979,35.86042049999986],[14.43271849999979,35.86072499999986],[14.43114249999979,35.86235849999986],[14.42897099999979,35.86198049999984],[14.42388749999978,35.86369749999986],[14.42024099999978,35.86641349999985],[14.41691899999978,35.86670349999986],[14.41433949999978,35.86980449999984],[14.41388099999978,35.87380649999986],[14.41190749999978,35.87842949999987],[14.41342399999979,35.88338099999984],[14.41511599999978,35.88380449999985],[14.42273849999978,35.88252649999987],[14.42712549999979,35.88108099999985],[14.43178699999979,35.88253049999986],[14.43362649999978,35.88245049999986],[14.43729049999979,35.88545999999985],[14.44574499999979,35.88543749999985],[14.4489379999998,35.88623049999987],[14.45469799999978,35.88465549999987]]],"type":"Polygon"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327292741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35556,35.91306,14.35556,35.91306",
+    "geom:latitude":35.91306,
+    "geom:longitude":14.35556,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"L-Iskorvit",
+    "gn:country_code":"MT",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562793,
+    "gn:latitude":35.91306,
+    "gn:longitude":14.35556,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"L-Iskorvit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Malta",
+    "iso:country":"MT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta\u2019 L-Iskirvit",
+        "L-Iskirvit",
+        "Tal Iscorvit",
+        "Tal Iskolviet",
+        "Ta Liscurvit",
+        "L-Iskorvit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562793
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"902251aa44defb73c6f278c3c1eafeb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1327292741,
+            "region_id":85686929
+        }
+    ],
+    "wof:id":1327292741,
+    "wof:lastmodified":1537665819,
+    "wof:name":"L-Iskorvit",
+    "wof:parent_id":85686929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35556,
+    35.91305999999999,
+    14.35556,
+    35.91305999999999
+],
+  "geometry": {"coordinates":[14.35556,35.91305999999999],"type":"Point"}
+}

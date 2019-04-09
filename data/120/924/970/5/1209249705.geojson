@@ -1,0 +1,65 @@
+{
+  "id": 1209249705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45194,35.85083,14.45194,35.85083",
+    "geom:latitude":35.85083,
+    "geom:longitude":14.45194,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Tas-Salvatur",
+    "gn:country_code":"MT",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562334,
+    "gn:latitude":35.85083,
+    "gn:longitude":14.45194,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tas-Salvatur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Malta",
+    "iso:country":"MT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta Salvatur",
+        "Tas-Salvatur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562334
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"957938d07fda77919965ca62c2be85d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633331,
+            "locality_id":1209249705
+        }
+    ],
+    "wof:id":1209249705,
+    "wof:lastmodified":1537665818,
+    "wof:name":"Tas-Salvatur",
+    "wof:parent_id":85633331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45194,
+    35.85083,
+    14.45194,
+    35.85083
+],
+  "geometry": {"coordinates":[14.45194,35.85083],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276259621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.38583,35.88278,14.38583,35.88278",
+    "geom:latitude":35.88278,
+    "geom:longitude":14.38583,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Nigred",
+    "gn:cc2":"MT",
+    "gn:country_code":"MT",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562679,
+    "gn:latitude":35.88278,
+    "gn:longitude":14.38583,
+    "gn:modification_date":"2014-10-28",
+    "gn:name":"Nigred",
+    "gn:population":0,
+    "gn:timezone":"Europe/Malta",
+    "iso:country":"MT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "In-Nigret",
+        "Nigred"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562679
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"58489b41080cb1967a1546fd48d42f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1276259621,
+            "region_id":85686875
+        }
+    ],
+    "wof:id":1276259621,
+    "wof:lastmodified":1537665819,
+    "wof:name":"Nigred",
+    "wof:parent_id":85686875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.38583,
+    35.88278,
+    14.38583,
+    35.88278
+],
+  "geometry": {"coordinates":[14.38583,35.88278],"type":"Point"}
+}

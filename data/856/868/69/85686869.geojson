@@ -1,0 +1,142 @@
+{
+  "id": 85686869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":272901.070124,
+    "geom:bbox":"14.490602,35.8973065,14.500428,35.90178",
+    "geom:latitude":35.899426,
+    "geom:longitude":14.495958,
+    "iso:country":"MT",
+    "label:eng_x_preferred_longname":[
+        "Ta'  Xbiex Local Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "local council"
+    ],
+    "lbl:latitude":35.899534,
+    "lbl:longitude":14.495958,
+    "mps:latitude":35.899534,
+    "mps:longitude":14.495958,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:ceb_x_preferred":[
+        "Ta\u2019 Xbiex"
+    ],
+    "name:deu_x_preferred":[
+        "Ta\u2019 Xbiex"
+    ],
+    "name:eng_x_preferred":[
+        "Ta'  Xbiex"
+    ],
+    "name:eus_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:fra_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0' \u05e9\u05d1\u05d9\u05d0\u05e9"
+    ],
+    "name:hun_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:ita_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\uc2dc\ube44\uc2dc"
+    ],
+    "name:lit_x_preferred":[
+        "Ta\u0161bi\u0161as"
+    ],
+    "name:mlt_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:nld_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:pol_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:por_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:scn_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:spa_x_preferred":[
+        "Ta' Xbiex"
+    ],
+    "name:swe_x_preferred":[
+        "Ta\u2019 Xbiex"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0622\u0634\u0628\u06cc\u0626\u0634"
+    ],
+    "qs:a0":"Malta",
+    "qs:a0_lc":"MT00000",
+    "qs:a1":"Ta'  Xbiex",
+    "qs:a1_alt":"Ta'  Xbiex",
+    "qs:a1_lc":"MT11261",
+    "qs:adm0":"Malta",
+    "qs:adm0_a3":"MLT",
+    "qs:level":"adm1",
+    "qs:source":"EuroGlobalMap",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"MT-58",
+    "wd:wordcount":170,
+    "wof:belongsto":[
+        102191581,
+        85633331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "unlc:id":"MT-58",
+        "wd:id":"Q1017348"
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"fcba8d8075b65a8a81fe74fd1f22acd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "region_id":85686869
+        }
+    ],
+    "wof:id":85686869,
+    "wof:lang_x_official":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lastmodified":1553624330,
+    "wof:name":"Ta'  Xbiex",
+    "wof:parent_id":85633331,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:subdivision":"MT-58",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4906019999998,
+    35.89730649999987,
+    14.50042799999977,
+    35.90178
+],
+  "geometry": {"coordinates":[[[14.49662899999979,35.90112849999986],[14.50042799999977,35.90010099999986],[14.50040399999978,35.89993799999985],[14.50003099999978,35.89748799999987],[14.49784399999979,35.89765399999984],[14.49565699999979,35.89781899999986],[14.4932575,35.89730649999987],[14.49403999999978,35.89805249999986],[14.4929764999998,35.89778949999985],[14.49293399999979,35.89903649999985],[14.4906019999998,35.89899449999984],[14.49245,35.90070349999985],[14.49356549999979,35.90178],[14.49662899999979,35.90112849999986]]],"type":"Polygon"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 101846481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":319976.820373,
+    "geom:bbox":"14.3800475201,35.9524437214,14.3892629176,35.9613191301",
+    "geom:latitude":35.957143,
+    "geom:longitude":14.384589,
+    "iso:country":"MT",
+    "lbl:latitude":35.957328,
+    "lbl:longitude":14.384135,
+    "mps:latitude":35.957328,
+    "mps:longitude":14.384135,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Xemxija"
+    ],
+    "name:dut_x_preferred":[
+        "Xemxija"
+    ],
+    "name:eng_x_preferred":[
+        "Xemxija"
+    ],
+    "name:fre_x_preferred":[
+        "Xemxija"
+    ],
+    "name:hun_x_preferred":[
+        "Xemxija"
+    ],
+    "name:mlt_x_preferred":[
+        "Xemxija"
+    ],
+    "qs:a0":"Malta",
+    "qs:a1":"*Mellieha",
+    "qs:a1r":"0",
+    "qs:adm0":"Malta",
+    "qs:la":"Mellie\u0127a",
+    "qs:la_lc":"*MT11537",
+    "qs:level":"locality",
+    "qs:loc":"Xemxija",
+    "qs:loc_alt":"Xemxija",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":483443,
+        "qs:id":9,
+        "wd:id":"Q570499"
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"1a1219b09dca1bb28d440e7969e03716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":101846481,
+            "region_id":85686947
+        }
+    ],
+    "wof:id":101846481,
+    "wof:lastmodified":1514485371,
+    "wof:name":"Xemxija",
+    "wof:parent_id":85686947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.38004752012358,
+    35.95244372136102,
+    14.38926291761652,
+    35.96131913006468
+],
+  "geometry": {"coordinates":[[[14.38827634113608,35.96126740391225],[14.38816604147087,35.95945098418701],[14.38926291761652,35.9593992466327],[14.38915259864712,35.95758282366211],[14.38695889981136,35.95768628282048],[14.38690377076978,35.9567780680332],[14.38580693301901,35.95682977747776],[14.38575181970435,35.95592156074213],[14.38465499429947,35.95597325651158],[14.38454480114495,35.95415681795345],[14.38235120107288,35.9542601677108],[14.38224107081351,35.95244372136102],[14.38004752012358,35.95254701642278],[14.38010255684173,35.95345524170659],[14.38119934656424,35.95340359987745],[14.38147462898507,35.9579447046541],[14.38257148586172,35.95789304612293],[14.38262656211566,35.95880126274983],[14.38372343133989,35.95874959054379],[14.38377852332047,35.95965780522289],[14.38597228510889,35.95955442054145],[14.38602740652067,35.96046263251515],[14.38712429908429,35.96041092003924],[14.38717943622521,35.96131913006468],[14.38827634113608,35.96126740391225]]],"type":"Polygon"}
+}

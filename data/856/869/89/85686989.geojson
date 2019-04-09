@@ -1,0 +1,187 @@
+{
+  "id": 85686989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000544,
+    "geom:area_square_m":5437180.556565,
+    "geom:bbox":"14.193307,36.031316,14.2338045,36.0554745",
+    "geom:latitude":36.042681,
+    "geom:longitude":14.215419,
+    "iso:country":"MT",
+    "label:eng_x_preferred_longname":[
+        "Kercem Local Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "local council"
+    ],
+    "lbl:latitude":36.04317,
+    "lbl:longitude":14.215704,
+    "mps:latitude":36.04317,
+    "mps:longitude":14.215704,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Ker\u010bem"
+    ],
+    "name:ceb_x_preferred":[
+        "Ta\u2019 Ker\u010bem"
+    ],
+    "name:deu_x_preferred":[
+        "Ker\u010bem"
+    ],
+    "name:eng_x_preferred":[
+        "Kercem"
+    ],
+    "name:eus_x_preferred":[
+        "Ker\u010bem"
+    ],
+    "name:fra_x_preferred":[
+        "Ta' Ker\u010bem"
+    ],
+    "name:hun_x_preferred":[
+        "Ker\u010bem"
+    ],
+    "name:ita_x_preferred":[
+        "Ker\u010bem"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf00\ub974\uccc4"
+    ],
+    "name:lit_x_preferred":[
+        "Kercemas"
+    ],
+    "name:mlt_x_preferred":[
+        "Ta\u2019 Ker\u010bem"
+    ],
+    "name:mlt_x_variant":[
+        "Ker\u010bem"
+    ],
+    "name:spa_x_preferred":[
+        "Ker\u010bem"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MLT",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"8",
+    "ne:adm1_cod_1":"MLT-5981",
+    "ne:adm1_code":"MLT-5981",
+    "ne:admin":"Malta",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"-99",
+    "ne:code_local":"",
+    "ne:datarank":"11",
+    "ne:diss_me":"5981",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Malta",
+    "ne:gn_a1_code":"MT.27",
+    "ne:gn_id":"8299726",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Ta' Kercem",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MT27",
+    "ne:gns_id":"11534634",
+    "ne:gns_lang":"mlt",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Ta' Kercem",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MLT",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MT-",
+    "ne:iso_a2":"MT",
+    "ne:labelrank":"20",
+    "ne:latitude":"36.03610000000",
+    "ne:longitude":"14.21450000000",
+    "ne:mapcolor13":8,
+    "ne:mapcolor9":1,
+    "ne:name":"Ker\u010bem",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"Gozo",
+    "ne:region_cod":"",
+    "ne:region_sub":"Gozo and Comino",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"11",
+    "ne:sov_a3":"MLT",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":24551358,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Malta",
+    "qs:a0_lc":"MT00000",
+    "qs:a1":"Kercem",
+    "qs:a1_alt":"Kercem",
+    "qs:a1_lc":"MT12630",
+    "qs:adm0":"Malta",
+    "qs:adm0_a3":"MLT",
+    "qs:level":"adm1",
+    "qs:source":"EuroGlobalMap",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"MT-22",
+    "wd:wordcount":424,
+    "wof:belongsto":[
+        102191581,
+        85633331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":8299726,
+        "gp:id":24551358,
+        "hasc:id":"-99",
+        "unlc:id":"MT-22",
+        "wd:id":"Q674679"
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"52b3658d575f7c547951fc3c6e4db53d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "region_id":85686989
+        }
+    ],
+    "wof:id":85686989,
+    "wof:lang_x_official":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lastmodified":1553624329,
+    "wof:name":"Kercem",
+    "wof:parent_id":85633331,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:shortcode":"99",
+    "wof:subdivision":"MT-22",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19330699999978,
+    36.03131599999986,
+    14.23380449999979,
+    36.05547449999986
+],
+  "geometry": {"coordinates":[[[14.21817299999978,36.05442949999986],[14.22102999999978,36.05254499999987],[14.22424999999978,36.05217849999985],[14.22624749999977,36.05025249999986],[14.22985349999979,36.04829199999986],[14.22971899999979,36.04592999999986],[14.23279099999979,36.04267649999985],[14.23305799999977,36.04001749999986],[14.23380449999979,36.03773999999987],[14.23261899999977,36.03642399999987],[14.22965349999978,36.03543599999986],[14.22546749999978,36.03758349999987],[14.21270749999979,36.03172449999985],[14.21262899999979,36.03131599999986],[14.21034099999977,36.03137649999985],[14.20925749999978,36.03299],[14.20539799999978,36.03349699999987],[14.20538249999979,36.03349949999986],[14.20515699999979,36.03352849999985],[14.20484699999977,36.03376449999985],[14.20439349999978,36.03410649999987],[14.20375249999978,36.03459199999985],[14.20353699999978,36.03475499999985],[14.20349649999977,36.03474949999986],[14.19506149999978,36.03360549999985],[14.19406649999979,36.03347149999985],[14.1933209999998,36.03337049999984],[14.19330699999978,36.03336799999985],[14.19887349999979,36.03641999999984],[14.1970139999998,36.03831249999985],[14.19674749999979,36.04065849999986],[14.20008949999979,36.04154699999987],[14.20651799999979,36.04569749999985],[14.2045899999998,36.04741749999985],[14.20453849999979,36.04864249999986],[14.20575099999979,36.05007299999986],[14.20800299999979,36.05061099999986],[14.20957099999978,36.05329999999987],[14.20870699999978,36.05393349999986],[14.20922649999977,36.05473849999987],[14.21048149999979,36.05434199999985],[14.2142039999998,36.05547449999986],[14.21817299999978,36.05442949999986]]],"type":"Polygon"}
+}

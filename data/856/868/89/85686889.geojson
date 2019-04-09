@@ -1,0 +1,158 @@
+{
+  "id": 85686889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":838583.916785,
+    "geom:bbox":"14.505595,35.8932385,14.5203325,35.903608",
+    "geom:latitude":35.898634,
+    "geom:longitude":14.512747,
+    "iso:country":"MT",
+    "label:eng_x_preferred_longname":[
+        "Valletta (Citta' Umilissima) Local Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "local council"
+    ],
+    "lbl:latitude":35.898936,
+    "lbl:longitude":14.512859,
+    "mps:latitude":35.898936,
+    "mps:longitude":14.512859,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Valletta (Citta' Umilissima)"
+    ],
+    "name:mlt_x_preferred":[
+        "Il-Belt Valletta"
+    ],
+    "name:mlt_x_variant":[
+        "Valletta"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MLT",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"MLT-5949",
+    "ne:adm1_code":"MLT-5949",
+    "ne:admin":"Malta",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MT",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5949",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Malta",
+    "ne:gn_a1_code":"MT.60",
+    "ne:gn_id":"8334638",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Il-Belt Valletta",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MT60",
+    "ne:gns_id":"11536204",
+    "ne:gns_lang":"mlt",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Il-Belt Valletta",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MLT",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MT-",
+    "ne:iso_a2":"MT",
+    "ne:labelrank":"20",
+    "ne:latitude":"35.89480000000",
+    "ne:longitude":"14.51100000000",
+    "ne:mapcolor13":8,
+    "ne:mapcolor9":1,
+    "ne:name":"Valletta",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"Malta Xlokk",
+    "ne:region_cod":"",
+    "ne:region_sub":"Southern Harbour",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MLT",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":24551399,
+    "ne:woe_label":"",
+    "ne:woe_name":"Malta",
+    "qs:a0":"Malta",
+    "qs:a0_lc":"MT00000",
+    "qs:a1":"Valletta (Citta' Umilissima)",
+    "qs:a1_alt":"Valletta (Citta' Umilissima)",
+    "qs:a1_lc":"MT11101",
+    "qs:adm0":"Malta",
+    "qs:adm0_a3":"MLT",
+    "qs:level":"adm1",
+    "qs:source":"EuroGlobalMap",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"MT-60",
+    "wof:belongsto":[
+        102191581,
+        85633331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":8334638,
+        "gp:id":24551399,
+        "hasc:id":"MT",
+        "unlc:id":"MT-60"
+    },
+    "wof:coterminous":[
+        101752423
+    ],
+    "wof:country":"MT",
+    "wof:geomhash":"9dbc64341d7eb7ce73ffb0f71e183c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "region_id":85686889
+        }
+    ],
+    "wof:id":85686889,
+    "wof:lang_x_official":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lastmodified":1553624330,
+    "wof:name":"Valletta (Citta' Umilissima)",
+    "wof:parent_id":85633331,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:shortcode":"MT",
+    "wof:subdivision":"MT-60",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50559499999977,
+    35.89323849999985,
+    14.52033249999979,
+    35.90360799999985
+],
+  "geometry": {"coordinates":[[[14.51095899999978,35.89323849999985],[14.51077349999977,35.89416899999986],[14.50857099999979,35.89376499999986],[14.50824199999979,35.89524099999986],[14.50615049999979,35.89628249999987],[14.50559499999977,35.89917799999986],[14.50839249999979,35.90067249999987],[14.51011699999978,35.90057399999986],[14.51265249999977,35.90256099999985],[14.51395649999978,35.90270599999985],[14.51530449999979,35.90166399999987],[14.51727149999979,35.90360799999985],[14.52033249999979,35.90322549999985],[14.51834499999978,35.89891849999986],[14.51825899999977,35.89725549999986],[14.51449399999979,35.89625749999985],[14.51449099999979,35.89625699999985],[14.51280999999977,35.89388049999985],[14.51095899999978,35.89323849999985]]],"type":"Polygon"}
+}

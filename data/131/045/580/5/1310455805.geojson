@@ -1,0 +1,70 @@
+{
+  "id": 1310455805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.36722,35.96639,14.36722,35.96639",
+    "geom:latitude":35.96639,
+    "geom:longitude":14.36722,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Ghajn Zejtuna",
+    "gn:country_code":"MT",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2563075,
+    "gn:latitude":35.96639,
+    "gn:longitude":14.36722,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"G\u0127ajn \u017bejtuna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Malta",
+    "iso:country":"MT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghain Zeituna",
+        "G\u0127ajn \u017bejtuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686947,
+        1175612955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2563075
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"6ab35d3719277b5246ded4f55ef95f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1310455805,
+            "region_id":85686947
+        }
+    ],
+    "wof:id":1310455805,
+    "wof:lastmodified":1537665821,
+    "wof:name":"Ghajn Zejtuna",
+    "wof:parent_id":1175612955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.36722,
+    35.96639000000001,
+    14.36722,
+    35.96639000000001
+],
+  "geometry": {"coordinates":[14.36722,35.96639000000001],"type":"Point"}
+}

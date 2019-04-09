@@ -1,0 +1,70 @@
+{
+  "id": 1243002477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49083,35.82806,14.49083,35.82806",
+    "geom:latitude":35.82806,
+    "geom:longitude":14.49083,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Misrah Hlantun",
+    "gn:country_code":"MT",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562717,
+    "gn:latitude":35.82806,
+    "gn:longitude":14.49083,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Misra\u0127 \u0126lantun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Malta",
+    "iso:country":"MT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Misrah Blandun",
+        "Misrah Blandon",
+        "Misra\u0127 \u0126lantun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562717
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"f77d0834cd8fa226941698565366ac76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1243002477,
+            "region_id":85686727
+        }
+    ],
+    "wof:id":1243002477,
+    "wof:lastmodified":1537665819,
+    "wof:name":"Misrah Hlantun",
+    "wof:parent_id":85686727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49083,
+    35.82806,
+    14.49083,
+    35.82806
+],
+  "geometry": {"coordinates":[14.49083,35.82806],"type":"Point"}
+}

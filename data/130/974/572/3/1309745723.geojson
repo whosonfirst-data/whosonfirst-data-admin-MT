@@ -1,0 +1,65 @@
+{
+  "id": 1309745723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49444,35.83472,14.49444,35.83472",
+    "geom:latitude":35.83472,
+    "geom:longitude":14.49444,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Tal-Liebru",
+    "gn:country_code":"MT",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562388,
+    "gn:latitude":35.83472,
+    "gn:longitude":14.49444,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tal-Liebru",
+    "gn:population":0,
+    "gn:timezone":"Europe/Malta",
+    "iso:country":"MT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562388
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"c0d3a1ec21ea940ede07ed8b9a47fd40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1309745723,
+            "region_id":85686727
+        }
+    ],
+    "wof:id":1309745723,
+    "wof:lastmodified":1537017098,
+    "wof:name":"Tal-Liebru",
+    "wof:parent_id":85686727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49444,
+    35.83472000000001,
+    14.49444,
+    35.83472000000001
+],
+  "geometry": {"coordinates":[14.49444,35.83472000000001],"type":"Point"}
+}

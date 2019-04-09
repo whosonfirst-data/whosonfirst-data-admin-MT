@@ -1,0 +1,185 @@
+{
+  "id": 85686919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000202,
+    "geom:area_square_m":2022859.357103,
+    "geom:bbox":"14.447738,35.912407,14.4657185,35.9333005",
+    "geom:latitude":35.922891,
+    "geom:longitude":14.455807,
+    "iso:country":"MT",
+    "label:eng_x_preferred_longname":[
+        "Gharghur Local Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "local council"
+    ],
+    "lbl:latitude":35.922688,
+    "lbl:longitude":14.454445,
+    "mps:latitude":35.922688,
+    "mps:longitude":14.454445,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "G\u0127arg\u0127ur"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0126al G\u0127arg\u0127ur"
+    ],
+    "name:ces_x_preferred":[
+        "G\u0127arg\u0127ur"
+    ],
+    "name:deu_x_preferred":[
+        "G\u0127arg\u0127ur"
+    ],
+    "name:eng_x_preferred":[
+        "Gharghur"
+    ],
+    "name:eus_x_preferred":[
+        "G\u0127arg\u0127ur"
+    ],
+    "name:fra_x_preferred":[
+        "\u0126al G\u0127arg\u0127ur"
+    ],
+    "name:hun_x_preferred":[
+        "G\u0127arg\u0127ur"
+    ],
+    "name:ita_x_preferred":[
+        "Gargur"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ub974\uc6b0\ub974"
+    ],
+    "name:mlt_x_preferred":[
+        "\u0126al G\u0127arg\u0127ur"
+    ],
+    "name:mlt_x_variant":[
+        "G\u0127arg\u0127ur"
+    ],
+    "name:spa_x_preferred":[
+        "G\u0127arg\u0127ur"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MLT",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"MLT-5932",
+    "ne:adm1_code":"MLT-5932",
+    "ne:admin":"Malta",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MT",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5932",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Malta",
+    "ne:gn_a1_code":"MT.13",
+    "ne:gn_id":"8299712",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Hal Gharghur",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MT13",
+    "ne:gns_id":"11534054",
+    "ne:gns_lang":"mlt",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Hal Gharghur",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MLT",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MT-",
+    "ne:iso_a2":"MT",
+    "ne:labelrank":"20",
+    "ne:latitude":"35.91880000000",
+    "ne:longitude":"14.45530000000",
+    "ne:mapcolor13":8,
+    "ne:mapcolor9":1,
+    "ne:name":"G\u0127arg\u0127ur",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"Malta Majjistral",
+    "ne:region_cod":"",
+    "ne:region_sub":"Northern",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MLT",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":24551405,
+    "ne:woe_label":"",
+    "ne:woe_name":"Malta",
+    "qs:a0":"Malta",
+    "qs:a0_lc":"MT00000",
+    "qs:a1":"Gharghur",
+    "qs:a1_alt":"Gharghur",
+    "qs:a1_lc":"MT11524",
+    "qs:adm0":"Malta",
+    "qs:adm0_a3":"MLT",
+    "qs:level":"adm1",
+    "qs:source":"EuroGlobalMap",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"MT-15",
+    "wof:belongsto":[
+        102191581,
+        85633331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":8299712,
+        "gp:id":24551405,
+        "hasc:id":"MT",
+        "unlc:id":"MT-15"
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"659f238aa393678dbee1d6aef6f3ca75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "region_id":85686919
+        }
+    ],
+    "wof:id":85686919,
+    "wof:lang_x_official":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lastmodified":1553624328,
+    "wof:name":"Gharghur",
+    "wof:parent_id":85633331,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:shortcode":"MT",
+    "wof:subdivision":"MT-15",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.44773799999979,
+    35.91240699999986,
+    14.46571849999978,
+    35.93330049999986
+],
+  "geometry": {"coordinates":[[[14.46415,35.91531349999985],[14.46277949999978,35.91240699999986],[14.45887599999978,35.91610349999985],[14.45612749999978,35.91675599999985],[14.45132749999979,35.91633999999985],[14.44773799999979,35.92094849999987],[14.44939199999979,35.92611349999987],[14.44908749999979,35.92761249999987],[14.44783899999979,35.92884049999986],[14.45174349999979,35.93233149999986],[14.45386149999979,35.93243799999985],[14.45507599999979,35.93330049999986],[14.4559064999998,35.93103049999985],[14.46107049999978,35.92820049999986],[14.45999649999979,35.92375149999987],[14.46057649999977,35.92260749999986],[14.46111349999978,35.92274499999985],[14.46346699999978,35.92000999999984],[14.46571849999978,35.91913249999985],[14.46415,35.91531349999985]]],"type":"Polygon"}
+}

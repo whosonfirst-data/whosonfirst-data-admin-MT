@@ -1,0 +1,70 @@
+{
+  "id": 1293031313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.36583,35.88611,14.36583,35.88611",
+    "geom:latitude":35.88611,
+    "geom:longitude":14.36583,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"L-Andrijiet",
+    "gn:cc2":"MT",
+    "gn:country_code":"MT",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562809,
+    "gn:latitude":35.88611,
+    "gn:longitude":14.36583,
+    "gn:modification_date":"2014-10-28",
+    "gn:name":"L-Andrijiet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Malta",
+    "iso:country":"MT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u2018Andrijet",
+        "L-Andrijiet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562809
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"119eee85f9cf48fd74a51389c6de2b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1293031313,
+            "region_id":85686875
+        }
+    ],
+    "wof:id":1293031313,
+    "wof:lastmodified":1537665820,
+    "wof:name":"L-Andrijiet",
+    "wof:parent_id":85686875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.36583,
+    35.88610999999999,
+    14.36583,
+    35.88610999999999
+],
+  "geometry": {"coordinates":[14.36583,35.88610999999999],"type":"Point"}
+}

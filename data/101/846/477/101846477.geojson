@@ -1,0 +1,90 @@
+{
+  "id": 101846477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":259511.485878,
+    "geom:bbox":"14.4092168167,35.938121113,14.4167822302,35.9457202627",
+    "geom:latitude":35.94171,
+    "geom:longitude":14.413453,
+    "iso:country":"MT",
+    "lbl:latitude":35.941806,
+    "lbl:longitude":14.41351,
+    "mps:latitude":35.941806,
+    "mps:longitude":14.41351,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Burmarrad"
+    ],
+    "name:eng_x_preferred":[
+        "Burmarrad"
+    ],
+    "name:fra_x_preferred":[
+        "Burmarrad"
+    ],
+    "name:fre_x_preferred":[
+        "Burmarrad"
+    ],
+    "name:hun_x_preferred":[
+        "Burmarrad"
+    ],
+    "qs:a0":"Malta",
+    "qs:a1":"*San Pawl Il-Bahar",
+    "qs:a1r":"0",
+    "qs:adm0":"Malta",
+    "qs:la":"San Pawl Il-Ba\u0127ar",
+    "qs:la_lc":"*MT11555",
+    "qs:level":"locality",
+    "qs:loc":"Burmarrad",
+    "qs:loc_alt":"Burmarrad",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":237,
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2563172,
+        "gp:id":483322,
+        "qs:id":9,
+        "wd:id":"Q852182",
+        "wk:page":"Burmarrad"
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"2e609b43986bc1b09b31bbb60bee2459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":101846477,
+            "region_id":85686943
+        }
+    ],
+    "wof:id":101846477,
+    "wof:lastmodified":1527714707,
+    "wof:name":"Burmarrad",
+    "wof:parent_id":85686943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40921681674649,
+    35.93812111295279,
+    14.41678223021182,
+    35.94572026265712
+],
+  "geometry": {"coordinates":[[[14.41262839514974,35.94572026265712],[14.41250670195041,35.94372650262932],[14.41469995193557,35.94362244477861],[14.41464449517764,35.94271423307544],[14.41574110443065,35.94266218554077],[14.41568563601606,35.94175397340774],[14.41678223021182,35.94170191372137],[14.41661579611332,35.93897727245627],[14.41551924299262,35.93902932985498],[14.41546378272443,35.93812111295279],[14.41327069977291,35.93822518748522],[14.41338156758138,35.94004162314616],[14.41228499667778,35.94009364256618],[14.41234041994289,35.9410018593702],[14.41124383398414,35.94105386663819],[14.4113546592348,35.94287029819321],[14.41025804452693,35.94292229407051],[14.41031344651094,35.94383050882175],[14.40921681674649,35.94388249254592],[14.40930268279607,35.94529037909939],[14.409625,35.94516599999986],[14.410331,35.94514899999984],[14.41087149999987,35.94459249999983],[14.410904,35.944559],[14.41145,35.944461],[14.41159649999997,35.94462899999979],[14.41167299999989,35.9447165],[14.4117789999998,35.944837],[14.4117844999999,35.94484549999999],[14.41188999999974,35.94499899999988],[14.411907,35.94502249999988],[14.41213499999975,35.945354],[14.41262839514974,35.94572026265712]]],"type":"Polygon"}
+}

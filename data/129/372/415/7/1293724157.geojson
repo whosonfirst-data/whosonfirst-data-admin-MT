@@ -1,0 +1,66 @@
+{
+  "id": 1293724157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.34861,35.89444,14.34861,35.89444",
+    "geom:latitude":35.89444,
+    "geom:longitude":14.34861,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Il-Bahrija",
+    "gn:country_code":"MT",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2564671,
+    "gn:latitude":35.89444,
+    "gn:longitude":14.34861,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Il-Ba\u0127rija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Malta",
+    "iso:country":"MT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2564671,
+        "wk:page":"Ba%C4%A7rija"
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"2ad44ac257b1e9a90b58b788ddc83da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1293724157,
+            "region_id":85686875
+        }
+    ],
+    "wof:id":1293724157,
+    "wof:lastmodified":1537568540,
+    "wof:name":"Il-Bahrija",
+    "wof:parent_id":85686875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.34861,
+    35.89444,
+    14.34861,
+    35.89444
+],
+  "geometry": {"coordinates":[14.34861,35.89444],"type":"Point"}
+}

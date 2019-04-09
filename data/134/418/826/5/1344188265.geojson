@@ -1,0 +1,69 @@
+{
+  "id": 1344188265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53667,35.86972,14.53667,35.86972",
+    "geom:latitude":35.86972,
+    "geom:longitude":14.53667,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Ta' Cantar",
+    "gn:country_code":"MT",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562474,
+    "gn:latitude":35.86972,
+    "gn:longitude":14.53667,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ta\u2019 \u010aantar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Malta",
+    "iso:country":"MT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta\u2019 Ciantar",
+        "Ta\u2019 \u010aantar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562474
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"03a10b576be8fbce67483dc4346abe40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1344188265,
+            "region_id":85686809
+        }
+    ],
+    "wof:id":1344188265,
+    "wof:lastmodified":1537665818,
+    "wof:name":"Ta' Cantar",
+    "wof:parent_id":85686809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53667,
+    35.86972,
+    14.53667,
+    35.86972
+],
+  "geometry": {"coordinates":[14.53667,35.86972],"type":"Point"}
+}

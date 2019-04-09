@@ -1,0 +1,221 @@
+{
+  "id": 101752429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000142,
+    "geom:area_square_m":1425943.498971,
+    "geom:bbox":"14.4711025,35.904463,14.4901195,35.9175038247",
+    "geom:latitude":35.910364,
+    "geom:longitude":14.48008,
+    "gn:population":12346,
+    "iso:country":"MT",
+    "lbl:latitude":35.911144,
+    "lbl:longitude":14.478356,
+    "mps:latitude":35.911144,
+    "mps:longitude":14.478356,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u063a\u0648\u0627\u0646"
+    ],
+    "name:baq_x_preferred":[
+        "San \u0120wann"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u0997\u09cb\u09af\u09bc\u09be\u09a8"
+    ],
+    "name:cat_x_preferred":[
+        "San \u0120wann"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u74dc\u5b89"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u0627\u0646 \u062c\u0648\u0627\u0646"
+    ],
+    "name:cze_x_preferred":[
+        "San \u0120wann"
+    ],
+    "name:dan_x_preferred":[
+        "San \u0120wann"
+    ],
+    "name:dut_x_preferred":[
+        "San \u0120wann"
+    ],
+    "name:eng_x_preferred":[
+        "Saint John"
+    ],
+    "name:fin_x_preferred":[
+        "San \u0120wann"
+    ],
+    "name:fre_x_preferred":[
+        "San \u0120wann"
+    ],
+    "name:ger_x_preferred":[
+        "San \u0120wann"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03bd \u0393\u03ba\u03bf\u03c5\u03ac\u03bd"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0aa8 \u0a97\u0acd\u0ab5\u0abe\u0aa8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u0917\u094d\u0935\u093e\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "San \u0120wann"
+    ],
+    "name:ind_x_preferred":[
+        "San \u0120wann"
+    ],
+    "name:ita_x_preferred":[
+        "San Giovanni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30b8\u30e5\u30ef\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0c97\u0ccd\u0cb5\u0cbe\u0ca8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\uc988\uc644"
+    ],
+    "name:lav_x_preferred":[
+        "Sangvana"
+    ],
+    "name:lit_x_preferred":[
+        "San Gvanas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0945\u0928 \u0917\u094d\u0935\u0928"
+    ],
+    "name:may_x_preferred":[
+        "San Gwann"
+    ],
+    "name:mlt_x_preferred":[
+        "San \u0120wann"
+    ],
+    "name:nob_x_preferred":[
+        "San Gwann"
+    ],
+    "name:oci_x_preferred":[
+        "San \u0120wann"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646 \u06af\u0648\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "San \u0120wann"
+    ],
+    "name:por_x_preferred":[
+        "San \u0120wann"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0413\u0432\u0430\u043d\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "San \u0120wann"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1 \u0d9c\u0dca\u0dc0\u0ddc\u0db1\u0dca"
+    ],
+    "name:sme_x_preferred":[
+        "San \u0120wann"
+    ],
+    "name:spa_x_preferred":[
+        "San \u0120wann"
+    ],
+    "name:swe_x_preferred":[
+        "San \u0120wann"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd  \u0b95\u0bc1\u0bb5\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c28\u0c4d \u0c17\u0c4d\u0c35\u0c3e\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19 \u0e01\u0e27\u0e32\u0e19\u0e19\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "San Gwann"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0413\u0432\u0430\u043d\u043d"
+    ],
+    "name:unk_x_variant":[
+        "San \u0120wann"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u062c\u0648\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "San Gwann"
+    ],
+    "name:vol_x_preferred":[
+        "San \u0120wann"
+    ],
+    "qs:a0":"Malta",
+    "qs:a1":"*San Gwann",
+    "qs:a1r":"0",
+    "qs:adm0":"Malta",
+    "qs:la":"G\u0127arg\u0127ur",
+    "qs:la_lc":"*MT11524",
+    "qs:level":"locality",
+    "qs:loc":"San Gwann",
+    "qs:loc_alt":"San Gwann",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"urban core",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2567539,
+        "qs:id":2,
+        "wd:id":"Q39507"
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"ffab767758008d2fe64417c943acbc8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":101752429,
+            "region_id":85686901
+        }
+    ],
+    "wof:id":101752429,
+    "wof:lastmodified":1534985960,
+    "wof:name":"San Gwann",
+    "wof:parent_id":85686901,
+    "wof:placetype":"locality",
+    "wof:population":12346,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[
+        1175612947
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4711024999998,
+    35.90446299999985,
+    14.4901195,
+    35.91750382473884
+],
+  "geometry": {"coordinates":[[[14.483923,35.91229099999987],[14.48463699999985,35.910939],[14.48467599999987,35.9109439999998],[14.48468149999979,35.91094450000003],[14.48468699999972,35.91094549999991],[14.48655699999989,35.91116649999992],[14.4865974999999,35.911171],[14.489455,35.90924300000012],[14.489498,35.90914099999986],[14.4901195,35.90766199999985],[14.49011649999989,35.90765750000003],[14.48934600000013,35.90686099999982],[14.48836099999977,35.905843],[14.48828999999978,35.9058634999999],[14.48797399999989,35.90595299999984],[14.4876774999999,35.90603699999986],[14.4876655,35.90603899999985],[14.48688800000014,35.9061949999998],[14.48626100000013,35.9063210000001],[14.4862895,35.90544599999981],[14.48531549999984,35.90533600000015],[14.484267,35.905211],[14.48324049999997,35.90507950000006],[14.48269410797519,35.90498342672805],[14.48254949999978,35.90495800000014],[14.48194227048373,35.90488191799312],[14.481911,35.90487799999988],[14.48110449999979,35.90446299999985],[14.48062375057339,35.90494546027833],[14.48054249999984,35.90502699999979],[14.4800654999998,35.905349],[14.47947049999976,35.90533899999986],[14.47941940813604,35.90535706398447],[14.47861350000011,35.905642],[14.478504,35.90613399999989],[14.47791699999982,35.905935],[14.4770759999999,35.9059749999999],[14.47669249999979,35.9062434999999],[14.47665,35.9069505],[14.47610200000014,35.906889],[14.47563499999984,35.90682800000013],[14.47451449999988,35.906735],[14.47400999999985,35.906759],[14.47347099999985,35.906849],[14.47269850000009,35.906974],[14.47203249999967,35.90723899999983],[14.4715584999999,35.907721],[14.4714629999998,35.909604],[14.47116449999982,35.90983149999994],[14.4711024999998,35.90987799999988],[14.47177449999981,35.9102484999998],[14.47269349999982,35.909951],[14.47325249999989,35.910413],[14.47358749999972,35.91071449999981],[14.47310599999986,35.910817],[14.47230024082739,35.9115326284093],[14.47206919655923,35.91159864105725],[14.47132344874819,35.91226981408715],[14.47264009730901,35.91284036179684],[14.47589224909746,35.91511073191327],[14.47810125785946,35.91701293390281],[14.48049435068492,35.91750382473884],[14.48313288892842,35.91713565661178],[14.4840155484124,35.91646068171235],[14.48374650247331,35.91646068171235],[14.48373979607805,35.9164546690821],[14.483923,35.91639050000015],[14.48283349999986,35.91532100000012],[14.48253699999981,35.91249349999993],[14.483923,35.91229099999987]]],"type":"Polygon"}
+}

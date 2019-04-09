@@ -1,0 +1,80 @@
+{
+  "id": 1125778511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.229354,36.0781,14.229354,36.0781",
+    "geom:latitude":36.0781,
+    "geom:longitude":14.229354,
+    "gn:gn_country":null,
+    "iso:country":"MT",
+    "lbl:latitude":36.0781,
+    "lbl:longitude":14.229354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"\u017bebbu\u0121",
+    "qs_pg:name_adm0":"Malta",
+    "qs_pg:name_adm1":"Gozo",
+    "qs_pg:photos":187,
+    "qs_pg:photos_1k":38,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":187,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1078178,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424897,
+    "qs_pg:woe_id":483574,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424897,
+    "woe:name_adm0":"Malta",
+    "woe:name_adm1":"Gozo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85687013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":483574,
+        "qs_pg:id":1078178
+    },
+    "wof:country":"MT",
+    "wof:created":1497290369,
+    "wof:geomhash":"1f590442b7728ff46a67b1ce424cee63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1125778511,
+            "region_id":85687013
+        }
+    ],
+    "wof:id":1125778511,
+    "wof:lastmodified":1509391418,
+    "wof:name":"\u017bebbu\u0121",
+    "wof:parent_id":85687013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.229354,
+    36.0781,
+    14.229354,
+    36.0781
+],
+  "geometry": {"coordinates":[14.229354,36.0781],"type":"Point"}
+}

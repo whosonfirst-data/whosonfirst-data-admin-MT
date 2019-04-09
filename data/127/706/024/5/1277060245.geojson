@@ -1,0 +1,65 @@
+{
+  "id": 1277060245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23913,36.03806,14.23913,36.03806",
+    "geom:latitude":36.03806,
+    "geom:longitude":14.23913,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Manresa",
+    "gn:country_code":"MT",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9653601,
+    "gn:latitude":36.03806,
+    "gn:longitude":14.23913,
+    "gn:modification_date":"2014-10-09",
+    "gn:name":"Manresa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Malta",
+    "iso:country":"MT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633331,
+        85686971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9653601
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"d8768952cc135734fa31627ab1d513ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":1277060245,
+            "region_id":85686971
+        }
+    ],
+    "wof:id":1277060245,
+    "wof:lastmodified":1536799283,
+    "wof:name":"Manresa",
+    "wof:parent_id":85686971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23913,
+    36.03806,
+    14.23913,
+    36.03806
+],
+  "geometry": {"coordinates":[14.23913,36.03806],"type":"Point"}
+}

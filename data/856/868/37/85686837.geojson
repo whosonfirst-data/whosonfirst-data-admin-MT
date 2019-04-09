@@ -1,0 +1,223 @@
+{
+  "id": 85686837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:area_square_m":913583.445947,
+    "geom:bbox":"14.4703775,35.883915,14.484731,35.894928",
+    "geom:latitude":35.889829,
+    "geom:longitude":14.47807,
+    "iso:country":"MT",
+    "label:eng_x_preferred_longname":[
+        "Santa Venera Local Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "local council"
+    ],
+    "lbl:latitude":35.889823,
+    "lbl:longitude":14.47807,
+    "mps:latitude":35.889823,
+    "mps:longitude":14.47807,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0412\u0435\u043d\u0435\u0440\u0430"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u06a4\u06ce\u0646\u06ce\u0631\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:eng_x_variant":[
+        "Saint Venera"
+    ],
+    "name:eus_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0648\u0646\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:hun_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0\ubca0\ub124\ub77c"
+    ],
+    "name:lat_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:mlt_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:por_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0412\u0435\u043d\u0435\u0440\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0412\u0435\u043d\u0435\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0648\u06cc\u0646\u06cc\u0631\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u97cb\u5167\u62c9"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MLT",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"MLT-5943",
+    "ne:adm1_code":"MLT-5943",
+    "ne:admin":"Malta",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MT",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5943",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MT53",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Malta",
+    "ne:gn_a1_code":"MT.53",
+    "ne:gn_id":"8299752",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Saint Venera",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MT53",
+    "ne:gns_id":"11535796",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint Venera",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MLT",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MT-",
+    "ne:iso_a2":"MT",
+    "ne:labelrank":"20",
+    "ne:latitude":"35.88650000000",
+    "ne:longitude":"14.47810000000",
+    "ne:mapcolor13":8,
+    "ne:mapcolor9":1,
+    "ne:name":"Santa Venera",
+    "ne:name_alt":"",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"Malta Majjistral",
+    "ne:region_cod":"",
+    "ne:region_sub":"Northern Harbour",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MLT",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":24551410,
+    "ne:woe_label":"",
+    "ne:woe_name":"Malta",
+    "qs:a0":"Malta",
+    "qs:a0_lc":"MT00000",
+    "qs:a1":"Santa Venera",
+    "qs:a1_alt":"Santa Venera",
+    "qs:a1_lc":"MT11258",
+    "qs:adm0":"Malta",
+    "qs:adm0_a3":"MLT",
+    "qs:level":"adm1",
+    "qs:source":"EuroGlobalMap",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"MT-54",
+    "wd:wordcount":819,
+    "wof:belongsto":[
+        102191581,
+        85633331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MT53",
+        "gn:id":8299752,
+        "gp:id":24551410,
+        "hasc:id":"MT",
+        "unlc:id":"MT-54",
+        "wd:id":"Q585420"
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"37b403d03733726b41f37d3c2a69d1df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "region_id":85686837
+        }
+    ],
+    "wof:id":85686837,
+    "wof:lang_x_official":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "mlt",
+        "eng"
+    ],
+    "wof:lastmodified":1553624330,
+    "wof:name":"Santa Venera",
+    "wof:parent_id":85633331,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:shortcode":"MT",
+    "wof:subdivision":"MT-54",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47037749999978,
+    35.88391499999985,
+    14.48473099999979,
+    35.89492799999985
+],
+  "geometry": {"coordinates":[[[14.47685399999978,35.89419599999985],[14.4830374999998,35.89355899999987],[14.48300349999979,35.89244099999985],[14.48473099999979,35.89204049999987],[14.48406799999978,35.89091149999985],[14.48414199999979,35.88743249999985],[14.4813704999998,35.88712349999986],[14.4812024999998,35.88613149999986],[14.48000649999977,35.88620799999987],[14.4799294999998,35.88391499999985],[14.47709149999977,35.88445699999986],[14.4767889999998,35.88575399999985],[14.47499599999978,35.88676499999985],[14.47153499999979,35.88687899999985],[14.47143899999978,35.88794749999985],[14.47037749999978,35.88798549999987],[14.4719824999998,35.88898499999985],[14.4732994999998,35.88893549999986],[14.47269749999978,35.89093799999986],[14.47384699999978,35.89492799999985],[14.47685399999978,35.89419599999985]]],"type":"Polygon"}
+}
