@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00013,
-    "geom:area_square_m":1305619.889106,
+    "geom:area_square_m":1305619.889105,
     "geom:bbox":"14.496335,35.8860500808,14.5144647919,35.900385521",
     "geom:latitude":35.891956,
     "geom:longitude":14.5041,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0641\u0644\u0648\u0631\u064a\u0627\u0646\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Floriana"
-    ],
     "name:ben_x_preferred":[
         "\u09ab\u09cd\u09b2\u09c1\u09b0\u09bf\u09af\u09bc\u09be\u09a8\u09be"
     ],
@@ -32,16 +29,13 @@
     "name:ceb_x_preferred":[
         "Floriana"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Floriana"
     ],
     "name:dan_x_preferred":[
         "Floriana"
     ],
     "name:deu_x_preferred":[
-        "Floriana"
-    ],
-    "name:dut_x_preferred":[
         "Floriana"
     ],
     "name:ell_x_preferred":[
@@ -61,15 +55,6 @@
     ],
     "name:fra_x_variant":[
         "Floriana"
-    ],
-    "name:fre_x_preferred":[
-        "Floriana"
-    ],
-    "name:ger_x_preferred":[
-        "Floriana"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bb\u03bf\u03c1\u03b9\u03ac\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0acd\u0ab2\u0acb\u0ab0\u0ac0\u0aaf\u0abe\u0aa8\u0abe"
@@ -110,11 +95,11 @@
     "name:mar_x_preferred":[
         "\u092b\u094d\u0932\u094b\u0930\u093f\u092f\u093e\u0928\u093e"
     ],
-    "name:may_x_preferred":[
-        "Floriana"
-    ],
     "name:mlt_x_preferred":[
         "Furjana"
+    ],
+    "name:msa_x_preferred":[
+        "Floriana"
     ],
     "name:nld_x_preferred":[
         "Floriana"
@@ -213,7 +198,7 @@
         }
     ],
     "wof:id":101752403,
-    "wof:lastmodified":1514485318,
+    "wof:lastmodified":1561845143,
     "wof:name":"Floriana",
     "wof:parent_id":85686855,
     "wof:placetype":"locality",

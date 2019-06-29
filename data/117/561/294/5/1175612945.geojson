@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000445,
-    "geom:area_square_m":3184254.847539,
+    "geom:area_square_m":4454816.305553,
     "geom:bbox":"14.4563715194,35.8621756142,14.4864034269,35.888743",
     "geom:latitude":35.876856,
     "geom:longitude":14.470539,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0645\u064a"
-    ],
-    "name:baq_x_preferred":[
-        "Qormi"
     ],
     "name:bel_x_variant":[
         "\u041a\u043e\u0440\u043c\u0456"
@@ -41,14 +38,8 @@
     "name:che_x_preferred":[
         "\u041a\u043e\u0440\u043c\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u6208\u723e\u7c73"
-    ],
     "name:ckb_x_preferred":[
         "\u0642\u06c6\u0631\u0645\u06cc"
-    ],
-    "name:cze_x_preferred":[
-        "Qormi"
     ],
     "name:dan_x_preferred":[
         "Qormi"
@@ -56,11 +47,11 @@
     "name:deu_x_preferred":[
         "Qormi"
     ],
-    "name:dut_x_preferred":[
-        "Qormi"
-    ],
     "name:ell_x_preferred":[
         "\u038c\u03c1\u03bc\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03cc\u03c1\u03bc\u03b9"
     ],
     "name:eng_x_preferred":[
         "Qormi"
@@ -80,14 +71,8 @@
     "name:fra_x_preferred":[
         "\u0126al Qormi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Qormi"
-    ],
-    "name:ger_x_preferred":[
-        "Qormi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03cc\u03c1\u03bc\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab0\u0aae\u0ac0"
@@ -128,11 +113,11 @@
     "name:mar_x_preferred":[
         "\u0915\u094b\u0930\u092e\u0940"
     ],
-    "name:may_x_preferred":[
-        "Qormi"
-    ],
     "name:mlt_x_preferred":[
         "\u0126al Qormi"
+    ],
+    "name:msa_x_preferred":[
+        "Qormi"
     ],
     "name:nau_x_preferred":[
         "Qormi"
@@ -151,9 +136,6 @@
     ],
     "name:oci_x_preferred":[
         "Qormi"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0631\u0645\u06cc"
     ],
     "name:pol_x_preferred":[
         "Qormi"
@@ -251,7 +233,7 @@
         "wk:page":"Qormi"
     },
     "wof:country":"MT",
-    "wof:geomhash":"317673d9e69ae9d9bc6b6e8e1a80885f",
+    "wof:geomhash":"0eef0aab30cf823712ac68ca798dc470",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -261,7 +243,7 @@
         }
     ],
     "wof:id":1175612945,
-    "wof:lastmodified":1534985960,
+    "wof:lastmodified":1561845141,
     "wof:name":"Qormi",
     "wof:parent_id":85686805,
     "wof:placetype":"locality",

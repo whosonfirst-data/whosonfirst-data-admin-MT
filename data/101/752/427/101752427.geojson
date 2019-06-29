@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
-    "geom:area_square_m":1438989.772516,
+    "geom:area_square_m":1438989.772517,
     "geom:bbox":"14.4455141798,35.9023225,14.4623313898,35.9181760959",
     "geom:latitude":35.90885,
     "geom:longitude":14.453828,
@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0625\u0643\u0644\u064a\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Iklin"
-    ],
     "name:ben_x_preferred":[
         "\u0987\u0995\u09cd\u09b2\u09bf\u09a8"
     ],
@@ -31,17 +28,14 @@
     "name:ceb_x_preferred":[
         "L-Iklin"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u514b\u4f0a\u6797"
-    ],
     "name:dan_x_preferred":[
         "Iklin"
     ],
     "name:deu_x_preferred":[
         "Iklin"
     ],
-    "name:dut_x_preferred":[
-        "Iklin"
+    "name:ell_x_preferred":[
+        "\u0399\u03ba\u03bb\u03af\u03bd"
     ],
     "name:eng_x_preferred":[
         "Iklin"
@@ -55,14 +49,8 @@
     "name:fra_x_preferred":[
         "L-Iklin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Iklin"
-    ],
-    "name:ger_x_preferred":[
-        "Iklin"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03ba\u03bb\u03af\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0a95\u0acd\u0ab2\u0abf\u0aa8"
@@ -100,11 +88,11 @@
     "name:mar_x_preferred":[
         "\u0907\u0915\u094d\u0915\u0932\u093f\u0928"
     ],
-    "name:may_x_preferred":[
-        "Iklin"
-    ],
     "name:mlt_x_preferred":[
         "L-Iklin"
+    ],
+    "name:msa_x_preferred":[
+        "Iklin"
     ],
     "name:nld_x_preferred":[
         "Iklin"
@@ -157,6 +145,9 @@
     "name:vie_x_preferred":[
         "Iklin"
     ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u514b\u4f0a\u6797"
+    ],
     "qs:a0":"Malta",
     "qs:a1":"*Iklin",
     "qs:a1r":"0",
@@ -198,7 +189,7 @@
         }
     ],
     "wof:id":101752427,
-    "wof:lastmodified":1514485327,
+    "wof:lastmodified":1561845143,
     "wof:name":"Iklin",
     "wof:parent_id":85686897,
     "wof:placetype":"locality",

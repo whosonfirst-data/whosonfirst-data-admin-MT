@@ -21,9 +21,6 @@
     "name:afr_x_preferred":[
         "Valletta"
     ],
-    "name:alb_x_preferred":[
-        "Valeta"
-    ],
     "name:amh_x_preferred":[
         "\u126b\u120c\u1273"
     ],
@@ -33,16 +30,10 @@
     "name:arg_x_preferred":[
         "Valletta"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u0561\u056c\u0565\u057f\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u0641\u0627\u0644\u064a\u062a\u0627"
     ],
     "name:aze_x_preferred":[
-        "Valletta"
-    ],
-    "name:baq_x_preferred":[
         "Valletta"
     ],
     "name:bel_x_preferred":[
@@ -72,9 +63,6 @@
     "name:che_x_preferred":[
         "\u0412\u0430\u043b\u043b\u0435\u0442\u0442\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u83b1\u5854"
-    ],
     "name:chv_x_preferred":[
         "\u0412\u0430\u043b\u043b\u0435\u0442\u0442\u0430"
     ],
@@ -84,16 +72,10 @@
     "name:cym_x_preferred":[
         "Valletta"
     ],
-    "name:cze_x_preferred":[
-        "Valletta"
-    ],
     "name:dan_x_preferred":[
         "Valletta"
     ],
     "name:deu_x_preferred":[
-        "Valletta"
-    ],
-    "name:dut_x_preferred":[
         "Valletta"
     ],
     "name:ell_x_preferred":[
@@ -120,6 +102,9 @@
     "name:eus_x_preferred":[
         "Valleta"
     ],
+    "name:eus_x_variant":[
+        "Valletta"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0627\u0644\u062a\u0627"
     ],
@@ -127,9 +112,6 @@
         "Valletta"
     ],
     "name:fra_x_preferred":[
-        "La Valette"
-    ],
-    "name:fre_x_preferred":[
         "La Valette"
     ],
     "name:frr_x_preferred":[
@@ -140,12 +122,6 @@
     ],
     "name:gag_x_preferred":[
         "Valetta"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d0\u10da\u10d4\u10e2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Valletta"
     ],
     "name:gla_x_preferred":[
         "Valletta"
@@ -158,9 +134,6 @@
     ],
     "name:glv_x_preferred":[
         "Valletta"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b1\u03bb\u03ad\u03c4\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Valletta"
@@ -194,9 +167,6 @@
     ],
     "name:hye_x_preferred":[
         "\u054e\u0561\u056c\u0565\u057f\u0561"
-    ],
-    "name:ice_x_preferred":[
-        "Valletta"
     ],
     "name:ido_x_preferred":[
         "Valletta"
@@ -255,20 +225,11 @@
     "name:ltz_x_preferred":[
         "Valletta"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0430\u043b\u0435\u0442\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d35\u0d32\u0d47\u0d31\u0d4d\u0d31"
     ],
-    "name:mao_x_preferred":[
-        "Valletta"
-    ],
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u0945\u0932\u0947\u091f\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Valletta"
     ],
     "name:mkd_x_preferred":[
         "\u041b\u0430 \u0412\u0430\u043b\u0435\u0442\u0430"
@@ -281,6 +242,12 @@
     ],
     "name:mon_x_preferred":[
         "\u0412\u0430\u043b\u043b\u0435\u0442\u0442\u0430"
+    ],
+    "name:mri_x_preferred":[
+        "Valletta"
+    ],
+    "name:msa_x_preferred":[
+        "Valletta"
     ],
     "name:myv_x_preferred":[
         "\u0412\u0430\u043b\u043b\u0435\u0442\u0442\u0430 \u043e\u0448"
@@ -321,9 +288,6 @@
     "name:pan_x_preferred":[
         "\u0a35\u0a32\u0a48\u0a1f\u0a3e"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0627\u0644\u062a\u0627"
-    ],
     "name:pms_x_preferred":[
         "La Val\u00ebtta"
     ],
@@ -342,9 +306,6 @@
     "name:ron_x_preferred":[
         "Valletta"
     ],
-    "name:rum_x_preferred":[
-        "Valletta"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u043b\u043b\u0435\u0442\u0442\u0430"
     ],
@@ -361,9 +322,6 @@
         "Valetta"
     ],
     "name:slk_x_variant":[
-        "Valletta"
-    ],
-    "name:slo_x_preferred":[
         "Valletta"
     ],
     "name:slv_x_preferred":[
@@ -423,9 +381,6 @@
     "name:tha_x_preferred":[
         "\u0e27\u0e31\u0e25\u0e40\u0e25\u0e15\u0e15\u0e32"
     ],
-    "name:tib_x_preferred":[
-        "\u0f5d\u0f0b\u0f63\u0f7a\u0f0b\u0f50\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "Walletta"
     ],
@@ -463,9 +418,6 @@
         "Valletta"
     ],
     "name:war_x_preferred":[
-        "Valletta"
-    ],
-    "name:wel_x_preferred":[
         "Valletta"
     ],
     "name:wol_x_preferred":[
@@ -631,7 +583,7 @@
         }
     ],
     "wof:id":101752423,
-    "wof:lastmodified":1536881197,
+    "wof:lastmodified":1561845142,
     "wof:megacity":0,
     "wof:name":"Valletta",
     "wof:parent_id":85686889,

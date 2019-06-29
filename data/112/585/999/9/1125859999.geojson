@@ -22,23 +22,17 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u062c\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Birgu"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b0\u0997\u09cb"
     ],
     "name:cat_x_preferred":[
         "Birgu"
     ],
+    "name:ces_x_preferred":[
+        "Vittoriosa"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0438\u0440\u0433\u0443"
-    ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u5c14\u53e4"
-    ],
-    "name:cze_x_preferred":[
-        "Vittoriosa"
     ],
     "name:dan_x_preferred":[
         "Birgu"
@@ -46,26 +40,26 @@
     "name:deu_x_preferred":[
         "Birgu"
     ],
-    "name:dut_x_preferred":[
-        "Birgu"
+    "name:deu_x_variant":[
+        "Vittoriosa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03af\u03c1\u03b3\u03ba\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Birgu"
+    ],
+    "name:eus_x_preferred":[
+        "Birgu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0631\u06af\u0648"
     ],
     "name:fin_x_preferred":[
         "Birgu"
     ],
     "name:fra_x_preferred":[
         "Birgu"
-    ],
-    "name:fre_x_preferred":[
-        "Birgu"
-    ],
-    "name:ger_x_preferred":[
-        "Vittoriosa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03af\u03c1\u03b3\u03ba\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0ab0\u0acd\u0a97\u0ac1"
@@ -100,23 +94,23 @@
     "name:lit_x_preferred":[
         "Birgu"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0438\u0440\u0433\u0443"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u093f\u0930\u094d\u0917\u0941"
     ],
-    "name:may_x_preferred":[
-        "Birgu"
+    "name:mkd_x_preferred":[
+        "\u0411\u0438\u0440\u0433\u0443"
     ],
     "name:mlt_x_preferred":[
         "Birgu"
     ],
-    "name:nob_x_preferred":[
+    "name:msa_x_preferred":[
         "Birgu"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0631\u06af\u0648"
+    "name:nld_x_preferred":[
+        "Birgu"
+    ],
+    "name:nob_x_preferred":[
+        "Birgu"
     ],
     "name:pol_x_preferred":[
         "Birgu"
@@ -169,6 +163,9 @@
     "name:vie_x_preferred":[
         "Birgu"
     ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u5c14\u53e4"
+    ],
     "qs_pg:aaroncc":"MT",
     "qs_pg:gn_country":"MT",
     "qs_pg:gn_fcode":"PPLA",
@@ -206,7 +203,7 @@
         }
     ],
     "wof:id":1125859999,
-    "wof:lastmodified":1514485369,
+    "wof:lastmodified":1561845146,
     "wof:name":"Vittoriosa",
     "wof:parent_id":85686841,
     "wof:placetype":"locality",

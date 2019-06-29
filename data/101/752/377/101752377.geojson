@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Fgura"
     ],
-    "name:alb_x_preferred":[
-        "Fgura"
-    ],
     "name:ara_x_preferred":[
         "\u0641\u063a\u0648\u0631\u0627"
     ],
@@ -30,9 +27,6 @@
         "Fgura"
     ],
     "name:ast_x_preferred":[
-        "Fgura"
-    ],
-    "name:baq_x_preferred":[
         "Fgura"
     ],
     "name:bar_x_preferred":[
@@ -47,20 +41,23 @@
     "name:cat_x_preferred":[
         "Fgura"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u53e4\u62c9"
+    "name:ces_x_preferred":[
+        "Fgura"
     ],
     "name:ckb_x_preferred":[
         "\u0641\u06af\u0648\u0631\u0627"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Fgura"
     ],
     "name:dan_x_preferred":[
         "Fgura"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fgura"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03b3\u03ba\u03bf\u03cd\u03c1\u03b1"
     ],
     "name:eml_x_preferred":[
         "Fgura"
@@ -74,6 +71,9 @@
     "name:est_x_preferred":[
         "Fgura"
     ],
+    "name:eus_x_preferred":[
+        "Fgura"
+    ],
     "name:fao_x_preferred":[
         "Fgura"
     ],
@@ -83,20 +83,14 @@
     "name:fin_x_preferred":[
         "Fgura"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Fgura"
     ],
     "name:frr_x_preferred":[
         "Fgura"
     ],
-    "name:ger_x_preferred":[
-        "Fgura"
-    ],
     "name:glg_x_preferred":[
         "Fgura"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03b3\u03ba\u03bf\u03cd\u03c1\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Fgura"
@@ -113,10 +107,10 @@
     "name:hun_x_preferred":[
         "Fgura"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Fgura"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Fgura"
     ],
     "name:ita_x_preferred":[
@@ -146,16 +140,19 @@
     "name:mar_x_preferred":[
         "\u092b\u0917\u0941\u0930\u0902"
     ],
-    "name:may_x_preferred":[
-        "Fgura"
-    ],
     "name:min_x_preferred":[
         "Fgura"
     ],
     "name:mlt_x_preferred":[
         "Fgura"
     ],
+    "name:msa_x_preferred":[
+        "Fgura"
+    ],
     "name:nds_x_preferred":[
+        "Fgura"
+    ],
+    "name:nld_x_preferred":[
         "Fgura"
     ],
     "name:nno_x_preferred":[
@@ -167,9 +164,6 @@
     "name:oci_x_preferred":[
         "Fgura"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u06af\u0648\u0631\u0627"
-    ],
     "name:pol_x_preferred":[
         "Fgura"
     ],
@@ -179,7 +173,7 @@
     "name:roh_x_preferred":[
         "Fgura"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Fgura"
     ],
     "name:rus_x_preferred":[
@@ -194,7 +188,7 @@
     "name:sin_x_preferred":[
         "\u0d91\u0dc6\u0dca\u0d9c\u0dd4\u0dbb\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Fgura"
     ],
     "name:slv_x_preferred":[
@@ -204,6 +198,9 @@
         "Fgura"
     ],
     "name:spa_x_preferred":[
+        "Fgura"
+    ],
+    "name:sqi_x_preferred":[
         "Fgura"
     ],
     "name:swe_x_preferred":[
@@ -231,9 +228,6 @@
         "\u0641\u06af\u0648\u0631\u0627"
     ],
     "name:vie_x_preferred":[
-        "Fgura"
-    ],
-    "name:wel_x_preferred":[
         "Fgura"
     ],
     "name:zho_x_preferred":[
@@ -281,7 +275,7 @@
         }
     ],
     "wof:id":101752377,
-    "wof:lastmodified":1514485318,
+    "wof:lastmodified":1561845142,
     "wof:name":"Fgura",
     "wof:parent_id":85686781,
     "wof:placetype":"locality",

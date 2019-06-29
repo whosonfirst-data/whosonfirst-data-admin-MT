@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000017,
-    "geom:area_square_m":168696.902935,
+    "geom:area_square_m":168696.902936,
     "geom:bbox":"14.3991582271,35.8834544831,14.4045803066,35.8892908472",
     "geom:latitude":35.886372,
     "geom:longitude":14.401604,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629"
-    ],
-    "name:baq_x_preferred":[
-        "Mdina"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09a6\u09bf\u09a8\u09be"
@@ -38,25 +35,16 @@
     "name:ces_x_preferred":[
         "Mdina"
     ],
-    "name:chi_x_preferred":[
-        "\u59c6\u8fea\u7eb3"
-    ],
     "name:ckb_x_preferred":[
         "\u0642\u0627\u0632\u0627\u0646\u064a\u0627"
     ],
     "name:cym_x_preferred":[
         "Mdina a Rabat"
     ],
-    "name:cze_x_preferred":[
-        "Mdina"
-    ],
     "name:dan_x_preferred":[
         "Mdina"
     ],
     "name:deu_x_preferred":[
-        "Mdina"
-    ],
-    "name:dut_x_preferred":[
         "Mdina"
     ],
     "name:ell_x_preferred":[
@@ -79,15 +67,6 @@
     ],
     "name:fra_x_variant":[
         "Mdina"
-    ],
-    "name:fre_x_preferred":[
-        "Mdina"
-    ],
-    "name:ger_x_preferred":[
-        "Mdina"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bd\u03c4\u03af\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aae\u0aa1\u0ac0\u0aa8\u0abe"
@@ -137,14 +116,14 @@
     "name:mar_x_preferred":[
         "\u090f\u092e\u0921\u0940\u0928\u093e"
     ],
-    "name:may_x_preferred":[
-        "Mdina"
-    ],
     "name:mlt_x_preferred":[
         "Mdina"
     ],
     "name:mlt_x_variant":[
         "Imdina"
+    ],
+    "name:msa_x_preferred":[
+        "Mdina"
     ],
     "name:nld_x_preferred":[
         "Mdina"
@@ -165,9 +144,6 @@
         "Mdina"
     ],
     "name:ron_x_preferred":[
-        "Mdina"
-    ],
-    "name:rum_x_preferred":[
         "Mdina"
     ],
     "name:rus_x_preferred":[
@@ -218,9 +194,6 @@
     "name:vie_x_preferred":[
         "Mdina"
     ],
-    "name:wel_x_preferred":[
-        "Mdina a Rabat"
-    ],
     "name:zho_x_preferred":[
         "\u59c6\u8fea\u7eb3"
     ],
@@ -268,7 +241,7 @@
         }
     ],
     "wof:id":101756777,
-    "wof:lastmodified":1527696563,
+    "wof:lastmodified":1561845144,
     "wof:name":"Mdina",
     "wof:parent_id":85686799,
     "wof:placetype":"locality",

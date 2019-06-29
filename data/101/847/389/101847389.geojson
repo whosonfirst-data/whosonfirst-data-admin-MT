@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000029,
-    "geom:area_square_m":289973.241665,
+    "geom:area_square_m":289973.241666,
     "geom:bbox":"14.2143763389,36.032909553,14.2212839233,36.0402251957",
     "geom:latitude":36.037008,
     "geom:longitude":14.217557,
@@ -19,19 +19,13 @@
     "name:deu_x_preferred":[
         "Xlendi"
     ],
-    "name:dut_x_preferred":[
-        "Xlendi"
-    ],
     "name:eng_x_preferred":[
         "Xlendi"
     ],
     "name:fra_x_preferred":[
         "Ix-Xlendi"
     ],
-    "name:fre_x_preferred":[
-        "Xlendi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Xlendi"
     ],
     "name:hun_x_preferred":[
@@ -94,7 +88,7 @@
         }
     ],
     "wof:id":101847389,
-    "wof:lastmodified":1527714981,
+    "wof:lastmodified":1561845145,
     "wof:name":"Xlendi",
     "wof:parent_id":85686989,
     "wof:placetype":"locality",

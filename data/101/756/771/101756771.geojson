@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000185,
-    "geom:area_square_m":1852798.557098,
+    "geom:area_square_m":1852798.557097,
     "geom:bbox":"14.4564825039,35.8528555413,14.4850405956,35.8708667973",
     "geom:latitude":35.862817,
     "geom:longitude":14.472603,
@@ -22,17 +22,11 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0642\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Luqa"
-    ],
     "name:ben_x_preferred":[
         "\u09b2\u09c1\u0995\u09be"
     ],
     "name:cat_x_preferred":[
         "Luqa"
-    ],
-    "name:chi_x_preferred":[
-        "\u76e7\u52a0"
     ],
     "name:ckb_x_preferred":[
         "\u0644\u0648\u0642\u0627"
@@ -40,8 +34,11 @@
     "name:dan_x_preferred":[
         "Luqa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Luqa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03cd\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Luqa"
@@ -49,17 +46,17 @@
     "name:est_x_preferred":[
         "Luqa"
     ],
+    "name:eus_x_preferred":[
+        "Luqa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Luqa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Luqa"
-    ],
-    "name:ger_x_preferred":[
-        "Luqa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03cd\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac1\u0a95\u0abe"
@@ -103,17 +100,17 @@
     "name:mar_x_preferred":[
         "\u0932\u0941\u0915\u093e"
     ],
-    "name:may_x_preferred":[
-        "Luqa"
-    ],
     "name:mlt_x_preferred":[
         "\u0126al Luqa"
     ],
-    "name:nob_x_preferred":[
+    "name:msa_x_preferred":[
         "Luqa"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u06a9\u0627"
+    "name:nld_x_preferred":[
+        "Luqa"
+    ],
+    "name:nob_x_preferred":[
+        "Luqa"
     ],
     "name:pol_x_preferred":[
         "Luqa"
@@ -160,6 +157,9 @@
     "name:xmf_x_preferred":[
         "\u10da\u10e3\u10d9\u10d0"
     ],
+    "name:zho_x_preferred":[
+        "\u76e7\u52a0"
+    ],
     "qs:a0":"Malta",
     "qs:a1":"*Luqa",
     "qs:a1r":"0",
@@ -202,7 +202,7 @@
         }
     ],
     "wof:id":101756771,
-    "wof:lastmodified":1553815479,
+    "wof:lastmodified":1561845144,
     "wof:name":"Luqa",
     "wof:parent_id":85686775,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
-    "geom:area_square_m":951837.037497,
+    "geom:area_square_m":951837.037496,
     "geom:bbox":"14.2835895,36.035761,14.302975,36.0516505",
     "geom:latitude":36.040762,
     "geom:longitude":14.29337,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u0629 \u0646\u0627\u062f\u0648\u0631"
     ],
-    "name:baq_x_preferred":[
-        "Nadur"
-    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09a6\u09c1\u09b0"
     ],
@@ -32,17 +29,14 @@
     "name:ceb_x_preferred":[
         "In-Nadur"
     ],
-    "name:chi_x_preferred":[
-        "\u7eb3\u675c\u5c14"
-    ],
     "name:dan_x_preferred":[
         "Nadur"
     ],
     "name:deu_x_preferred":[
         "Nadur"
     ],
-    "name:dut_x_preferred":[
-        "Nadur"
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03bd\u03c4\u03bf\u03cd\u03c1"
     ],
     "name:eng_x_preferred":[
         "Nadur"
@@ -56,14 +50,8 @@
     "name:fra_x_preferred":[
         "In-Nadur"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Nadur"
-    ],
-    "name:ger_x_preferred":[
-        "Nadur"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b1\u03bd\u03c4\u03bf\u03cd\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0aa6\u0ac1\u0ab0"
@@ -98,11 +86,11 @@
     "name:mar_x_preferred":[
         "\u0928\u093e\u0926\u0941\u0930"
     ],
-    "name:may_x_preferred":[
-        "Nadur"
-    ],
     "name:mlt_x_preferred":[
         "In-Nadur"
+    ],
+    "name:msa_x_preferred":[
+        "Nadur"
     ],
     "name:nld_x_preferred":[
         "Nadur"
@@ -155,6 +143,9 @@
     "name:vie_x_preferred":[
         "Nadur"
     ],
+    "name:zho_x_preferred":[
+        "\u7eb3\u675c\u5c14"
+    ],
     "qs:a0":"Malta",
     "qs:a1":"*Nadur",
     "qs:a1r":"0",
@@ -198,7 +189,7 @@
         }
     ],
     "wof:id":101752459,
-    "wof:lastmodified":1514485346,
+    "wof:lastmodified":1561845143,
     "wof:name":"Nadur",
     "wof:parent_id":85686999,
     "wof:placetype":"locality",

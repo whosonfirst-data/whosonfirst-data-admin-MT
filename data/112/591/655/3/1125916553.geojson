@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0644\u064a\u062d\u0629"
     ],
-    "name:baq_x_preferred":[
-        "Mellie\u0127a"
-    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09b2\u09cd\u09af\u09bf\u09a8\u09be"
     ],
@@ -34,17 +31,17 @@
     "name:che_x_preferred":[
         "\u041c\u0435\u043b\u043b\u0438\u0435\u0445\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u5229\u54c8"
-    ],
     "name:ckb_x_preferred":[
         "\u0645\u06ce\u0644\u06cc\u062d\u0627"
     ],
     "name:dan_x_preferred":[
         "Mellie\u0127a"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mellie\u0127a"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03bb\u03b9\u03b5\u03c7\u03ac"
     ],
     "name:eng_x_preferred":[
         "Mellie\u0127a"
@@ -52,17 +49,17 @@
     "name:epo_x_preferred":[
         "Mellie\u0127a"
     ],
+    "name:eus_x_preferred":[
+        "Mellie\u0127a"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u06cc\u062d\u0647"
+    ],
     "name:fin_x_preferred":[
         "Mellie\u0127a"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mellie\u0127a"
-    ],
-    "name:ger_x_preferred":[
-        "Mellie\u0127a"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b5\u03bb\u03b9\u03b5\u03c7\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0ab2\u0abf\u0a8f\u0ab9\u0abe"
@@ -100,17 +97,17 @@
     "name:mar_x_preferred":[
         "\u092e\u0947\u0932\u0940\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mlt_x_preferred":[
+        "Mellie\u0127a"
+    ],
+    "name:msa_x_preferred":[
         "Mellieha"
     ],
-    "name:mlt_x_preferred":[
+    "name:nld_x_preferred":[
         "Mellie\u0127a"
     ],
     "name:nob_x_preferred":[
         "Mellie\u0127a"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0644\u06cc\u062d\u0647"
     ],
     "name:pol_x_preferred":[
         "Mellie\u0127a"
@@ -156,6 +153,9 @@
     ],
     "name:vie_x_preferred":[
         "Mellieha"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5229\u54c8"
     ],
     "qs_pg:aaroncc":"MT",
     "qs_pg:gn_country":"MT",
@@ -207,7 +207,7 @@
         }
     ],
     "wof:id":1125916553,
-    "wof:lastmodified":1534379380,
+    "wof:lastmodified":1561845145,
     "wof:name":"Mellie\u0127a",
     "wof:parent_id":85686947,
     "wof:placetype":"locality",
