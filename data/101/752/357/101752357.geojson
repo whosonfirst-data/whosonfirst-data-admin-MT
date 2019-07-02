@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000031,
-    "geom:area_square_m":315177.520054,
+    "geom:area_square_m":315177.520055,
     "geom:bbox":"14.48057,35.829746,14.4887015,35.836319",
     "geom:latitude":35.833043,
     "geom:longitude":14.484958,
@@ -20,44 +20,35 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0641\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0586\u056b"
-    ],
-    "name:baq_x_preferred":[
-        "Safi"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09ab\u09bf"
     ],
     "name:cat_x_preferred":[
         "Safi"
     ],
-    "name:chi_x_preferred":[
-        "\u8428\u83f2"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Safi"
     ],
     "name:dan_x_preferred":[
         "Safi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Safi"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03c6\u03b9"
+    ],
     "name:eng_x_preferred":[
+        "Safi"
+    ],
+    "name:eus_x_preferred":[
         "Safi"
     ],
     "name:fin_x_preferred":[
         "Safi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Safi"
-    ],
-    "name:ger_x_preferred":[
-        "Safi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03c6\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0aab\u0ac0"
@@ -67,6 +58,9 @@
     ],
     "name:hun_x_preferred":[
         "Safi"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0586\u056b"
     ],
     "name:ind_x_preferred":[
         "Safi"
@@ -95,11 +89,14 @@
     "name:mar_x_preferred":[
         "\u0938\u092b\u093c\u0940"
     ],
-    "name:may_x_preferred":[
-        "Safi"
-    ],
     "name:mlt_x_preferred":[
         "\u0126al Safi"
+    ],
+    "name:msa_x_preferred":[
+        "Safi"
+    ],
+    "name:nld_x_preferred":[
+        "Safi"
     ],
     "name:nob_x_preferred":[
         "Safi"
@@ -149,6 +146,9 @@
     "name:vie_x_preferred":[
         "Safi"
     ],
+    "name:zho_x_preferred":[
+        "\u8428\u83f2"
+    ],
     "qs:a0":"Malta",
     "qs:a1":"*Safi",
     "qs:a1r":"0",
@@ -191,7 +191,7 @@
         }
     ],
     "wof:id":101752357,
-    "wof:lastmodified":1553815476,
+    "wof:lastmodified":1561845143,
     "wof:name":"Safi",
     "wof:parent_id":85686727,
     "wof:placetype":"locality",

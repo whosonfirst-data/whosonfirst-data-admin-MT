@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000209,
-    "geom:area_square_m":2095247.209895,
+    "geom:area_square_m":2095247.209894,
     "geom:bbox":"14.4684144843,35.923599,14.4928242321,35.9399906375",
     "geom:latitude":35.931001,
     "geom:longitude":14.479101,
@@ -20,41 +20,35 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0645\u0628\u0631\u0648\u0643"
     ],
-    "name:baq_x_preferred":[
-        "Pembroke"
-    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09ae\u09ac\u09cd\u09b0\u09cb\u0995"
     ],
     "name:cat_x_preferred":[
         "Pembroke"
     ],
-    "name:chi_x_preferred":[
-        "\u5f6d\u5e03\u7f57\u514b"
-    ],
     "name:dan_x_preferred":[
         "Pembroke"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pembroke"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03ad\u03bc\u03c0\u03c1\u03bf\u03bf\u03c5\u03ba"
     ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ad\u03bc\u03c0\u03c1\u03bf\u03c5\u03ba"
+    ],
     "name:eng_x_preferred":[
+        "Pembroke"
+    ],
+    "name:eus_x_preferred":[
         "Pembroke"
     ],
     "name:fin_x_preferred":[
         "Pembroke"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pembroke"
-    ],
-    "name:ger_x_preferred":[
-        "Pembroke"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03ad\u03bc\u03c0\u03c1\u03bf\u03c5\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0aae\u0acd\u0aac\u0acd\u0ab0\u0acd\u0ab0\u0acb\u0a95"
@@ -92,10 +86,13 @@
     "name:mar_x_preferred":[
         "\u092a\u0947\u092e\u092c\u094d\u0930\u094b\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:mlt_x_preferred":[
         "Pembroke"
     ],
-    "name:mlt_x_preferred":[
+    "name:msa_x_preferred":[
+        "Pembroke"
+    ],
+    "name:nld_x_preferred":[
         "Pembroke"
     ],
     "name:nob_x_preferred":[
@@ -143,6 +140,9 @@
     "name:vie_x_preferred":[
         "Pembroke"
     ],
+    "name:zho_x_preferred":[
+        "\u5f6d\u5e03\u7f57\u514b"
+    ],
     "qs:a0":"Malta",
     "qs:a1":"*Pembroke",
     "qs:a1r":"0",
@@ -185,7 +185,7 @@
         }
     ],
     "wof:id":101752439,
-    "wof:lastmodified":1553815476,
+    "wof:lastmodified":1561845142,
     "wof:name":"Pembroke",
     "wof:parent_id":85686933,
     "wof:placetype":"locality",

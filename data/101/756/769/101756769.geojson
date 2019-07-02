@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000031,
-    "geom:area_square_m":308006.622718,
+    "geom:area_square_m":308006.622717,
     "geom:bbox":"14.4802408706,35.8448061761,14.4877313996,35.8524431947",
     "geom:latitude":35.848032,
     "geom:longitude":14.48367,
@@ -20,41 +20,35 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u0643\u0648\u0628"
     ],
-    "name:baq_x_preferred":[
-        "Kirkop"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09b0\u0995\u09cb\u09aa"
     ],
     "name:cat_x_preferred":[
         "Kirkop"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u5c14\u79d1\u666e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kirkop"
     ],
     "name:dan_x_preferred":[
         "Kirkop"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kirkop"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03af\u03c1\u03ba\u03bf\u03c0"
+    ],
     "name:eng_x_preferred":[
+        "Kirkop"
+    ],
+    "name:eus_x_preferred":[
         "Kirkop"
     ],
     "name:fin_x_preferred":[
         "Kirkop"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kirkop"
-    ],
-    "name:ger_x_preferred":[
-        "Kirkop"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03af\u03c1\u03ba\u03bf\u03c0"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0ab0\u0acd\u0a95\u0acb\u0aaa"
@@ -95,11 +89,14 @@
     "name:mar_x_preferred":[
         "\u0915\u093f\u0930\u094d\u0915\u094b\u092a"
     ],
-    "name:may_x_preferred":[
-        "Kirkop"
-    ],
     "name:mlt_x_preferred":[
         "\u0126al Kirkop"
+    ],
+    "name:msa_x_preferred":[
+        "Kirkop"
+    ],
+    "name:nld_x_preferred":[
+        "Kirkop"
     ],
     "name:nob_x_preferred":[
         "Kirkop"
@@ -149,6 +146,9 @@
     "name:vie_x_preferred":[
         "Kirkop"
     ],
+    "name:zho_x_preferred":[
+        "\u57fa\u5c14\u79d1\u666e"
+    ],
     "qs:a0":"Malta",
     "qs:a1":"*Kirkop",
     "qs:a1r":"0",
@@ -191,7 +191,7 @@
         }
     ],
     "wof:id":101756769,
-    "wof:lastmodified":1553815479,
+    "wof:lastmodified":1561845144,
     "wof:name":"Kirkop",
     "wof:parent_id":85686735,
     "wof:placetype":"locality",

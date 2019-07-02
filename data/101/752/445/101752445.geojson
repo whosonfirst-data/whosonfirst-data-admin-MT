@@ -22,23 +22,14 @@
     "name:ces_x_preferred":[
         "Bu\u0121ibba"
     ],
-    "name:cze_x_preferred":[
-        "Bu\u0121ibba"
-    ],
-    "name:dut_x_preferred":[
-        "Bu\u0121ibba"
+    "name:deu_x_preferred":[
+        "Bugibba"
     ],
     "name:eng_x_preferred":[
         "Bu\u0121ibba"
     ],
     "name:fra_x_preferred":[
         "Bu\u0121ibba"
-    ],
-    "name:fre_x_preferred":[
-        "Bu\u0121ibba"
-    ],
-    "name:ger_x_preferred":[
-        "Bugibba"
     ],
     "name:hun_x_preferred":[
         "Bu\u0121ibba"
@@ -113,7 +104,7 @@
         }
     ],
     "wof:id":101752445,
-    "wof:lastmodified":1527641660,
+    "wof:lastmodified":1561845143,
     "wof:name":"Bugibba",
     "wof:parent_id":85686943,
     "wof:placetype":"locality",

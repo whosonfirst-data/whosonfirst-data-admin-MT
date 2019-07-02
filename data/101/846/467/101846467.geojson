@@ -20,17 +20,11 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0643\u0633\u0627\u0631"
     ],
-    "name:baq_x_preferred":[
-        "Naxxar"
-    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0995\u09cd\u09b8\u09be\u09b0"
     ],
     "name:cat_x_preferred":[
         "Naxxar"
-    ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u6c99\u723e"
     ],
     "name:ckb_x_preferred":[
         "\u0646\u0627\u0634\u0627\u0631"
@@ -38,23 +32,26 @@
     "name:dan_x_preferred":[
         "Naxxar"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Naxxar"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ac\u03ba\u03c3\u03b1\u03c1"
     ],
     "name:eng_x_preferred":[
         "Naxxar"
     ],
+    "name:eus_x_preferred":[
+        "Naxxar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0633\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Naxxar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Naxxar"
-    ],
-    "name:ger_x_preferred":[
-        "Naxxar"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03ac\u03ba\u03c3\u03b1\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0a95\u0acd\u0ab8\u0ab0"
@@ -92,10 +89,13 @@
     "name:mar_x_preferred":[
         "\u0928\u0945\u0915\u094d\u0938\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:mlt_x_preferred":[
         "Naxxar"
     ],
-    "name:mlt_x_preferred":[
+    "name:msa_x_preferred":[
+        "Naxxar"
+    ],
+    "name:nld_x_preferred":[
         "Naxxar"
     ],
     "name:nob_x_preferred":[
@@ -103,9 +103,6 @@
     ],
     "name:oci_x_preferred":[
         "Naxxar"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u0633\u0627\u0631"
     ],
     "name:pol_x_preferred":[
         "Naxxar"
@@ -158,6 +155,9 @@
     "name:xmf_x_preferred":[
         "\u10dc\u10d0\u10e8\u10d0\u10e0\u10d8"
     ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u6c99\u723e"
+    ],
     "qs:a0":"Malta",
     "qs:a1":"*Gharghur",
     "qs:a1r":"0",
@@ -198,7 +198,7 @@
         }
     ],
     "wof:id":101846467,
-    "wof:lastmodified":1553815541,
+    "wof:lastmodified":1561845145,
     "wof:name":"Naxxar",
     "wof:parent_id":85686919,
     "wof:placetype":"locality",

@@ -22,22 +22,16 @@
     "name:ara_x_preferred":[
         "\u0633\u0646\u062c\u0644\u064a\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Senglea"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u0997\u09cd\u09b2\u09bf\u09af\u09bc\u09be"
     ],
     "name:cat_x_preferred":[
         "Senglea"
     ],
-    "name:chi_x_preferred":[
-        "\u68ee\u683c\u840a\u963f"
-    ],
     "name:dan_x_preferred":[
         "Senglea"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Senglea"
     ],
     "name:ell_x_preferred":[
@@ -46,17 +40,14 @@
     "name:eng_x_preferred":[
         "Senglea"
     ],
+    "name:eus_x_preferred":[
+        "Senglea"
+    ],
     "name:fin_x_preferred":[
         "Senglea"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Isla"
-    ],
-    "name:ger_x_preferred":[
-        "Senglea"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b5\u03bd\u03b3\u03ba\u03bb\u03ad\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a97\u0acd\u0ab2\u0abf\u0a86"
@@ -94,10 +85,13 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u0928\u094d\u0917\u094d\u0932\u093f\u0906"
     ],
-    "name:may_x_preferred":[
+    "name:mlt_x_preferred":[
         "Senglea"
     ],
-    "name:mlt_x_preferred":[
+    "name:msa_x_preferred":[
+        "Senglea"
+    ],
+    "name:nld_x_preferred":[
         "Senglea"
     ],
     "name:nob_x_preferred":[
@@ -211,7 +205,7 @@
         }
     ],
     "wof:id":1125881427,
-    "wof:lastmodified":1534379380,
+    "wof:lastmodified":1561845145,
     "wof:name":"Senglea",
     "wof:parent_id":85686825,
     "wof:placetype":"locality",

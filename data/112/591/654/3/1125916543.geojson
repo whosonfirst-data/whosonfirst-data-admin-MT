@@ -22,38 +22,35 @@
     "name:ara_x_preferred":[
         "\u0645\u063a\u0627\u0631"
     ],
-    "name:baq_x_preferred":[
-        "M\u0121arr"
-    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cd\u09af\u0997\u09be\u09b0"
     ],
     "name:cat_x_preferred":[
         "M\u0121arr"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "M\u0121arr"
     ],
     "name:dan_x_preferred":[
         "M\u0121arr"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "M\u0121arr"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b3\u03ba\u03ac\u03c1"
+    ],
     "name:eng_x_preferred":[
+        "M\u0121arr"
+    ],
+    "name:eus_x_preferred":[
         "M\u0121arr"
     ],
     "name:fin_x_preferred":[
         "M\u0121arr"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "M\u0121arr"
-    ],
-    "name:ger_x_preferred":[
-        "M\u0121arr"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b3\u03ba\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aae\u0acd\u0a97\u0abe\u0ab0"
@@ -91,11 +88,14 @@
     "name:mar_x_preferred":[
         "\u092e\u0917\u093e\u0930"
     ],
-    "name:may_x_preferred":[
-        "Mgarr"
-    ],
     "name:mlt_x_preferred":[
         "Im\u0121arr"
+    ],
+    "name:msa_x_preferred":[
+        "Mgarr"
+    ],
+    "name:nld_x_preferred":[
+        "M\u0121arr"
     ],
     "name:nob_x_preferred":[
         "Mgarr"
@@ -182,7 +182,7 @@
         }
     ],
     "wof:id":1125916543,
-    "wof:lastmodified":1553816626,
+    "wof:lastmodified":1561845146,
     "wof:name":"Im\u0121arr",
     "wof:parent_id":85686929,
     "wof:placetype":"locality",

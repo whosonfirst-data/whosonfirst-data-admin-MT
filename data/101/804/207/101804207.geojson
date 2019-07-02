@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000336,
-    "geom:area_square_m":3356749.046073,
+    "geom:area_square_m":3356749.046072,
     "geom:bbox":"14.2152788273,36.0258622482,14.2547911571,36.0575422689",
     "geom:latitude":36.043425,
     "geom:longitude":14.237779,
@@ -26,14 +26,14 @@
     "name:cat_x_preferred":[
         "Fontana"
     ],
-    "name:chi_x_preferred":[
-        "\u4e30\u5854\u7eb3"
-    ],
     "name:dan_x_preferred":[
         "Fontana"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fontana"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03bd\u03c4\u03ac\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Fontana"
@@ -41,14 +41,8 @@
     "name:fin_x_preferred":[
         "Fontana"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Fontana"
-    ],
-    "name:ger_x_preferred":[
-        "Fontana"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bf\u03bd\u03c4\u03ac\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0acb\u0aa8\u0acd\u0a9f\u0abe\u0aa8\u0abe"
@@ -83,10 +77,13 @@
     "name:mar_x_preferred":[
         "\u092b\u094b\u0902\u0924\u0928\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mlt_x_preferred":[
         "Fontana"
     ],
-    "name:mlt_x_preferred":[
+    "name:msa_x_preferred":[
+        "Fontana"
+    ],
+    "name:nld_x_preferred":[
         "Fontana"
     ],
     "name:nob_x_preferred":[
@@ -134,6 +131,9 @@
     "name:vie_x_preferred":[
         "Fontana"
     ],
+    "name:zho_x_preferred":[
+        "\u4e30\u5854\u7eb3"
+    ],
     "qs:a0":"Malta",
     "qs:a1":"*Rabat (Ghawdex) (Citta' Vittoria)",
     "qs:a1r":"0",
@@ -175,7 +175,7 @@
         }
     ],
     "wof:id":101804207,
-    "wof:lastmodified":1553815513,
+    "wof:lastmodified":1561845144,
     "wof:name":"Fontana",
     "wof:parent_id":85686981,
     "wof:placetype":"locality",

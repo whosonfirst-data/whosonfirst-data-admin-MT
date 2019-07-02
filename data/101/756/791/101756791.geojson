@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000138,
-    "geom:area_square_m":1378574.949099,
+    "geom:area_square_m":1378574.9491,
     "geom:bbox":"14.459448,35.8981962033,14.4809085,35.9122698141",
     "geom:latitude":35.905703,
     "geom:longitude":14.470539,
@@ -21,9 +21,6 @@
     "mz:is_current":0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u063a\u0648\u0627\u0646"
-    ],
-    "name:baq_x_preferred":[
-        "San \u0120wann"
     ],
     "name:bel_x_variant":[
         "\u0421\u0430\u043d-\u0414\u0436\u0443\u0430\u043d"
@@ -40,14 +37,8 @@
     "name:ces_x_preferred":[
         "San \u0120wann"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u74dc\u5b89"
-    ],
     "name:ckb_x_preferred":[
         "\u0633\u0627\u0646 \u062c\u0648\u0627\u0646"
-    ],
-    "name:cze_x_preferred":[
-        "San \u0120wann"
     ],
     "name:dan_x_preferred":[
         "San \u0120wann"
@@ -55,8 +46,8 @@
     "name:deu_x_preferred":[
         "San \u0120wann"
     ],
-    "name:dut_x_preferred":[
-        "San \u0120wann"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u0393\u03ba\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Saint John"
@@ -72,15 +63,6 @@
     ],
     "name:fra_x_preferred":[
         "San \u0120wann"
-    ],
-    "name:fre_x_preferred":[
-        "San \u0120wann"
-    ],
-    "name:ger_x_preferred":[
-        "San \u0120wann"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u0393\u03ba\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8 \u0a97\u0acd\u0ab5\u0abe\u0aa8"
@@ -115,10 +97,13 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u0917\u094d\u0935\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:mlt_x_preferred":[
+        "San \u0120wann"
+    ],
+    "name:msa_x_preferred":[
         "San Gwann"
     ],
-    "name:mlt_x_preferred":[
+    "name:nld_x_preferred":[
         "San \u0120wann"
     ],
     "name:nob_x_preferred":[
@@ -126,9 +111,6 @@
     ],
     "name:oci_x_preferred":[
         "San \u0120wann"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0646 \u06af\u0648\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "San \u0120wann"
@@ -181,6 +163,9 @@
     "name:vol_x_preferred":[
         "San \u0120wann"
     ],
+    "name:zho_x_preferred":[
+        "\u8056\u74dc\u5b89"
+    ],
     "qs:a0":"Malta",
     "qs:a1":"*San Gwann",
     "qs:a1r":"0",
@@ -224,7 +209,7 @@
         }
     ],
     "wof:id":101756791,
-    "wof:lastmodified":1534985960,
+    "wof:lastmodified":1561845144,
     "wof:name":"San Gwann",
     "wof:parent_id":85686901,
     "wof:placetype":"locality",

@@ -20,12 +20,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0633\u062a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0578\u057d\u057f\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Mosta"
-    ],
     "name:bel_x_variant":[
         "\u041c\u043e\u0441\u0442\u0430"
     ],
@@ -47,14 +41,8 @@
     "name:che_x_preferred":[
         "\u041c\u043e\u0441\u0442\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u65af\u5854"
-    ],
     "name:ckb_x_preferred":[
         "\u0645\u06c6\u0633\u062a\u0627"
-    ],
-    "name:cze_x_preferred":[
-        "Mosta"
     ],
     "name:dan_x_preferred":[
         "Mosta"
@@ -62,8 +50,8 @@
     "name:deu_x_preferred":[
         "Mosta"
     ],
-    "name:dut_x_preferred":[
-        "Mosta"
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03c3\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Mosta"
@@ -82,15 +70,6 @@
     ],
     "name:fra_x_variant":[
         "Mosta"
-    ],
-    "name:fre_x_preferred":[
-        "Mosta"
-    ],
-    "name:ger_x_preferred":[
-        "Mosta"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03cc\u03c3\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0ab8\u0acd\u0a9f\u0abe"
@@ -134,10 +113,10 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u0938\u094d\u091f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mlt_x_preferred":[
         "Mosta"
     ],
-    "name:mlt_x_preferred":[
+    "name:msa_x_preferred":[
         "Mosta"
     ],
     "name:nld_x_preferred":[
@@ -154,9 +133,6 @@
     ],
     "name:oci_x_preferred":[
         "Mosta"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0633\u062a\u0627"
     ],
     "name:pol_x_preferred":[
         "Mosta"
@@ -259,7 +235,7 @@
         }
     ],
     "wof:id":101752433,
-    "wof:lastmodified":1514485342,
+    "wof:lastmodified":1561845143,
     "wof:name":"Mosta",
     "wof:parent_id":85686911,
     "wof:placetype":"locality",

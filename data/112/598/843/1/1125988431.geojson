@@ -22,41 +22,35 @@
     "name:ara_x_preferred":[
         "\u0639\u0631\u0639\u0648\u0631"
     ],
-    "name:baq_x_preferred":[
-        "G\u0127arg\u0127ur"
-    ],
     "name:ben_x_preferred":[
         "\u0998\u09be\u09b0\u0998\u09c1\u09b0"
     ],
     "name:cat_x_preferred":[
         "G\u0127arg\u0127ur"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u5c14\u53e4\u5c14"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "G\u0127arg\u0127ur"
     ],
     "name:dan_x_preferred":[
         "G\u0127arg\u0127ur"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "G\u0127arg\u0127ur"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b1\u03c1\u03b3\u03ba\u03bf\u03cd\u03c1"
+    ],
     "name:eng_x_preferred":[
+        "G\u0127arg\u0127ur"
+    ],
+    "name:eus_x_preferred":[
         "G\u0127arg\u0127ur"
     ],
     "name:fin_x_preferred":[
         "G\u0127arg\u0127ur"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "G\u0127arg\u0127ur"
-    ],
-    "name:ger_x_preferred":[
-        "G\u0127arg\u0127ur"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03b1\u03c1\u03b3\u03ba\u03bf\u03cd\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a98\u0ab0\u0acd\u0a98\u0ac1\u0ab0"
@@ -94,10 +88,13 @@
     "name:mar_x_preferred":[
         "\u0918\u0930\u0918\u0941\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:mlt_x_preferred":[
+        "G\u0127arg\u0127ur"
+    ],
+    "name:msa_x_preferred":[
         "Gharghur"
     ],
-    "name:mlt_x_preferred":[
+    "name:nld_x_preferred":[
         "G\u0127arg\u0127ur"
     ],
     "name:nob_x_preferred":[
@@ -147,6 +144,9 @@
     ],
     "name:vie_x_preferred":[
         "Gharghur"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u5c14\u53e4\u5c14"
     ],
     "qs_pg:aaroncc":"MT",
     "qs_pg:gn_country":"MT",
@@ -198,7 +198,7 @@
         }
     ],
     "wof:id":1125988431,
-    "wof:lastmodified":1534379380,
+    "wof:lastmodified":1561845146,
     "wof:name":"G\u0127arg\u0127ur",
     "wof:parent_id":85686919,
     "wof:placetype":"locality",

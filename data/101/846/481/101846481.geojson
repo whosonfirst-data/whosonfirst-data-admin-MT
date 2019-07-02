@@ -19,19 +19,19 @@
     "name:cat_x_preferred":[
         "Xemxija"
     ],
-    "name:dut_x_preferred":[
-        "Xemxija"
-    ],
     "name:eng_x_preferred":[
         "Xemxija"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Xemxija"
     ],
     "name:hun_x_preferred":[
         "Xemxija"
     ],
     "name:mlt_x_preferred":[
+        "Xemxija"
+    ],
+    "name:nld_x_preferred":[
         "Xemxija"
     ],
     "qs:a0":"Malta",
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":101846481,
-    "wof:lastmodified":1514485371,
+    "wof:lastmodified":1561845145,
     "wof:name":"Xemxija",
     "wof:parent_id":85686947,
     "wof:placetype":"locality",

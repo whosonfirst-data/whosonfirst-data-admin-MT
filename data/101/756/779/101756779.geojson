@@ -17,28 +17,16 @@
     "mps:longitude":14.5004,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0580\u057d\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Marsa"
-    ],
     "name:cat_x_preferred":[
         "Marsa"
     ],
     "name:ceb_x_preferred":[
         "Il-Marsa"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u723e\u85a9"
-    ],
     "name:ckb_x_preferred":[
         "\u0645\u0627\u0631\u0633\u0627"
     ],
     "name:deu_x_preferred":[
-        "Marsa"
-    ],
-    "name:dut_x_preferred":[
         "Marsa"
     ],
     "name:ell_x_preferred":[
@@ -56,14 +44,8 @@
     "name:fra_x_preferred":[
         "Il-Marsa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Marsa"
-    ],
-    "name:ger_x_preferred":[
-        "Marsa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ac\u03c1\u03c3\u03b1"
     ],
     "name:hrv_x_preferred":[
         "Marsa"
@@ -94,9 +76,6 @@
     ],
     "name:nob_x_preferred":[
         "Marsa"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u0631\u0633\u0627"
     ],
     "name:pol_x_preferred":[
         "Marsa"
@@ -172,7 +151,7 @@
         }
     ],
     "wof:id":101756779,
-    "wof:lastmodified":1527696564,
+    "wof:lastmodified":1561845144,
     "wof:name":"Marsa",
     "wof:parent_id":85686803,
     "wof:placetype":"locality",
