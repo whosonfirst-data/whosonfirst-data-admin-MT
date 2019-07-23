@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Naxxar"
     ],
+    "name:ceb_x_preferred":[
+        "In-Naxxar"
+    ],
     "name:ckb_x_preferred":[
         "\u0646\u0627\u0634\u0627\u0631"
     ],
@@ -39,6 +42,9 @@
         "\u039d\u03ac\u03ba\u03c3\u03b1\u03c1"
     ],
     "name:eng_x_preferred":[
+        "Naxxar"
+    ],
+    "name:epo_x_preferred":[
         "Naxxar"
     ],
     "name:eus_x_preferred":[
@@ -198,7 +204,7 @@
         }
     ],
     "wof:id":101846467,
-    "wof:lastmodified":1561845145,
+    "wof:lastmodified":1563917104,
     "wof:name":"Naxxar",
     "wof:parent_id":85686919,
     "wof:placetype":"locality",

@@ -24,16 +24,31 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0644\u0632\u0627\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09b2\u09af\u09be\u09a8"
+    ],
     "name:cat_x_preferred":[
         "Balzan"
     ],
     "name:ceb_x_preferred":[
         "Balzan"
     ],
+    "name:dan_x_preferred":[
+        "Balzan"
+    ],
     "name:deu_x_preferred":[
         "Balzan"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bb\u03b6\u03ac\u03bd"
+    ],
     "name:eng_x_preferred":[
+        "Balzan"
+    ],
+    "name:epo_x_preferred":[
         "Balzan"
     ],
     "name:eus_x_preferred":[
@@ -48,6 +63,15 @@
     "name:fra_x_preferred":[
         "\u0126al Balzan"
     ],
+    "name:fra_x_variant":[
+        "Balzan"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0abe\u0ab2\u0acd\u0a9d\u0abe\u0aa8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u0932\u094d\u091c\u093c\u0928"
+    ],
     "name:hrv_x_preferred":[
         "Balzan"
     ],
@@ -60,11 +84,23 @@
     "name:ita_x_preferred":[
         "Balzan"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30eb\u30c4\u30a1\u30fc\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cbe\u0cb2\u0ccd\u0c9c\u0ca8\u0ccd"
+    ],
     "name:kor_x_preferred":[
         "\ubc1c\ucc2c"
     ],
+    "name:lav_x_preferred":[
+        "Balzana"
+    ],
     "name:lit_x_preferred":[
         "Balzanas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u093e\u0932\u094d\u091d\u093e\u0928"
     ],
     "name:mlt_x_preferred":[
         "\u0126al Balzan"
@@ -72,7 +108,13 @@
     "name:mlt_x_variant":[
         "Balzan"
     ],
+    "name:msa_x_preferred":[
+        "Balzan"
+    ],
     "name:nld_x_preferred":[
+        "Balzan"
+    ],
+    "name:nob_x_preferred":[
         "Balzan"
     ],
     "name:nor_x_preferred":[
@@ -90,14 +132,38 @@
     "name:scn_x_preferred":[
         "Balzan"
     ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dbd\u0dca\u0dc3\u0dcf\u0db1\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Balzan"
     ],
     "name:swe_x_preferred":[
         "Balzan"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0bb2\u0bcd\u0b9a\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c3e\u0c32\u0c4d\u0c1c\u0c3e\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e2d\u0e25\u0e0b\u0e32\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Balzan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u044c\u0446\u0430\u043d"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0644\u0632\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Balzan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5c14\u707f"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MLT",
@@ -202,7 +268,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1553624330,
+    "wof:lastmodified":1563917015,
     "wof:name":"Balzan",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

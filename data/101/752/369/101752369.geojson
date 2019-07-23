@@ -41,6 +41,9 @@
     "name:eng_x_preferred":[
         "Dingli"
     ],
+    "name:epo_x_preferred":[
+        "Dingli"
+    ],
     "name:eus_x_preferred":[
         "Dingli"
     ],
@@ -97,6 +100,9 @@
     ],
     "name:mlt_x_preferred":[
         "\u0126ad-Dingli"
+    ],
+    "name:mlt_x_variant":[
+        "Dingli"
     ],
     "name:msa_x_preferred":[
         "Dingli"
@@ -201,7 +207,7 @@
         }
     ],
     "wof:id":101752369,
-    "wof:lastmodified":1561845143,
+    "wof:lastmodified":1563917080,
     "wof:name":"Dingli",
     "wof:parent_id":85686763,
     "wof:placetype":"locality",

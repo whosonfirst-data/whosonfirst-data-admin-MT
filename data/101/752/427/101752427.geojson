@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Iklin"
     ],
+    "name:epo_x_preferred":[
+        "Iklin"
+    ],
     "name:eus_x_preferred":[
         "Iklin"
     ],
@@ -148,6 +151,9 @@
     "name:zho_x_preferred":[
         "\u4f0a\u514b\u4f0a\u6797"
     ],
+    "name:zho_x_variant":[
+        "\u4f0a\u514b\u6797"
+    ],
     "qs:a0":"Malta",
     "qs:a1":"*Iklin",
     "qs:a1r":"0",
@@ -189,7 +195,7 @@
         }
     ],
     "wof:id":101752427,
-    "wof:lastmodified":1561845143,
+    "wof:lastmodified":1563917086,
     "wof:name":"Iklin",
     "wof:parent_id":85686897,
     "wof:placetype":"locality",

@@ -44,6 +44,9 @@
     "name:eng_x_preferred":[
         "Luqa"
     ],
+    "name:epo_x_preferred":[
+        "Luqa"
+    ],
     "name:est_x_preferred":[
         "Luqa"
     ],
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":1175612943,
-    "wof:lastmodified":1561845141,
+    "wof:lastmodified":1563917058,
     "wof:name":"Luqa",
     "wof:parent_id":85686775,
     "wof:placetype":"locality",

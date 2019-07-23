@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Xag\u0127ra"
     ],
+    "name:ceb_x_preferred":[
+        "Ix-Xag\u0127ra"
+    ],
     "name:dan_x_preferred":[
         "Xag\u0127ra"
     ],
@@ -36,6 +39,9 @@
         "\u039e\u03ac\u03b3\u03ba\u03c7\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Xag\u0127ra"
+    ],
+    "name:epo_x_preferred":[
         "Xag\u0127ra"
     ],
     "name:eus_x_preferred":[
@@ -73,6 +79,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0e4\ub77c"
+    ],
+    "name:lat_x_preferred":[
+        "Caccia"
     ],
     "name:lav_x_preferred":[
         "\u0160agra"
@@ -140,6 +149,9 @@
     "name:vie_x_preferred":[
         "Xaghra"
     ],
+    "name:zho_x_preferred":[
+        "\u6c99\u62c9"
+    ],
     "qs:a0":"Malta",
     "qs:a1":"*Xaghra",
     "qs:a1r":"0",
@@ -180,7 +192,7 @@
         }
     ],
     "wof:id":101752463,
-    "wof:lastmodified":1561845142,
+    "wof:lastmodified":1563917072,
     "wof:name":"Xaghra",
     "wof:parent_id":85687003,
     "wof:placetype":"locality",

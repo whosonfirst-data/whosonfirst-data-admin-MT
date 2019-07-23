@@ -24,23 +24,53 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0631\u0643\u0648\u0628"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u09b0\u0995\u09cb\u09aa"
+    ],
     "name:cat_x_preferred":[
         "Kirkop"
     ],
     "name:ceb_x_preferred":[
         "Kirkop"
     ],
+    "name:ces_x_preferred":[
+        "Kirkop"
+    ],
+    "name:dan_x_preferred":[
+        "Kirkop"
+    ],
     "name:deu_x_preferred":[
         "Kirkop"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03af\u03c1\u03ba\u03bf\u03c0"
+    ],
     "name:eng_x_preferred":[
+        "Kirkop"
+    ],
+    "name:epo_x_preferred":[
         "Kirkop"
     ],
     "name:eus_x_preferred":[
         "Kirkop"
     ],
+    "name:fin_x_preferred":[
+        "Kirkop"
+    ],
     "name:fra_x_preferred":[
         "\u0126al Kirkop"
+    ],
+    "name:fra_x_variant":[
+        "Kirkop"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0abf\u0ab0\u0acd\u0a95\u0acb\u0aaa"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093f\u0930\u094d\u0915\u094b\u092a"
     ],
     "name:hrv_x_preferred":[
         "Kirkop"
@@ -48,8 +78,20 @@
     "name:hun_x_preferred":[
         "Kirkop"
     ],
+    "name:ind_x_preferred":[
+        "Kirkop"
+    ],
     "name:ita_x_preferred":[
         "Chircop"
+    ],
+    "name:ita_x_variant":[
+        "Kirkop"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30eb\u30b3\u30c3\u30d7"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cbf\u0cb0\u0ccd\u0c95\u0ccd\u0c95\u0ccb\u0caa\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\ud0a4\ub974\ucf54\ud504"
@@ -57,8 +99,14 @@
     "name:lat_x_preferred":[
         "Kirkop"
     ],
+    "name:lav_x_preferred":[
+        "Kirkopa"
+    ],
     "name:lit_x_preferred":[
         "Kirkopas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u093f\u0930\u094d\u0915\u094b\u092a"
     ],
     "name:mlt_x_preferred":[
         "\u0126al Kirkop"
@@ -66,7 +114,13 @@
     "name:mlt_x_variant":[
         "Kirkop"
     ],
+    "name:msa_x_preferred":[
+        "Kirkop"
+    ],
     "name:nld_x_preferred":[
+        "Kirkop"
+    ],
+    "name:nob_x_preferred":[
         "Kirkop"
     ],
     "name:pol_x_preferred":[
@@ -81,14 +135,38 @@
     "name:scn_x_preferred":[
         "Kirkop"
     ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dbb\u0dca\u0d9a\u0ddc\u0db4\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Kirkop"
     ],
     "name:swe_x_preferred":[
         "Kirkop"
     ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0bb0\u0bcd\u0b95\u0bcb\u0baa\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c3f\u0c30\u0c4d\u0c15\u0c3e\u0c2a\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e04\u0e2d\u0e23\u0e4c\u0e04\u0e2d\u0e1b"
+    ],
+    "name:tur_x_preferred":[
+        "Kirkop"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0440\u043a\u043e\u043f"
+    ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0631\u06a9\u0648\u067e"
+    ],
+    "name:vie_x_preferred":[
+        "Kirkop"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u5c14\u79d1\u666e"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MLT",
@@ -193,7 +271,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1553624330,
+    "wof:lastmodified":1563917034,
     "wof:name":"Kirkop",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

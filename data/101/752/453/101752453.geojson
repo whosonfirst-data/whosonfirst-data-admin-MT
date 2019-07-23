@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Xewkija"
     ],
+    "name:ceb_x_preferred":[
+        "Ix-Xewkija"
+    ],
     "name:dan_x_preferred":[
         "Xewkija"
     ],
@@ -140,6 +143,9 @@
     "name:vie_x_preferred":[
         "Xewkija"
     ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u57fa\u4e9a"
+    ],
     "qs:a0":"Malta",
     "qs:a1":"*Xewkija",
     "qs:a1r":"0",
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":101752453,
-    "wof:lastmodified":1561845142,
+    "wof:lastmodified":1563917075,
     "wof:name":"Xewkija",
     "wof:parent_id":85686977,
     "wof:placetype":"locality",

@@ -44,6 +44,9 @@
     "name:eng_x_preferred":[
         "G\u0127axaq"
     ],
+    "name:epo_x_preferred":[
+        "G\u0127axaq"
+    ],
     "name:eus_x_preferred":[
         "G\u0127axaq"
     ],
@@ -71,6 +74,9 @@
     "name:ita_x_preferred":[
         "Asciac"
     ],
+    "name:ita_x_variant":[
+        "G\u0127axaq"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30fc\u30b7\u30e3"
     ],
@@ -79,6 +85,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\uc0e4\ud06c"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\uc0e4"
     ],
     "name:lat_x_preferred":[
         "G\u0127axaq"
@@ -201,7 +210,7 @@
         }
     ],
     "wof:id":101752365,
-    "wof:lastmodified":1561845142,
+    "wof:lastmodified":1563917062,
     "wof:name":"Ghaxaq",
     "wof:parent_id":85686749,
     "wof:placetype":"locality",

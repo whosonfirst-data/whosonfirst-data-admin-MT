@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "G\u0127arg\u0127ur"
     ],
+    "name:ceb_x_preferred":[
+        "\u0126al G\u0127arg\u0127ur"
+    ],
     "name:ces_x_preferred":[
         "G\u0127arg\u0127ur"
     ],
@@ -41,6 +44,9 @@
         "\u0393\u03ba\u03b1\u03c1\u03b3\u03ba\u03bf\u03cd\u03c1"
     ],
     "name:eng_x_preferred":[
+        "G\u0127arg\u0127ur"
+    ],
+    "name:epo_x_preferred":[
         "G\u0127arg\u0127ur"
     ],
     "name:eus_x_preferred":[
@@ -198,7 +204,7 @@
         }
     ],
     "wof:id":1125988431,
-    "wof:lastmodified":1561845146,
+    "wof:lastmodified":1563917118,
     "wof:name":"G\u0127arg\u0127ur",
     "wof:parent_id":85686919,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "G\u017cira"
     ],
+    "name:ceb_x_preferred":[
+        "Il-G\u017cira"
+    ],
     "name:ces_x_preferred":[
         "G\u017cira"
     ],
@@ -47,6 +50,9 @@
         "\u0393\u03ba\u03b6\u03af\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
+        "G\u017cira"
+    ],
+    "name:epo_x_preferred":[
         "G\u017cira"
     ],
     "name:eus_x_preferred":[
@@ -78,6 +84,9 @@
     ],
     "name:ita_x_preferred":[
         "Gezira"
+    ],
+    "name:ita_x_variant":[
+        "G\u017cira"
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30b8\u30e9"
@@ -132,6 +141,9 @@
     ],
     "name:swe_x_preferred":[
         "Il-G\u017cira"
+    ],
+    "name:szl_x_preferred":[
+        "G\u017cira"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0bb8\u0bbf\u0bb0"
@@ -217,7 +229,7 @@
         }
     ],
     "wof:id":1125782099,
-    "wof:lastmodified":1561845146,
+    "wof:lastmodified":1563917122,
     "wof:name":"G\u017cira",
     "wof:parent_id":85686869,
     "wof:placetype":"locality",

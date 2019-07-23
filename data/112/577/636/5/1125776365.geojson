@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Cospicua"
     ],
+    "name:ceb_x_preferred":[
+        "Bormla"
+    ],
     "name:che_x_preferred":[
         "\u0411\u043e\u0440\u043c\u043b\u0430"
     ],
@@ -44,6 +47,9 @@
         "\u039a\u03bf\u03c3\u03c0\u03af\u03ba\u03bf\u03c5\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Cospicua"
+    ],
+    "name:epo_x_preferred":[
         "Cospicua"
     ],
     "name:eus_x_preferred":[
@@ -84,6 +90,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubcf4\ub984\ub77c"
+    ],
+    "name:lat_x_preferred":[
+        "Birmula"
     ],
     "name:lav_x_preferred":[
         "Bormla"
@@ -154,6 +163,9 @@
     "name:vie_x_preferred":[
         "Cospicua"
     ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10dd\u10e0\u10db\u10da\u10d0"
+    ],
     "name:zho_x_preferred":[
         "\u79d1\u65af\u76ae\u5938"
     ],
@@ -194,7 +206,7 @@
         }
     ],
     "wof:id":1125776365,
-    "wof:lastmodified":1561845146,
+    "wof:lastmodified":1563917124,
     "wof:name":"Cospicua",
     "wof:parent_id":85686841,
     "wof:placetype":"locality",

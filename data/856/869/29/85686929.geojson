@@ -27,6 +27,9 @@
     "name:ara_x_preferred":[
         "\u0645\u063a\u0627\u0631"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cd\u09af\u0997\u09be\u09b0"
+    ],
     "name:cat_x_preferred":[
         "M\u0121arr"
     ],
@@ -36,32 +39,135 @@
     "name:ces_x_preferred":[
         "M\u0121arr"
     ],
+    "name:dan_x_preferred":[
+        "M\u0121arr"
+    ],
     "name:deu_x_preferred":[
         "M\u0121arr"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b3\u03ba\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Mgarr"
     ],
+    "name:eng_x_variant":[
+        "M\u0121arr"
+    ],
+    "name:epo_x_preferred":[
+        "M\u0121arr"
+    ],
     "name:eus_x_preferred":[
+        "M\u0121arr"
+    ],
+    "name:fin_x_preferred":[
         "M\u0121arr"
     ],
     "name:fra_x_preferred":[
         "L-Im\u0121arr"
     ],
+    "name:fra_x_variant":[
+        "M\u0121arr"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0aae\u0acd\u0a97\u0abe\u0ab0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u093c\u093e\u0930"
+    ],
     "name:hun_x_preferred":[
+        "M\u0121arr"
+    ],
+    "name:ind_x_preferred":[
         "M\u0121arr"
     ],
     "name:ita_x_preferred":[
         "Mugiarro"
     ],
+    "name:ita_x_variant":[
+        "M\u0121arr"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30e0\u30b8\u30e3\u30fc"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cbf\u0c97\u0ccd\u0cb0\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbc0\uc790\ub974"
+    ],
+    "name:lat_x_preferred":[
+        "M\u0121arr"
+    ],
+    "name:lav_x_preferred":[
+        "Mgara"
+    ],
+    "name:lit_x_preferred":[
+        "Mgaras"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0917\u093e\u0930"
+    ],
     "name:mlt_x_preferred":[
         "L-Im\u0121arr"
     ],
     "name:mlt_x_variant":[
-        "Im\u0121arr"
+        "Im\u0121arr",
+        "M\u0121arr"
+    ],
+    "name:msa_x_preferred":[
+        "Mgarr"
+    ],
+    "name:nld_x_preferred":[
+        "M\u0121arr"
+    ],
+    "name:nob_x_preferred":[
+        "Mgarr"
+    ],
+    "name:pol_x_preferred":[
+        "M\u0121arr"
+    ],
+    "name:por_x_preferred":[
+        "M\u0121arr"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0434\u0436\u0430\u0440\u0440"
+    ],
+    "name:scn_x_preferred":[
+        "M\u0121arr"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d91\u0db8\u0dca\u0d9c\u0dcf\u0dbb\u0dca"
     ],
     "name:spa_x_preferred":[
         "M\u0121arr"
+    ],
+    "name:swe_x_preferred":[
+        "L-Im\u0121arr"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0b95\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c2e\u0c4d\u200c\u0c17\u0c3e\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e01\u0e32\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Mgarr"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0434\u0436\u0430\u0440\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u062c\u0627\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "M\u0121arr"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u8d3e\u5c14"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MLT",
@@ -166,7 +272,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1553624328,
+    "wof:lastmodified":1563917028,
     "wof:name":"Mgarr",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

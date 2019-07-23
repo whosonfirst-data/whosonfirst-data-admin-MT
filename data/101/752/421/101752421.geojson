@@ -41,6 +41,9 @@
     "name:eng_x_preferred":[
         "Msida"
     ],
+    "name:epo_x_preferred":[
+        "Msida"
+    ],
     "name:eus_x_preferred":[
         "Msida"
     ],
@@ -95,6 +98,9 @@
     "name:mlt_x_preferred":[
         "Imsida"
     ],
+    "name:mlt_x_variant":[
+        "L-Imsida"
+    ],
     "name:msa_x_preferred":[
         "Msida"
     ],
@@ -129,6 +135,9 @@
         "Msida"
     ],
     "name:swe_x_preferred":[
+        "Msida"
+    ],
+    "name:szl_x_preferred":[
         "Msida"
     ],
     "name:tam_x_preferred":[
@@ -203,7 +212,7 @@
         }
     ],
     "wof:id":101752421,
-    "wof:lastmodified":1561845143,
+    "wof:lastmodified":1563917084,
     "wof:name":"Msida",
     "wof:parent_id":85686883,
     "wof:placetype":"locality",

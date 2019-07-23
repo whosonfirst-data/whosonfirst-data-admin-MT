@@ -24,35 +24,80 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0631\u062a\u0634\u0645"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c7\u09b0\u099a\u09c7\u09ae"
+    ],
     "name:cat_x_preferred":[
         "Ker\u010bem"
     ],
     "name:ceb_x_preferred":[
         "Ta\u2019 Ker\u010bem"
     ],
+    "name:dan_x_preferred":[
+        "Ker\u010bem"
+    ],
     "name:deu_x_preferred":[
         "Ker\u010bem"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03c1\u03ba\u03ad\u03bc"
     ],
     "name:eng_x_preferred":[
         "Kercem"
     ],
+    "name:eng_x_variant":[
+        "Ker\u010bem"
+    ],
+    "name:epo_x_preferred":[
+        "Ker\u010bem"
+    ],
     "name:eus_x_preferred":[
+        "Ker\u010bem"
+    ],
+    "name:fin_x_preferred":[
         "Ker\u010bem"
     ],
     "name:fra_x_preferred":[
         "Ta' Ker\u010bem"
     ],
+    "name:fra_x_variant":[
+        "Ker\u010bem"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0ac7\u0ab0\u0ab8\u0ac7\u0aae"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0947\u0930\u094d\u0938\u0947\u092e"
+    ],
     "name:hun_x_preferred":[
+        "Ker\u010bem"
+    ],
+    "name:ind_x_preferred":[
         "Ker\u010bem"
     ],
     "name:ita_x_preferred":[
         "Ker\u010bem"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30eb\u30c1\u30e3\u30e0"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cc6\u0cb0\u0ccd\u0cb8\u0cc6\u0cae\u0ccd"
+    ],
     "name:kor_x_preferred":[
         "\ucf00\ub974\uccc4"
     ],
+    "name:lav_x_preferred":[
+        "Ker\u010dema"
+    ],
     "name:lit_x_preferred":[
         "Kercemas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u0947\u0930\u0928\u0947\u092e"
     ],
     "name:mlt_x_preferred":[
         "Ta\u2019 Ker\u010bem"
@@ -60,8 +105,59 @@
     "name:mlt_x_variant":[
         "Ker\u010bem"
     ],
+    "name:msa_x_preferred":[
+        "Kercem"
+    ],
+    "name:nld_x_preferred":[
+        "Ker\u010bem"
+    ],
+    "name:nob_x_preferred":[
+        "Kercem"
+    ],
+    "name:pol_x_preferred":[
+        "Ker\u010bem"
+    ],
+    "name:por_x_preferred":[
+        "Ker\u010bem"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0440\u0447\u0435\u043c"
+    ],
+    "name:scn_x_preferred":[
+        "Ker\u010bem"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dbb\u0dca\u0dc3\u0dd9\u0db8\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Ker\u010bem"
+    ],
+    "name:swe_x_preferred":[
+        "Ta\u2019 Ker\u010bem"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc7\u0bb0\u0bcd\u0bb8\u0bcd\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c46\u0c30\u0c4d\u0c38\u0c46\u0c2e\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e04\u0e2d\u0e40\u0e0b\u0e21"
+    ],
+    "name:tur_x_preferred":[
+        "Kercem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0440\u0447\u0435\u043c"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0631\u0686\u06cc\u0645"
+    ],
+    "name:vie_x_preferred":[
+        "Kercem"
+    ],
+    "name:zho_x_preferred":[
+        "\u51ef\u5c14\u5207\u59c6"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MLT",
@@ -166,7 +262,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1553624329,
+    "wof:lastmodified":1563917028,
     "wof:name":"Kercem",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

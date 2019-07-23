@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Senglea"
     ],
+    "name:ceb_x_preferred":[
+        "L-Isla"
+    ],
     "name:dan_x_preferred":[
         "Senglea"
     ],
@@ -36,6 +39,9 @@
         "\u03a3\u03b5\u03bd\u03b3\u03ba\u03bb\u03ad\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Senglea"
+    ],
+    "name:epo_x_preferred":[
         "Senglea"
     ],
     "name:eus_x_preferred":[
@@ -74,6 +80,9 @@
     "name:kor_x_preferred":[
         "\uc14d\uae00\ub808\uc544"
     ],
+    "name:lat_x_preferred":[
+        "Senglea"
+    ],
     "name:lav_x_preferred":[
         "Sengleja"
     ],
@@ -85,6 +94,9 @@
     ],
     "name:mlt_x_preferred":[
         "Senglea"
+    ],
+    "name:mlt_x_variant":[
+        "L-Isla"
     ],
     "name:msa_x_preferred":[
         "Senglea"
@@ -102,9 +114,6 @@
         "Senglea"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u0435\u043d\u0433\u043b\u0435\u0430"
-    ],
-    "name:rus_x_variant":[
         "\u0421\u0435\u043d\u0433\u043b\u0435\u0430"
     ],
     "name:scn_x_preferred":[
@@ -190,7 +199,7 @@
         }
     ],
     "wof:id":101756783,
-    "wof:lastmodified":1561845144,
+    "wof:lastmodified":1563917097,
     "wof:name":"Isla",
     "wof:parent_id":85686825,
     "wof:placetype":"locality",

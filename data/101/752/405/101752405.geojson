@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Balzan"
     ],
+    "name:ceb_x_preferred":[
+        "Balzan"
+    ],
     "name:dan_x_preferred":[
         "Balzan"
     ],
@@ -36,6 +39,9 @@
         "\u039c\u03c0\u03b1\u03bb\u03b6\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
+        "Balzan"
+    ],
+    "name:epo_x_preferred":[
         "Balzan"
     ],
     "name:eus_x_preferred":[
@@ -88,6 +94,9 @@
     ],
     "name:mlt_x_preferred":[
         "Balzan"
+    ],
+    "name:mlt_x_variant":[
+        "\u0126al Balzan"
     ],
     "name:msa_x_preferred":[
         "Balzan"
@@ -188,7 +197,7 @@
         }
     ],
     "wof:id":101752405,
-    "wof:lastmodified":1561845143,
+    "wof:lastmodified":1563917087,
     "wof:name":"Balzan",
     "wof:parent_id":85686859,
     "wof:placetype":"locality",

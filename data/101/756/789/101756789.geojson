@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Xg\u0127ajra"
     ],
+    "name:ceb_x_preferred":[
+        "Ix-Xg\u0127ajra"
+    ],
     "name:ces_x_preferred":[
         "Xg\u0127ajra"
     ],
@@ -39,6 +42,9 @@
         "\u039e\u03b3\u03ba\u03ac\u03c4\u03b6\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Xg\u0127ajra"
+    ],
+    "name:epo_x_preferred":[
         "Xg\u0127ajra"
     ],
     "name:eus_x_preferred":[
@@ -137,6 +143,9 @@
     "name:vie_x_preferred":[
         "Xghajra"
     ],
+    "name:zho_x_preferred":[
+        "\u54c8\u52a0"
+    ],
     "qs:a0":"Malta",
     "qs:a1":"*Kalkara",
     "qs:a1r":"0",
@@ -176,7 +185,7 @@
         }
     ],
     "wof:id":101756789,
-    "wof:lastmodified":1561845144,
+    "wof:lastmodified":1563917100,
     "wof:name":"Xghajra",
     "wof:parent_id":85686863,
     "wof:placetype":"locality",

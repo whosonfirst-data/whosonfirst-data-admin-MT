@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Munxar"
     ],
+    "name:ceb_x_preferred":[
+        "Il-Munxar"
+    ],
     "name:dan_x_preferred":[
         "Munxar"
     ],
@@ -36,6 +39,9 @@
         "\u039c\u03bf\u03c5\u03bd\u03ba\u03c3\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
+        "Munxar"
+    ],
+    "name:epo_x_preferred":[
         "Munxar"
     ],
     "name:eus_x_preferred":[
@@ -137,6 +143,9 @@
     "name:vie_x_preferred":[
         "Munxar"
     ],
+    "name:zho_x_preferred":[
+        "\u8499\u6c99\u5c14"
+    ],
     "qs:a0":"Malta",
     "qs:a1":"*Munxar",
     "qs:a1r":"0",
@@ -180,7 +189,7 @@
         }
     ],
     "wof:id":101874855,
-    "wof:lastmodified":1561845144,
+    "wof:lastmodified":1563917095,
     "wof:name":"Munxar",
     "wof:parent_id":85686965,
     "wof:placetype":"locality",

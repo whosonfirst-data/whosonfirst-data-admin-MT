@@ -41,6 +41,9 @@
     "name:eng_x_preferred":[
         "Nadur"
     ],
+    "name:epo_x_preferred":[
+        "Nadur"
+    ],
     "name:eus_x_preferred":[
         "Nadur"
     ],
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":101752459,
-    "wof:lastmodified":1561845143,
+    "wof:lastmodified":1563917089,
     "wof:name":"Nadur",
     "wof:parent_id":85686999,
     "wof:placetype":"locality",

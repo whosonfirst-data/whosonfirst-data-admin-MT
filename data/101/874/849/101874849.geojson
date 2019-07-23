@@ -41,8 +41,14 @@
     "name:eng_x_preferred":[
         "Mqabba"
     ],
+    "name:epo_x_preferred":[
+        "Mqabba"
+    ],
     "name:eus_x_preferred":[
         "Mqabba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0642\u0627\u0628\u0627"
     ],
     "name:fin_x_preferred":[
         "Mqabba"
@@ -68,6 +74,9 @@
     "name:ita_x_preferred":[
         "Micabba"
     ],
+    "name:ita_x_variant":[
+        "Mqabba"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30c3\u30d0"
     ],
@@ -76,6 +85,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc784\uc544\ubc14"
+    ],
+    "name:kor_x_variant":[
+        "\ubbc0\uc544\ubc14"
     ],
     "name:lat_x_preferred":[
         "Mqabba"
@@ -146,6 +158,9 @@
     "name:vie_x_preferred":[
         "Mqabba"
     ],
+    "name:zho_x_preferred":[
+        "\u59c6\u5361\u5df4"
+    ],
     "qs:a0":"Malta",
     "qs:a1":"*Mqabba",
     "qs:a1r":"0",
@@ -190,7 +205,7 @@
         }
     ],
     "wof:id":101874849,
-    "wof:lastmodified":1561845143,
+    "wof:lastmodified":1563917093,
     "wof:name":"Mqabba",
     "wof:parent_id":85686739,
     "wof:placetype":"locality",

@@ -24,8 +24,14 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u064a\u0642\u064a"
+    ],
     "name:bel_x_variant":[
         "\u0421\u0443\u0456\u043a\u0456"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c1\u0987\u0995\u09bf"
     ],
     "name:cat_x_preferred":[
         "Swieqi"
@@ -36,10 +42,19 @@
     "name:ckb_x_preferred":[
         "\u0633\u0648\u06cc\u0642\u06cc"
     ],
+    "name:dan_x_preferred":[
+        "Swieqi"
+    ],
     "name:deu_x_preferred":[
         "Swieqi"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b2\u03b9\u03ad\u03ba\u03b9"
+    ],
     "name:eng_x_preferred":[
+        "Swieqi"
+    ],
+    "name:epo_x_preferred":[
         "Swieqi"
     ],
     "name:eus_x_preferred":[
@@ -48,14 +63,35 @@
     "name:fas_x_preferred":[
         "\u0633\u0648\u06cc\u06a9\u06cc"
     ],
+    "name:fin_x_preferred":[
+        "Swieqi"
+    ],
     "name:fra_x_preferred":[
         "Is-Swieqi"
+    ],
+    "name:fra_x_variant":[
+        "Swieqi"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acd\u0ab5\u0abf\u0a95\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u0935\u093f\u090f\u0915\u0940"
     ],
     "name:hun_x_preferred":[
         "Swieqi"
     ],
+    "name:ind_x_preferred":[
+        "Swieqi"
+    ],
     "name:ita_x_preferred":[
         "Swieqi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30a6\u30a3\u30fc\u30a4"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0cb5\u0cbe\u0caf\u0cbf\u0c95\u0cbf"
     ],
     "name:kor_x_preferred":[
         "\uc2a4\uc704\uc774"
@@ -63,8 +99,14 @@
     "name:lat_x_preferred":[
         "Swieqi"
     ],
+    "name:lav_x_preferred":[
+        "Svieki"
+    ],
     "name:lit_x_preferred":[
         "Svikis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094d\u0935\u093f\u090f\u0915\u0940"
     ],
     "name:mlt_x_preferred":[
         "Is-Swieqi"
@@ -72,8 +114,14 @@
     "name:mlt_x_variant":[
         "Swieqi"
     ],
+    "name:msa_x_preferred":[
+        "Swieqi"
+    ],
     "name:nld_x_preferred":[
         "Swieqi"
+    ],
+    "name:nob_x_preferred":[
+        "Sweiqi"
     ],
     "name:pol_x_preferred":[
         "Swieqi"
@@ -87,6 +135,12 @@
     "name:scn_x_preferred":[
         "Swieqi"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dca\u0dc0\u0dd2\u0d9a\u0dd2"
+    ],
+    "name:slv_x_preferred":[
+        "Swieqi"
+    ],
     "name:sme_x_preferred":[
         "Swieqi"
     ],
@@ -96,8 +150,29 @@
     "name:swe_x_preferred":[
         "Is-Swieqi"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb8\u0bcd\u0bb5\u0bbf\u0b8f\u0b95\u0bcd\u0b95\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4d\u0c35\u0c46\u0c3f\u0c2f\u0c46\u0c15\u0c3f"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e27\u0e35\u0e2d\u0e34"
+    ],
+    "name:tur_x_preferred":[
+        "Sweiqi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0456\u043a\u0456"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u06cc\u0626\u0627\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Swieqi"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d5\u10d8\u10d8\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u65af\u7dad\u5409"
@@ -205,7 +280,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1553624328,
+    "wof:lastmodified":1563917034,
     "wof:name":"Swieqi",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

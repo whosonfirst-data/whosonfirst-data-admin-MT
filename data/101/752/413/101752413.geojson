@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Ta' Xbiex"
     ],
+    "name:ceb_x_preferred":[
+        "Ta\u2019 Xbiex"
+    ],
     "name:dan_x_preferred":[
         "Ta' Xbiex"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:eng_x_preferred":[
         "Ta' Xbiex"
+    ],
+    "name:epo_x_preferred":[
+        "Ta\u2019 Xbiex"
     ],
     "name:eus_x_preferred":[
         "Ta' Xbiex"
@@ -104,6 +110,9 @@
     "name:rus_x_preferred":[
         "\u0422\u0430-\u0428\u0431\u0438\u0448"
     ],
+    "name:rus_x_variant":[
+        "\u0422\u0430\u0448\u0431\u0438\u0435\u0448"
+    ],
     "name:scn_x_preferred":[
         "Ta' Xbiex"
     ],
@@ -139,6 +148,9 @@
     ],
     "name:vie_x_preferred":[
         "Ta' Xbiex"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u6bd4\u514b\u65af"
     ],
     "qs:a0":"Malta",
     "qs:a1":"*Ta'  Xbiex",
@@ -178,7 +190,7 @@
         }
     ],
     "wof:id":101752413,
-    "wof:lastmodified":1561845142,
+    "wof:lastmodified":1563917065,
     "wof:name":"Ta' Xbiex",
     "wof:parent_id":85686869,
     "wof:placetype":"locality",

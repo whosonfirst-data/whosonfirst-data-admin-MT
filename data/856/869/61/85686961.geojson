@@ -24,35 +24,80 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u0627\u062a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u0981\u09a8\u09cd\u09af\u09be\u09ce"
+    ],
     "name:cat_x_preferred":[
         "Sannat"
     ],
     "name:ceb_x_preferred":[
         "Sannat"
     ],
+    "name:dan_x_preferred":[
+        "Sannat"
+    ],
     "name:deu_x_preferred":[
         "Sannat"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03bd\u03ac\u03c4"
+    ],
     "name:eng_x_preferred":[
+        "Sannat"
+    ],
+    "name:epo_x_preferred":[
         "Sannat"
     ],
     "name:eus_x_preferred":[
         "Sannat"
     ],
+    "name:fin_x_preferred":[
+        "Sannat"
+    ],
     "name:fra_x_preferred":[
         "Ta' Sannat"
     ],
+    "name:fra_x_variant":[
+        "Sannat"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0aa8\u0acd\u0aa8\u0abe\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0928\u0924"
+    ],
     "name:hun_x_preferred":[
+        "Sannat"
+    ],
+    "name:ind_x_preferred":[
         "Sannat"
     ],
     "name:ita_x_preferred":[
         "Sannat"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30ca\u30c3\u30c8"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ca8\u0ccd\u0ca8\u0cbe\u0ca4\u0ccd"
+    ],
     "name:kor_x_preferred":[
         "\uc0ac\ub098\ud2b8"
     ],
+    "name:kor_x_variant":[
+        "\uc0b0\ub098\ud2b8"
+    ],
+    "name:lav_x_preferred":[
+        "Sanata"
+    ],
     "name:lit_x_preferred":[
         "Sanatas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0928\u094d\u0928\u093e\u091f"
     ],
     "name:mlt_x_preferred":[
         "Sannat"
@@ -60,7 +105,13 @@
     "name:mlt_x_variant":[
         "Ta\u2019 Sannat"
     ],
+    "name:msa_x_preferred":[
+        "Sannat"
+    ],
     "name:nld_x_preferred":[
+        "Sannat"
+    ],
+    "name:nob_x_preferred":[
         "Sannat"
     ],
     "name:pol_x_preferred":[
@@ -69,8 +120,14 @@
     "name:por_x_preferred":[
         "Sannat"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043d\u0430\u0442"
+    ],
     "name:scn_x_preferred":[
         "Sannat"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0db1\u0dca\u0db1\u0da7\u0dca"
     ],
     "name:spa_x_preferred":[
         "Sannat"
@@ -78,8 +135,29 @@
     "name:swe_x_preferred":[
         "Sannat"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0ba9\u0bcd\u0ba9\u0b9f\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c28\u0c4d\u0c28\u0c24\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e0b\u0e19\u0e19\u0e32\u0e17"
+    ],
+    "name:tur_x_preferred":[
+        "Sannat"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u043d\u0430\u0442"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u0646\u0627\u062a"
+    ],
+    "name:vie_x_preferred":[
+        "Sannat"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u7eb3"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MLT",
@@ -184,7 +262,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1553624329,
+    "wof:lastmodified":1563917026,
     "wof:name":"Sannat",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

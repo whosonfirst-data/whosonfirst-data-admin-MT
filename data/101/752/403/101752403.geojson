@@ -44,6 +44,9 @@
     "name:eng_x_preferred":[
         "Floriana"
     ],
+    "name:epo_x_preferred":[
+        "Floriana"
+    ],
     "name:eus_x_preferred":[
         "Floriana"
     ],
@@ -155,6 +158,9 @@
     "name:vie_x_preferred":[
         "Floriana"
     ],
+    "name:zho_x_preferred":[
+        "\u5f17\u7f57\u745e\u5b89\u5a1c"
+    ],
     "qs:a0":"Malta",
     "qs:a1":"*Floriana",
     "qs:a1r":"0",
@@ -198,7 +204,7 @@
         }
     ],
     "wof:id":101752403,
-    "wof:lastmodified":1561845143,
+    "wof:lastmodified":1563917090,
     "wof:name":"Floriana",
     "wof:parent_id":85686855,
     "wof:placetype":"locality",
