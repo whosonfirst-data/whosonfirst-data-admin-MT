@@ -24,14 +24,176 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0633\u062a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cb\u09b8\u09cd\u09a4\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0441\u0442\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Mosta"
+    ],
+    "name:ceb_x_preferred":[
+        "Mosta"
+    ],
+    "name:ces_x_preferred":[
+        "Mosta"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u043e\u0441\u0442\u0430"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0645\u06c6\u0633\u062a\u0627"
+    ],
+    "name:dan_x_preferred":[
+        "Mosta"
+    ],
+    "name:deu_x_preferred":[
+        "Mosta"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03c3\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Mosta"
+    ],
+    "name:epo_x_preferred":[
+        "Mosta"
+    ],
+    "name:eus_x_preferred":[
+        "Mosta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0633\u062a\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Mosta"
+    ],
+    "name:fra_x_preferred":[
+        "Mosta"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0acb\u0ab8\u0acd\u0a9f\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0938\u094d\u091f\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Mosta"
+    ],
+    "name:hun_x_preferred":[
+        "Mosta"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u057d\u057f\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Mosta"
+    ],
+    "name:ita_x_preferred":[
+        "Musta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30b9\u30bf"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0ccb\u0cb8\u0ccd\u0c9f"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\uc2a4\ud0c0"
+    ],
+    "name:lat_x_preferred":[
+        "Mosta"
+    ],
+    "name:lav_x_preferred":[
+        "Mosta"
+    ],
+    "name:lit_x_preferred":[
+        "Mosta"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u094b\u0938\u094d\u091f\u093e"
     ],
     "name:mlt_x_preferred":[
         "Il-Mosta"
     ],
     "name:mlt_x_variant":[
         "Mosta"
+    ],
+    "name:msa_x_preferred":[
+        "Mosta"
+    ],
+    "name:nld_x_preferred":[
+        "Mosta"
+    ],
+    "name:nno_x_preferred":[
+        "Mosta"
+    ],
+    "name:nob_x_preferred":[
+        "Mosta"
+    ],
+    "name:oci_x_preferred":[
+        "Mosta"
+    ],
+    "name:pol_x_preferred":[
+        "Mosta"
+    ],
+    "name:por_x_preferred":[
+        "Mosta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0441\u0442\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Mosta"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0ddc\u0dc3\u0dca\u0da7\u0dcf"
+    ],
+    "name:slv_x_preferred":[
+        "Mosta"
+    ],
+    "name:sme_x_preferred":[
+        "Mosta"
+    ],
+    "name:spa_x_preferred":[
+        "Mosta"
+    ],
+    "name:swe_x_preferred":[
+        "Mosta"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bcb\u0bb8\u0bcd\u0ba4\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c4b\u0c38\u0c4d\u0c1f\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e21\u0e2a\u0e15\u0e32\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Mosta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0441\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0633\u062a\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Mosta"
+    ],
+    "name:vol_x_preferred":[
+        "Mosta"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10db\u10dd\u10e1\u10e2\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u65af\u5854"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MLT",
@@ -136,7 +298,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1553624328,
+    "wof:lastmodified":1563917028,
     "wof:name":"Mosta",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

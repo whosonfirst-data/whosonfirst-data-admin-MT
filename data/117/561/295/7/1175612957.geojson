@@ -47,6 +47,9 @@
     "name:eng_x_preferred":[
         "Bir\u017cebbu\u0121a"
     ],
+    "name:epo_x_preferred":[
+        "Bir\u017cebbu\u0121a"
+    ],
     "name:eus_x_preferred":[
         "Bir\u017cebbu\u0121a"
     ],
@@ -161,6 +164,9 @@
     "name:vie_x_preferred":[
         "Birzebbuga"
     ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10d8\u10e0\u10d6\u10d4\u10d1\u10e3\u10ef\u10d0"
+    ],
     "name:zho_x_preferred":[
         "\u6bd4\u5c14\u6cfd\u5e03\u8d3e"
     ],
@@ -207,7 +213,7 @@
         }
     ],
     "wof:id":1175612957,
-    "wof:lastmodified":1561845141,
+    "wof:lastmodified":1563917055,
     "wof:name":"Bir\u017cebbu\u0121a",
     "wof:parent_id":85686731,
     "wof:placetype":"locality",

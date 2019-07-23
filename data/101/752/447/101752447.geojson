@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Mellie\u0127a"
     ],
+    "name:ceb_x_preferred":[
+        "Il-Mellie\u0127a"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0435\u043b\u043b\u0438\u0435\u0445\u0430"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b5\u03bb\u03b9\u03b5\u03c7\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b5\u03bb\u03af\u03c7\u03b1"
     ],
     "name:eng_x_preferred":[
         "Mellie\u0127a"
@@ -149,6 +155,9 @@
     "name:vie_x_preferred":[
         "Mellieha"
     ],
+    "name:xmf_x_preferred":[
+        "\u10db\u10d4\u10da\u10d8\u10d4\u10f0\u10d0"
+    ],
     "name:zho_x_preferred":[
         "\u6885\u5229\u54c8"
     ],
@@ -190,7 +199,7 @@
         }
     ],
     "wof:id":101752447,
-    "wof:lastmodified":1561845142,
+    "wof:lastmodified":1563917064,
     "wof:name":"Mellieha",
     "wof:parent_id":85686947,
     "wof:placetype":"locality",

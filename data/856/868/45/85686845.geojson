@@ -51,11 +51,107 @@
     "name:deu_x_preferred":[
         "Piet\u00e0"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03b5\u03c4\u03ac"
+    ],
     "name:eng_x_preferred":[
         "Pieta'"
     ],
+    "name:eng_x_variant":[
+        "Piet\u00e0"
+    ],
     "name:epo_x_preferred":[
         "Pietato"
+    ],
+    "name:eus_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06a9\u0631\u0647 \u0633\u0648\u06af\u0648\u0627\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:fra_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:glg_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:grn_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05d9\u05d8\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:hun_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:ind_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:isl_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:ita_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30a8\u30bf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d8\u10d4\u10e2\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u044c\u0435\u0442\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ud53c\uc5d0\ud0c0"
+    ],
+    "name:lat_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:ltz_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:nld_x_preferred":[
+        "Pi\u00ebta"
+    ],
+    "name:nob_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:pol_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:por_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:ron_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u044c\u0435\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0438\u0458\u0435\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e35\u0e40\u0e2d\u0e15\u0e30"
+    ],
+    "name:tur_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f'\u0454\u0442\u0430"
     ],
     "qs:a0":"Malta",
     "qs:a0_lc":"MT00000",
@@ -96,7 +192,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1553624330,
+    "wof:lastmodified":1563917018,
     "wof:name":"Pieta'",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

@@ -24,8 +24,17 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u064a\u0645\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u0644\u064a\u0645\u0647"
+    ],
     "name:bel_x_variant":[
         "\u0421\u044c\u043b\u0456\u043c\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09b2\u09bf\u09af\u09bc\u09c7\u09ae\u09be"
     ],
     "name:bos_x_preferred":[
         "Sliema"
@@ -42,6 +51,9 @@
     "name:ckb_x_preferred":[
         "\u0633\u0644\u06cc\u0645\u0627"
     ],
+    "name:dan_x_preferred":[
+        "Sliema"
+    ],
     "name:deu_x_preferred":[
         "Sliema"
     ],
@@ -49,6 +61,9 @@
         "\u03a3\u03bb\u03b9\u03ad\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Sliema"
+    ],
+    "name:epo_x_preferred":[
         "Sliema"
     ],
     "name:eus_x_preferred":[
@@ -63,14 +78,26 @@
     "name:fra_x_preferred":[
         "Tas-Sliema"
     ],
+    "name:fra_x_variant":[
+        "Sliema"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acd\u0ab2\u0abf\u0a8f\u0aae\u0abe"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05dc\u05d9\u05de\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u0932\u093f\u092e\u093e"
     ],
     "name:hrv_x_preferred":[
         "Sliema"
     ],
     "name:hun_x_preferred":[
         "Sliema"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u056c\u0565\u0574\u0561"
     ],
     "name:ile_x_preferred":[
         "Sliema"
@@ -81,10 +108,19 @@
     "name:ita_x_preferred":[
         "Sliema"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ea\u30de"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0cb2\u0cc0\u0cae\u0cbe"
+    ],
     "name:kor_x_preferred":[
         "\uc2ac\ub9ac\ub9c8"
     ],
     "name:lat_x_preferred":[
+        "Sliema"
+    ],
+    "name:lav_x_preferred":[
         "Sliema"
     ],
     "name:lit_x_preferred":[
@@ -92,6 +128,9 @@
     ],
     "name:ltz_x_preferred":[
         "Sliema"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094d\u0932\u093f\u092e\u093e"
     ],
     "name:mlt_x_preferred":[
         "Tas-Sliema"
@@ -106,6 +145,9 @@
         "Sliema"
     ],
     "name:nld_x_preferred":[
+        "Sliema"
+    ],
+    "name:nob_x_preferred":[
         "Sliema"
     ],
     "name:nor_x_preferred":[
@@ -129,6 +171,12 @@
     "name:scn_x_preferred":[
         "Sliema"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dca\u0dbd\u0dd3\u0db8\u0dcf"
+    ],
+    "name:slv_x_preferred":[
+        "Sliema"
+    ],
     "name:sme_x_preferred":[
         "Sliema"
     ],
@@ -141,6 +189,18 @@
     "name:swe_x_preferred":[
         "Sliema"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bb2\u0bbf\u0baf\u0bc7\u0bae"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4d\u0c32\u0c3f\u0c2f\u0c47\u0c2e\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e40\u0e25\u0e35\u0e22\u0e21\u0e48\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Sliema"
+    ],
     "name:twi_x_preferred":[
         "Sliema"
     ],
@@ -150,8 +210,14 @@
     "name:urd_x_preferred":[
         "\u0633\u0644\u06cc\u0645\u0627"
     ],
+    "name:vie_x_preferred":[
+        "Sliema"
+    ],
     "name:vol_x_preferred":[
         "Sliema"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10da\u10d8\u10db\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u65af\u5229\u99ac"
@@ -259,7 +325,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1553624328,
+    "wof:lastmodified":1563917030,
     "wof:name":"Sliema",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

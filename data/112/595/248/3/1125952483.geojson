@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "San Pawl il-Ba\u0127ar"
     ],
+    "name:ceb_x_preferred":[
+        "San Pawl il-Ba\u0127ar"
+    ],
     "name:ces_x_preferred":[
         "St. Paul's Bay"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:eng_x_preferred":[
         "St. Paul's Bay"
+    ],
+    "name:epo_x_preferred":[
+        "San Pawl il-Ba\u0127ar"
     ],
     "name:eus_x_preferred":[
         "St. Paul's Bay"
@@ -166,6 +172,9 @@
     "name:vol_x_preferred":[
         "San Pawl il-Ba\u0127ar"
     ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10de\u10d0\u10e3\u10da-\u10d8\u10da-\u10d1\u10d0\u10f0\u10d0\u10e0\u10d8"
+    ],
     "name:zho_x_preferred":[
         "\u8056\u4fdd\u7f85\u7063\u57ce"
     ],
@@ -220,7 +229,7 @@
         }
     ],
     "wof:id":1125952483,
-    "wof:lastmodified":1561845145,
+    "wof:lastmodified":1563917107,
     "wof:name":"San Pawl il-Ba\u0127ar",
     "wof:parent_id":85686943,
     "wof:placetype":"locality",

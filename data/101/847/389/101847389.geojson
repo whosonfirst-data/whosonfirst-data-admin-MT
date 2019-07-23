@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Xlendi"
     ],
+    "name:fin_x_preferred":[
+        "Xlendi"
+    ],
     "name:fra_x_preferred":[
         "Ix-Xlendi"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101847389,
-    "wof:lastmodified":1561845145,
+    "wof:lastmodified":1563917106,
     "wof:name":"Xlendi",
     "wof:parent_id":85686989,
     "wof:placetype":"locality",

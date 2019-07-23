@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "St. Julian's"
     ],
+    "name:ceb_x_preferred":[
+        "Saint Julian's"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0435\u043d\u0442-\u0414\u0436\u0443\u043b\u0438\u0430\u043d\u0441"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:eng_x_preferred":[
         "St. Julian's"
+    ],
+    "name:epo_x_preferred":[
+        "San \u0120iljan"
     ],
     "name:eus_x_preferred":[
         "St. Julian's"
@@ -81,6 +87,9 @@
     ],
     "name:ita_x_preferred":[
         "San Julian's"
+    ],
+    "name:ita_x_variant":[
+        "San Giuliano"
     ],
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30b8\u30e5\u30ea\u30a2\u30f3"
@@ -169,6 +178,9 @@
     "name:vie_x_preferred":[
         "St. Julian's"
     ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d4\u10dc\u10e2-\u10ef\u10e3\u10da\u10d8\u10d0\u10dc\u10e1\u10d8"
+    ],
     "name:zho_x_preferred":[
         "\u8056\u6731\u5229\u5b89\u65af"
     ],
@@ -223,7 +235,7 @@
         }
     ],
     "wof:id":1125871657,
-    "wof:lastmodified":1561845145,
+    "wof:lastmodified":1563917114,
     "wof:name":"San \u0120iljan",
     "wof:parent_id":85686915,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Sannat"
     ],
+    "name:ceb_x_preferred":[
+        "Sannat"
+    ],
     "name:dan_x_preferred":[
         "Sannat"
     ],
@@ -36,6 +39,9 @@
         "\u03a3\u03b1\u03bd\u03bd\u03ac\u03c4"
     ],
     "name:eng_x_preferred":[
+        "Sannat"
+    ],
+    "name:epo_x_preferred":[
         "Sannat"
     ],
     "name:eus_x_preferred":[
@@ -73,6 +79,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0ac\ub098\ud2b8"
+    ],
+    "name:kor_x_variant":[
+        "\uc0b0\ub098\ud2b8"
     ],
     "name:lav_x_preferred":[
         "Sanata"
@@ -185,7 +194,7 @@
         }
     ],
     "wof:id":101752449,
-    "wof:lastmodified":1561845142,
+    "wof:lastmodified":1563917065,
     "wof:name":"Sannat",
     "wof:parent_id":85686961,
     "wof:placetype":"locality",

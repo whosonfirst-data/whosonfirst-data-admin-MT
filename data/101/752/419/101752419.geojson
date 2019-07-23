@@ -68,6 +68,9 @@
     "name:eng_x_preferred":[
         "Birkirkara"
     ],
+    "name:epo_x_preferred":[
+        "Birkirkara"
+    ],
     "name:eus_x_preferred":[
         "Birkirkara"
     ],
@@ -131,6 +134,9 @@
     "name:lat_x_preferred":[
         "Birkirkara"
     ],
+    "name:lat_x_variant":[
+        "Birchircara"
+    ],
     "name:lav_x_preferred":[
         "Birkirkara"
     ],
@@ -145,6 +151,9 @@
     ],
     "name:msa_x_preferred":[
         "Birkirkara"
+    ],
+    "name:myv_x_preferred":[
+        "\u0411\u0438\u0440\u043a\u0438\u0440\u043a\u0430\u0440\u0430 \u043e\u0448"
     ],
     "name:nld_x_preferred":[
         "Birkirkara"
@@ -200,6 +209,9 @@
     "name:swe_x_preferred":[
         "Birkirkara"
     ],
+    "name:szl_x_preferred":[
+        "Birkirkara"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0bb0\u0b95\u0bbf\u0bb0\u0b95\u0bb0\u0bbe"
     ],
@@ -226,6 +238,12 @@
     ],
     "name:vol_x_preferred":[
         "Birkirkara"
+    ],
+    "name:war_x_preferred":[
+        "Birkirkara"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10d8\u10e0\u10d9\u10d8\u10e0\u10d9\u10d0\u10e0\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u723e\u57fa\u5361\u62c9"
@@ -274,7 +292,7 @@
         }
     ],
     "wof:id":101752419,
-    "wof:lastmodified":1561845143,
+    "wof:lastmodified":1563917083,
     "wof:name":"Birkirkara",
     "wof:parent_id":85686879,
     "wof:placetype":"locality",

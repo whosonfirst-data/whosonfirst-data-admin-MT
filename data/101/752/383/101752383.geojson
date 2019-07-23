@@ -17,8 +17,17 @@
     "mps:longitude":14.493955,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0633\u0649"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0440\u0441\u0430"
+    ],
     "name:cat_x_preferred":[
         "Marsa"
+    ],
+    "name:ceb_x_preferred":[
+        "Il-Marsa"
     ],
     "name:ckb_x_preferred":[
         "\u0645\u0627\u0631\u0633\u0627"
@@ -30,6 +39,9 @@
         "\u039c\u03ac\u03c1\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Marsa"
+    ],
+    "name:epo_x_preferred":[
         "Marsa"
     ],
     "name:eus_x_preferred":[
@@ -49,6 +61,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0580\u057d\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Marsa"
     ],
     "name:ita_x_preferred":[
         "Marsa"
@@ -101,6 +116,9 @@
     "name:urd_x_preferred":[
         "\u0645\u0627\u0631\u0633\u0627\u060c \u0645\u0627\u0644\u0679\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u0627\u0631\u0633\u0627"
+    ],
     "name:xmf_x_preferred":[
         "\u10db\u10d0\u10e0\u10e1\u10d0"
     ],
@@ -151,7 +169,7 @@
         }
     ],
     "wof:id":101752383,
-    "wof:lastmodified":1561845142,
+    "wof:lastmodified":1563917076,
     "wof:name":"Marsa",
     "wof:parent_id":85686803,
     "wof:placetype":"locality",

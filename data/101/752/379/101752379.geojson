@@ -56,6 +56,9 @@
     "name:eng_x_variant":[
         "Marsaskala"
     ],
+    "name:epo_x_preferred":[
+        "Marsaskala"
+    ],
     "name:eus_x_preferred":[
         "Marsaskala"
     ],
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":101752379,
-    "wof:lastmodified":1561845142,
+    "wof:lastmodified":1563917075,
     "wof:name":"Marsaskala",
     "wof:parent_id":85686785,
     "wof:placetype":"locality",

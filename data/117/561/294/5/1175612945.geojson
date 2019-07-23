@@ -20,7 +20,7 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0645\u064a"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u041a\u043e\u0440\u043c\u0456"
     ],
     "name:ben_x_preferred":[
@@ -91,6 +91,9 @@
     ],
     "name:ita_x_preferred":[
         "Curmi"
+    ],
+    "name:ita_x_variant":[
+        "Qormi"
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30eb\u30df"
@@ -243,7 +246,7 @@
         }
     ],
     "wof:id":1175612945,
-    "wof:lastmodified":1561845141,
+    "wof:lastmodified":1563917059,
     "wof:name":"Qormi",
     "wof:parent_id":85686805,
     "wof:placetype":"locality",

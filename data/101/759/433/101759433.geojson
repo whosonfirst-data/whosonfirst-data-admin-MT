@@ -19,14 +19,38 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0642\u0644\u0639\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0627\u0643\u0627\u0644\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "Ta' Qali"
+    ],
+    "name:bre_x_preferred":[
+        "Ta' Qali"
+    ],
+    "name:cat_x_preferred":[
+        "Ta' Qali"
+    ],
+    "name:ceb_x_preferred":[
+        "Ta\u2019 Qali"
+    ],
+    "name:deu_x_preferred":[
+        "Ta' Qali"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03b1' \u039a\u03ac\u03bb\u03b9"
     ],
     "name:eng_x_preferred":[
         "Ta' Qali"
     ],
+    "name:est_x_preferred":[
+        "Ta' Qali"
+    ],
     "name:fin_x_preferred":[
         "Ta\u2019 Qali"
+    ],
+    "name:fin_x_variant":[
+        "Ta' Qali"
     ],
     "name:fra_x_preferred":[
         "Ta' Qali"
@@ -36,6 +60,9 @@
     ],
     "name:hun_x_preferred":[
         "Ta\u2019 Qali"
+    ],
+    "name:ind_x_preferred":[
+        "Ta' Qali"
     ],
     "name:ita_x_preferred":[
         "Ta' Qali"
@@ -63,6 +90,9 @@
     ],
     "name:spa_x_preferred":[
         "Ta' Qali"
+    ],
+    "name:swe_x_preferred":[
+        "Ta\u2019 Qali"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0430-\u041a\u0430\u043b\u0456"
@@ -115,7 +145,7 @@
         }
     ],
     "wof:id":101759433,
-    "wof:lastmodified":1561845144,
+    "wof:lastmodified":1563917102,
     "wof:name":"Ta' Qali",
     "wof:parent_id":85686851,
     "wof:placetype":"locality",

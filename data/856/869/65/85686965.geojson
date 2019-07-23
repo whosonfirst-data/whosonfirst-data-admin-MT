@@ -24,35 +24,77 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0646\u0643\u0633\u0627\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09c1\u09a8\u0995\u09cd\u09b8\u09be\u09b0"
+    ],
     "name:cat_x_preferred":[
         "Munxar"
     ],
     "name:ceb_x_preferred":[
         "Il-Munxar"
     ],
+    "name:dan_x_preferred":[
+        "Munxar"
+    ],
     "name:deu_x_preferred":[
         "Munxar"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03bd\u03ba\u03c3\u03ac\u03c1"
+    ],
     "name:eng_x_preferred":[
+        "Munxar"
+    ],
+    "name:epo_x_preferred":[
         "Munxar"
     ],
     "name:eus_x_preferred":[
         "Munxar"
     ],
+    "name:fin_x_preferred":[
+        "Munxar"
+    ],
     "name:fra_x_preferred":[
         "Il-Munxar"
     ],
+    "name:fra_x_variant":[
+        "Munxar"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0ac1\u0aa8\u0acd\u0a95\u0acd\u0ab8\u0ab0"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0941\u0928\u094d\u0915\u094d\u0938\u093e\u0930"
+    ],
     "name:hun_x_preferred":[
+        "Munxar"
+    ],
+    "name:ind_x_preferred":[
         "Munxar"
     ],
     "name:ita_x_preferred":[
         "Monsciar"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30f3\u30b7\u30fc"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cc1\u0ca8\u0ccd\u0cb8\u0cbe\u0cb0\u0ccd"
+    ],
     "name:kor_x_preferred":[
         "\ubb38\uc0e4\ub974"
     ],
+    "name:lav_x_preferred":[
+        "Mun\u0161ara"
+    ],
     "name:lit_x_preferred":[
         "Mun\u0161aras"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0941\u0902\u091c\u093e\u0930"
     ],
     "name:mlt_x_preferred":[
         "Munxar"
@@ -60,7 +102,13 @@
     "name:mlt_x_variant":[
         "Il-Munxar"
     ],
+    "name:msa_x_preferred":[
+        "Munxar"
+    ],
     "name:nld_x_preferred":[
+        "Munxar"
+    ],
+    "name:nob_x_preferred":[
         "Munxar"
     ],
     "name:pol_x_preferred":[
@@ -75,14 +123,38 @@
     "name:scn_x_preferred":[
         "Munxar"
     ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dd4\u0db1\u0dca\u0d9a\u0dca\u0dc3\u0dcf\u0dbb\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Munxar"
     ],
     "name:swe_x_preferred":[
         "Il-Munxar"
     ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc1\u0ba9\u0bcd\u0b95\u0bcd\u0bb8\u0bbe\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c41\u0c02\u0c15\u0c4d\u0c38\u0c3e\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e42\u0e2d\u0e42\u0e23\u0e40\u0e21\u0e35\u0e22"
+    ],
+    "name:tur_x_preferred":[
+        "Munxar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0448\u0430\u0440"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0646\u0634\u0627\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Munxar"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u6c99\u5c14"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MLT",
@@ -187,7 +259,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1553624329,
+    "wof:lastmodified":1563917030,
     "wof:name":"Munxar",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

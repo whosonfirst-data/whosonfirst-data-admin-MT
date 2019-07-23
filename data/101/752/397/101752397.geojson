@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Santa Venera"
     ],
+    "name:ceb_x_preferred":[
+        "Santa Venera"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u0412\u0435\u043d\u0435\u0440\u0430"
     ],
@@ -43,6 +46,12 @@
     ],
     "name:eng_x_preferred":[
         "Saint Venera"
+    ],
+    "name:eng_x_variant":[
+        "Santa Venera"
+    ],
+    "name:epo_x_preferred":[
+        "Santa Venera"
     ],
     "name:eus_x_preferred":[
         "Santa Venera"
@@ -197,7 +206,7 @@
         }
     ],
     "wof:id":101752397,
-    "wof:lastmodified":1561845142,
+    "wof:lastmodified":1563917063,
     "wof:name":"Santa Venera",
     "wof:parent_id":85686837,
     "wof:placetype":"locality",

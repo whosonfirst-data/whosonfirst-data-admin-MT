@@ -24,7 +24,16 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0641\u064a\u0646\u064a\u0631\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09be \u09ad\u09c7\u09a8\u09c7\u09b0\u09be"
+    ],
     "name:cat_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:ceb_x_preferred":[
         "Santa Venera"
     ],
     "name:che_x_preferred":[
@@ -33,8 +42,14 @@
     "name:ckb_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u06a4\u06ce\u0646\u06ce\u0631\u0627"
     ],
+    "name:dan_x_preferred":[
+        "Santa Venera"
+    ],
     "name:deu_x_preferred":[
         "Santa Venera"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u0392\u03b5\u03bd\u03ad\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Santa Venera"
@@ -42,20 +57,41 @@
     "name:eng_x_variant":[
         "Saint Venera"
     ],
+    "name:epo_x_preferred":[
+        "Santa Venera"
+    ],
     "name:eus_x_preferred":[
         "Santa Venera"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0648\u0646\u0631\u0627"
     ],
+    "name:fin_x_preferred":[
+        "Santa Venera"
+    ],
     "name:fra_x_preferred":[
         "Santa Venera"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0aa8\u0acd\u0a9f\u0abe \u0ab5\u0ac7\u0aa8\u0ac7\u0ab0\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0902\u091f\u093e \u0935\u0947\u0928\u0947\u0930\u093e"
     ],
     "name:hun_x_preferred":[
         "Santa Venera"
     ],
+    "name:ind_x_preferred":[
+        "Santa Venera"
+    ],
     "name:ita_x_preferred":[
         "Santa Venera"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30f4\u30a7\u30cd\u30e9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0c82\u0ca4 \u0cb5\u0cc6\u0ca8\u0cc6\u0cb0\u0cbe"
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ud0c0\ubca0\ub124\ub77c"
@@ -63,13 +99,25 @@
     "name:lat_x_preferred":[
         "Santa Venera"
     ],
+    "name:lav_x_preferred":[
+        "Santa Venera"
+    ],
     "name:lit_x_preferred":[
         "Santa Venera"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093e\u0902\u0924\u093e \u0935\u094d\u0939\u0947\u0928\u0947\u0930\u093e"
     ],
     "name:mlt_x_preferred":[
         "Santa Venera"
     ],
+    "name:msa_x_preferred":[
+        "Santa Venera"
+    ],
     "name:nld_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:nob_x_preferred":[
         "Santa Venera"
     ],
     "name:pol_x_preferred":[
@@ -84,10 +132,25 @@
     "name:scn_x_preferred":[
         "Santa Venera"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca\u0da7\u0dcf \u0dc0\u0dd9\u0db1\u0dda\u0dbb\u0dcf"
+    ],
     "name:spa_x_preferred":[
         "Santa Venera"
     ],
     "name:swe_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe  \u0bb5\u0bc6\u0ba9\u0bc0\u0bb0\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c02\u0c1f\u0c3e \u0c35\u0c46\u0c28\u0c46\u0c30\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19\u0e15\u0e49\u0e32 \u0e27\u0e35\u0e40\u0e19\u0e23\u0e32"
+    ],
+    "name:tur_x_preferred":[
         "Santa Venera"
     ],
     "name:ukr_x_preferred":[
@@ -95,6 +158,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0648\u06cc\u0646\u06cc\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Santa Venera"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10d5\u10d4\u10dc\u10d4\u10e0\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u8056\u97cb\u5167\u62c9"
@@ -202,7 +271,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1553624330,
+    "wof:lastmodified":1563917020,
     "wof:name":"Santa Venera",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

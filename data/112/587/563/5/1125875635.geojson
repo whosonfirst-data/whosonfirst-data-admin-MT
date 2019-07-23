@@ -39,6 +39,9 @@
     "name:nld_x_preferred":[
         "Marsalforn"
     ],
+    "name:pol_x_preferred":[
+        "Marsalforn"
+    ],
     "name:swe_x_preferred":[
         "Marsalforn"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125875635,
-    "wof:lastmodified":1561845145,
+    "wof:lastmodified":1563917114,
     "wof:name":"Marsalforn",
     "wof:parent_id":85687017,
     "wof:placetype":"locality",

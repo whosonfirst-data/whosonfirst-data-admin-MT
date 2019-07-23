@@ -26,11 +26,17 @@
     "name:cat_x_preferred":[
         "\u0126amrun"
     ],
+    "name:ceb_x_preferred":[
+        "Il-\u0126amrun"
+    ],
     "name:ces_x_preferred":[
         "\u0126amrun"
     ],
     "name:ckb_x_preferred":[
         "\u062d\u0627\u0645\u0631\u0648\u0646\u060c \u0645\u0627\u06b5\u062a\u0627"
+    ],
+    "name:ckb_x_variant":[
+        "\u062d\u0627\u0645\u0631\u0648\u0646"
     ],
     "name:dan_x_preferred":[
         "\u0126amrun"
@@ -44,11 +50,17 @@
     "name:eng_x_preferred":[
         "\u0126amrun"
     ],
+    "name:epo_x_preferred":[
+        "\u0126amrun"
+    ],
     "name:eus_x_preferred":[
         "\u0126amrun"
     ],
     "name:fas_x_preferred":[
         "\u0647\u0627\u0631\u0648\u0646\u060c \u0645\u0627\u0644\u062a"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u0627\u0631\u0648\u0646"
     ],
     "name:fin_x_preferred":[
         "\u0126amrun"
@@ -203,7 +215,7 @@
         }
     ],
     "wof:id":101752395,
-    "wof:lastmodified":1561845142,
+    "wof:lastmodified":1563917078,
     "wof:name":"Hamrun",
     "wof:parent_id":85686823,
     "wof:placetype":"locality",

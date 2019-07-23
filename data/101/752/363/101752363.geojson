@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Gudja"
     ],
+    "name:ceb_x_preferred":[
+        "Il-Gudja"
+    ],
     "name:dan_x_preferred":[
         "Gudja"
     ],
@@ -36,6 +39,9 @@
         "\u0393\u03ba\u03bf\u03cd\u03bd\u03c4\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Gudja"
+    ],
+    "name:epo_x_preferred":[
         "Gudja"
     ],
     "name:eus_x_preferred":[
@@ -73,6 +79,9 @@
     ],
     "name:lat_x_preferred":[
         "Gudja"
+    ],
+    "name:lat_x_variant":[
+        "Gudia"
     ],
     "name:lav_x_preferred":[
         "Gud\u017ea"
@@ -185,7 +194,7 @@
         }
     ],
     "wof:id":101752363,
-    "wof:lastmodified":1561845142,
+    "wof:lastmodified":1563917064,
     "wof:name":"Gudja",
     "wof:parent_id":85686747,
     "wof:placetype":"locality",

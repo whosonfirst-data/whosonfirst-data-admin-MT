@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Lija"
     ],
+    "name:ceb_x_preferred":[
+        "Lija"
+    ],
     "name:dan_x_preferred":[
         "Lija"
     ],
@@ -36,6 +39,9 @@
         "\u039b\u03af\u03c4\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Lija"
+    ],
+    "name:epo_x_preferred":[
         "Lija"
     ],
     "name:eus_x_preferred":[
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":101752415,
-    "wof:lastmodified":1561845142,
+    "wof:lastmodified":1563917067,
     "wof:name":"Lija",
     "wof:parent_id":85686871,
     "wof:placetype":"locality",

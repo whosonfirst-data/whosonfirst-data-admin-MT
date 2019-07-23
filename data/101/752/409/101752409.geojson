@@ -245,6 +245,9 @@
     "name:swe_x_preferred":[
         "Il-Kalkara"
     ],
+    "name:swe_x_variant":[
+        "Kalkara"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bb2\u0bcd\u0b95\u0bbe\u0bb0"
     ],
@@ -334,7 +337,7 @@
         }
     ],
     "wof:id":101752409,
-    "wof:lastmodified":1561845142,
+    "wof:lastmodified":1563917073,
     "wof:name":"Kalkara",
     "wof:parent_id":85686863,
     "wof:placetype":"locality",

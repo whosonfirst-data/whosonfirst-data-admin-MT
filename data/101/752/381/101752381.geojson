@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000328,
-    "geom:area_square_m":3288506.30203,
+    "geom:area_square_m":3288506.302032,
     "geom:bbox":"14.4307113573,35.867142,14.458976,35.8878236946",
     "geom:latitude":35.876754,
     "geom:longitude":14.442963,
@@ -17,11 +17,17 @@
     "mps:longitude":14.440818,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Haz-Zebbug"
+    ],
     "name:eng_x_preferred":[
         "Haz-Zebbug"
     ],
     "name:rus_x_preferred":[
         "\u0417\u0435\u0431\u0431\u0443\u0434\u0436"
+    ],
+    "name:swe_x_preferred":[
+        "Haz-Zebbug"
     ],
     "name:unk_x_variant":[
         "Zebbuj"
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":101752381,
-    "wof:lastmodified":1505337727,
+    "wof:lastmodified":1563917092,
     "wof:name":"Zebbug",
     "wof:parent_id":85686789,
     "wof:placetype":"locality",

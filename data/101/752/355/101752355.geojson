@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Qrendi"
     ],
+    "name:ceb_x_preferred":[
+        "Il-Qrendi"
+    ],
     "name:ces_x_preferred":[
         "Qrendi"
     ],
@@ -39,6 +42,9 @@
         "\u039a\u03c1\u03ad\u03bd\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
+        "Qrendi"
+    ],
+    "name:epo_x_preferred":[
         "Qrendi"
     ],
     "name:eus_x_preferred":[
@@ -67,6 +73,9 @@
     ],
     "name:ita_x_preferred":[
         "Crendi"
+    ],
+    "name:ita_x_variant":[
+        "Qrendi"
     ],
     "name:jpn_x_preferred":[
         "\u30ec\u30f3\u30c7\u30a3"
@@ -188,7 +197,7 @@
         }
     ],
     "wof:id":101752355,
-    "wof:lastmodified":1561845142,
+    "wof:lastmodified":1563917062,
     "wof:name":"Qrendi",
     "wof:parent_id":85686721,
     "wof:placetype":"locality",

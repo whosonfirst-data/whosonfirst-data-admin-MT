@@ -24,35 +24,86 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u064a\u0646\u062f\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c1\u09b0\u09c7\u09a8\u09cd\u09a1\u09bf"
+    ],
     "name:cat_x_preferred":[
         "Qrendi"
     ],
     "name:ceb_x_preferred":[
         "Il-Qrendi"
     ],
+    "name:ces_x_preferred":[
+        "Qrendi"
+    ],
+    "name:dan_x_preferred":[
+        "Qrendi"
+    ],
     "name:deu_x_preferred":[
         "Qrendi"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03ad\u03bd\u03c4\u03b9"
+    ],
     "name:eng_x_preferred":[
+        "Qrendi"
+    ],
+    "name:epo_x_preferred":[
         "Qrendi"
     ],
     "name:eus_x_preferred":[
         "Qrendi"
     ],
+    "name:fin_x_preferred":[
+        "Qrendi"
+    ],
     "name:fra_x_preferred":[
         "Il-Qrendi"
     ],
+    "name:fra_x_variant":[
+        "Qrendi"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acd\u0ab0\u0ac7\u0aa8\u0acd\u0aa1\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0941\u0930\u0947\u0928\u094d\u0926\u0940"
+    ],
     "name:hun_x_preferred":[
+        "Qrendi"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0580\u0565\u0576\u0564\u056b"
+    ],
+    "name:ind_x_preferred":[
         "Qrendi"
     ],
     "name:ita_x_preferred":[
         "Crendi"
     ],
+    "name:ita_x_variant":[
+        "Qrendi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30f3\u30c7\u30a3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccd\u0cb0\u0cc6\u0c82\u0ca1\u0cbf"
+    ],
     "name:kor_x_preferred":[
         "\ub80c\ub514"
     ],
+    "name:lav_x_preferred":[
+        "Krendi"
+    ],
     "name:lit_x_preferred":[
         "Krendis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094d\u0930\u0947\u0902\u0921\u0940"
     ],
     "name:mlt_x_preferred":[
         "Il-Qrendi"
@@ -60,7 +111,13 @@
     "name:mlt_x_variant":[
         "Qrendi"
     ],
+    "name:msa_x_preferred":[
+        "Qrendi"
+    ],
     "name:nld_x_preferred":[
+        "Qrendi"
+    ],
+    "name:nob_x_preferred":[
         "Qrendi"
     ],
     "name:pol_x_preferred":[
@@ -69,8 +126,14 @@
     "name:por_x_preferred":[
         "Qrendi"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0435\u043d\u0434\u0438"
+    ],
     "name:scn_x_preferred":[
         "Qrendi"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd4\u0dbb\u0dd9\u0db1\u0dca\u0da9\u0dd2"
     ],
     "name:spa_x_preferred":[
         "Qrendi"
@@ -78,8 +141,26 @@
     "name:swe_x_preferred":[
         "Il-Qrendi"
     ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0bb0\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4d\u0c30\u0c46\u0c02\u0c21\u0c3f"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e04\u0e23\u0e19\u0e14\u0e34"
+    ],
+    "name:tur_x_preferred":[
+        "Qrendi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0435\u043d\u0434\u0456"
+    ],
     "name:urd_x_preferred":[
         "\u0622\u0631\u06cc\u0646\u062f\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Qrendi"
     ],
     "name:zho_x_preferred":[
         "\u594e\u502b\u8fea"
@@ -187,7 +268,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1553624330,
+    "wof:lastmodified":1563917036,
     "wof:name":"Qrendi",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
