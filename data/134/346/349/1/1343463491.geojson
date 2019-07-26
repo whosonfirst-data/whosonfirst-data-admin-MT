@@ -25,6 +25,18 @@
     "iso:country":"MT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "\u0126al-Far"
+    ],
+    "name:fra_x_preferred":[
+        "\u0126al-Far"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d0\u05dc \u05e4\u05d0\u05e8"
+    ],
+    "name:ita_x_preferred":[
+        "\u0126al Far"
+    ],
     "name:und_x_variant":[
         "\u0126al Far"
     ],
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1343463491,
-    "wof:lastmodified":1537665822,
+    "wof:lastmodified":1564122616,
     "wof:name":"Hal Far",
     "wof:parent_id":85686731,
     "wof:placetype":"locality",

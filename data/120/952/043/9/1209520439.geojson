@@ -25,6 +25,18 @@
     "iso:country":"MT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bor\u0121 in-Nadur"
+    ],
+    "name:ita_x_preferred":[
+        "Bor\u0121 in-Nadur"
+    ],
+    "name:pol_x_preferred":[
+        "Bor\u0121 in-Nadur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0434\u0436 \u0438\u043d-\u041d\u0430\u0434\u0443\u0440"
+    ],
     "name:und_x_variant":[
         "Nadur",
         "Bor\u0121 in-Nadur"
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1209520439,
-    "wof:lastmodified":1537665822,
+    "wof:lastmodified":1564122628,
     "wof:name":"Borg in-Nadur",
     "wof:parent_id":85633331,
     "wof:placetype":"locality",

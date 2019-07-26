@@ -24,6 +24,12 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0444\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Safi"
+    ],
     "name:deu_x_preferred":[
         "Safi"
     ],
@@ -62,6 +68,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0444\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Safi"
+    ],
+    "name:tur_x_preferred":[
+        "Safi"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MLT",
@@ -165,7 +177,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1553624330,
+    "wof:lastmodified":1564122622,
     "wof:name":"Safi",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
