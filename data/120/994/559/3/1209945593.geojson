@@ -25,6 +25,18 @@
     "iso:country":"MT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bubaqra"
+    ],
+    "name:fra_x_preferred":[
+        "Bubagra"
+    ],
+    "name:hun_x_preferred":[
+        "Bubaqra"
+    ],
+    "name:swe_x_preferred":[
+        "Bubaqra"
+    ],
     "name:und_x_variant":[
         "Bubakra",
         "Bubaqra"
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1209945593,
-    "wof:lastmodified":1537665822,
+    "wof:lastmodified":1564122629,
     "wof:name":"Bubaqra",
     "wof:parent_id":85686717,
     "wof:placetype":"locality",

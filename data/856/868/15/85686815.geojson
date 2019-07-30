@@ -39,6 +39,9 @@
     "name:fra_x_preferred":[
         "Paola"
     ],
+    "name:fry_x_preferred":[
+        "Paola"
+    ],
     "name:ita_x_preferred":[
         "Paola"
     ],
@@ -183,7 +186,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1553624330,
+    "wof:lastmodified":1564122618,
     "wof:name":"Paola",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

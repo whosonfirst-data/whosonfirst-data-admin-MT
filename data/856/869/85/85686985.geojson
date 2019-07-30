@@ -27,6 +27,9 @@
     "name:aze_x_preferred":[
         "Qala"
     ],
+    "name:ceb_x_preferred":[
+        "Qala"
+    ],
     "name:eng_x_preferred":[
         "Qala"
     ],
@@ -34,6 +37,9 @@
         "Il-Qala"
     ],
     "name:mlt_x_variant":[
+        "Qala"
+    ],
+    "name:swe_x_preferred":[
         "Qala"
     ],
     "ne:abbrev":"",
@@ -138,7 +144,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1553624329,
+    "wof:lastmodified":1564122621,
     "wof:name":"Qala",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

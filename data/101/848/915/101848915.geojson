@@ -19,6 +19,9 @@
     "name:fra_x_preferred":[
         "Delimara"
     ],
+    "name:pol_x_preferred":[
+        "Delimara"
+    ],
     "qs:a0":"Malta",
     "qs:a1":"*Marsaxlokk",
     "qs:a1r":"0",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101848915,
-    "wof:lastmodified":1544740694,
+    "wof:lastmodified":1564122635,
     "wof:name":"Delimara",
     "wof:parent_id":85686743,
     "wof:placetype":"locality",
