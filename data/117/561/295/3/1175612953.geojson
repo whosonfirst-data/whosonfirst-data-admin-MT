@@ -11,12 +11,16 @@
     "geom:longitude":14.225454,
     "gn:population":631,
     "iso:country":"MT",
+    "lbl:bbox":"14.205454,36.037594,14.245454,36.077594",
     "lbl:latitude":36.057594,
     "lbl:longitude":14.225454,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":36.057594,
     "mps:longitude":14.225454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0633\u0631\u064a"
     ],
@@ -146,7 +150,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0441\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Il-G\u0127asri"
     ],
     "name:urd_x_preferred":[
@@ -175,7 +179,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -187,7 +191,6 @@
     "wof:concordances":{
         "gn:id":2563052,
         "gp:id":483347,
-        "qs:id":91868,
         "qs_pg:id":91868,
         "wd:id":"Q1017339",
         "wk:page":"G\u0127asri"
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":1175612953,
-    "wof:lastmodified":1563917056,
+    "wof:lastmodified":1566612061,
     "wof:name":"Ghasri",
     "wof:parent_id":85687013,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MT",
     "lbl:latitude":35.927296,
     "lbl:longitude":14.374678,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":35.927296,
     "mps:longitude":14.374678,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "M\u0121arr"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,10 +71,12 @@
     "wof:concordances":{
         "gn:id":2562734,
         "gp:id":483433,
-        "qs:id":9,
-        "qs_pg:id":302100,
+        "qs_pg:id":9,
         "wd:id":"Q737590",
         "wk:page":"M\u0121arr, Gozo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":302100
     },
     "wof:country":"MT",
     "wof:geomhash":"d8c2813236e5f822f6c6891d98ef8a19",
@@ -84,7 +89,7 @@
         }
     ],
     "wof:id":101846469,
-    "wof:lastmodified":1563917105,
+    "wof:lastmodified":1566612074,
     "wof:name":"Mgarr",
     "wof:parent_id":85686929,
     "wof:placetype":"locality",

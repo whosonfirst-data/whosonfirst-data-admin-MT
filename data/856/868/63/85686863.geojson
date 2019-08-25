@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":35.890921,
     "lbl:longitude":14.531934,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.890921,
     "mps:longitude":14.531934,
     "mz:hierarchy_label":1,
@@ -363,7 +364,7 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"MT-21",
     "wd:wordcount":3184,
     "wof:belongsto":[
@@ -397,7 +398,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1563917021,
+    "wof:lastmodified":1566612048,
     "wof:name":"Kalkara",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

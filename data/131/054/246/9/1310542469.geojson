@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Malta",
     "iso:country":"MT",
+    "lbl:bbox":"14.5225,35.82667,14.5625,35.86667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hal Jinwi",
         "\u0126al \u0120inwi"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310542469,
-    "wof:lastmodified":1537665821,
+    "wof:lastmodified":1566612062,
     "wof:name":"Hal Ginwi",
     "wof:parent_id":85686743,
     "wof:placetype":"locality",

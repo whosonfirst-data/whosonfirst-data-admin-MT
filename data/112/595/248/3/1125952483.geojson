@@ -9,15 +9,18 @@
     "geom:bbox":"14.41561,35.95064,14.41561,35.95064",
     "geom:latitude":35.95064,
     "geom:longitude":14.41561,
-    "gn:gn_country":"MT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":14057,
+    "gn:country":"MT",
+    "gn:fcode":"PPL",
     "gn:population":14057,
     "iso:country":"MT",
+    "lbl:bbox":"14.39561,35.93064,14.43561,35.97064",
     "lbl:latitude":35.95064,
     "lbl:longitude":14.41561,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0634\u0627\u0631\u0639 \u062e\u0644\u064a\u062c \u0628\u0648\u0644"
@@ -146,7 +149,7 @@
         "St. Paul's Bay"
     ],
     "name:tam_x_preferred":[
-        "\u0bb8\u0bcd\u0b9f\u0bcd. \u0baa\u0bbe\u0bb2\u0bcd\u0bb8\u0bcd  \u0baa\u0bc7"
+        "\u0bb8\u0bcd\u0b9f\u0bcd. \u0baa\u0bbe\u0bb2\u0bcd\u0bb8\u0bcd \u0baa\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c2a\u0c3e\u0c32\u0c4d\u0c38\u0c4d \u0c2c\u0c47"
@@ -160,7 +163,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u044c-\u0456\u043b\u044c-\u0411\u0430\u0445\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint Paul's Bay"
     ],
     "name:urd_x_preferred":[
@@ -199,7 +202,7 @@
     "qs_pg:woe_adm0":23424897,
     "qs_pg:woe_id":483469,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424897,
     "woe:name_adm0":"Malta",
@@ -229,7 +232,7 @@
         }
     ],
     "wof:id":1125952483,
-    "wof:lastmodified":1563917107,
+    "wof:lastmodified":1566612076,
     "wof:name":"San Pawl il-Ba\u0127ar",
     "wof:parent_id":85686943,
     "wof:placetype":"locality",

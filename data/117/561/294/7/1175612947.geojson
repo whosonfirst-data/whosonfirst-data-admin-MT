@@ -13,10 +13,13 @@
     "iso:country":"MT",
     "lbl:latitude":35.907012,
     "lbl:longitude":14.468024,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":35.907012,
     "mps:longitude":14.468024,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u063a\u0648\u0627\u0646"
     ],
@@ -141,7 +144,7 @@
         "San \u0120wann"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbe\u0ba9\u0bcd  \u0b95\u0bc1\u0bb5\u0bbe\u0ba9\u0bcd"
+        "\u0b9a\u0bbe\u0ba9\u0bcd \u0b95\u0bc1\u0bb5\u0bbe\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c28\u0c4d \u0c17\u0c4d\u0c35\u0c3e\u0c28\u0c4d"
@@ -154,9 +157,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0413\u0432\u0430\u043d\u043d"
-    ],
-    "name:unk_x_variant":[
-        "San \u0120wann"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u062c\u0648\u0627\u0646"
@@ -189,7 +189,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -201,10 +201,12 @@
     "wof:concordances":{
         "gn:id":2567539,
         "gp:id":483465,
-        "qs:id":1036669,
-        "qs_pg:id":1055721,
+        "qs_pg:id":1036669,
         "wd:id":"Q39507",
         "wk:page":"San \u0120wann"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1055721
     },
     "wof:country":"MT",
     "wof:geomhash":"020c868787572f4ba178ddee71cf7778",
@@ -217,7 +219,7 @@
         }
     ],
     "wof:id":1175612947,
-    "wof:lastmodified":1563917057,
+    "wof:lastmodified":1566612061,
     "wof:name":"San Gwann",
     "wof:parent_id":85686901,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":35.832928,
     "geom:longitude":14.555782,
     "iso:country":"MT",
+    "lbl:bbox":"14.535782,35.812928,14.575782,35.852928",
     "lbl:latitude":35.832928,
     "lbl:longitude":14.555782,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.832928,
     "mps:longitude":14.555782,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Delimara"
     ],
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":43,
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":2563150,
         "gp:id":483575,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"MT",
     "wof:geomhash":"451f12b5e6453c1833e1d74f90d4fc50",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":101848915,
-    "wof:lastmodified":1564122635,
+    "wof:lastmodified":1566612074,
     "wof:name":"Delimara",
     "wof:parent_id":85686743,
     "wof:placetype":"locality",

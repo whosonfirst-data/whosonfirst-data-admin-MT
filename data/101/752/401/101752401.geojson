@@ -13,10 +13,13 @@
     "iso:country":"MT",
     "lbl:latitude":35.892931,
     "lbl:longitude":14.440751,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":35.892931,
     "mps:longitude":14.440751,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0639\u0637\u0627\u0631"
     ],
@@ -195,7 +198,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -206,9 +209,11 @@
     "wof:concordances":{
         "gn:id":2563232,
         "gp:id":483304,
-        "qs:id":5,
-        "qs_pg:id":1036667,
+        "qs_pg:id":5,
         "wd:id":"Q44557"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1036667
     },
     "wof:country":"MT",
     "wof:geomhash":"61ddb4e321b0e195628bdf65808f878b",
@@ -221,7 +226,7 @@
         }
     ],
     "wof:id":101752401,
-    "wof:lastmodified":1563917070,
+    "wof:lastmodified":1566612065,
     "wof:name":"Attard",
     "wof:parent_id":85686851,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Malta",
     "iso:country":"MT",
+    "lbl:bbox":"14.35139,35.94389,14.39139,35.98389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Il Kortin ta Ghain Zeituna",
         "Il-Kortin ta\u2019 G\u0127ajn \u017bejtuna",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326484241,
-    "wof:lastmodified":1537665821,
+    "wof:lastmodified":1566612044,
     "wof:name":"Il-Qortin ta' Ghajn Zejtuna",
     "wof:parent_id":1175612955,
     "wof:placetype":"locality",

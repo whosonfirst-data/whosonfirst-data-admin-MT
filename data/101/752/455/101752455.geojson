@@ -13,10 +13,13 @@
     "iso:country":"MT",
     "lbl:latitude":36.043172,
     "lbl:longitude":14.242795,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":36.043172,
     "mps:longitude":14.242795,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0628\u0627\u0637"
     ],
@@ -188,7 +191,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043a\u0442\u043e\u0440\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Victoria Town"
     ],
     "name:urd_x_preferred":[
@@ -220,7 +223,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -231,7 +234,7 @@
     "wof:concordances":{
         "gn:id":2562619,
         "gp:id":483560,
-        "qs:id":1036635,
+        "qs_pg:id":1036635,
         "wd:id":"Q752348",
         "wk:page":"Victoria, Gozo"
     },
@@ -246,7 +249,7 @@
         }
     ],
     "wof:id":101752455,
-    "wof:lastmodified":1563917073,
+    "wof:lastmodified":1566612066,
     "wof:name":"Rabat",
     "wof:parent_id":85686981,
     "wof:placetype":"locality",

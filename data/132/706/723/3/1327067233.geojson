@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Malta",
     "iso:country":"MT",
+    "lbl:bbox":"14.35667,35.85333,14.39667,35.89333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hofriet ir Ritz",
         "\u0126ofret ir-Rizz"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327067233,
-    "wof:lastmodified":1537665821,
+    "wof:lastmodified":1566612043,
     "wof:name":"Hofret ir-Rizz",
     "wof:parent_id":85686875,
     "wof:placetype":"locality",

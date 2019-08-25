@@ -13,10 +13,13 @@
     "iso:country":"MT",
     "lbl:latitude":35.833064,
     "lbl:longitude":14.484958,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":35.833064,
     "mps:longitude":14.484958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0641\u064a"
     ],
@@ -143,9 +146,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0444\u0456"
     ],
-    "name:unk_x_variant":[
-        "\u0126al Safi"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0641\u06cc\u060c \u0645\u0627\u0644\u0679\u0627"
     ],
@@ -174,7 +174,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -185,7 +185,6 @@
     "wof:concordances":{
         "gn:id":2562598,
         "gp:id":483577,
-        "qs:id":278928,
         "qs_pg:id":278928,
         "wd:id":"Q658903"
     },
@@ -200,7 +199,7 @@
         }
     ],
     "wof:id":101752357,
-    "wof:lastmodified":1563917079,
+    "wof:lastmodified":1566612068,
     "wof:name":"Safi",
     "wof:parent_id":85686727,
     "wof:placetype":"locality",

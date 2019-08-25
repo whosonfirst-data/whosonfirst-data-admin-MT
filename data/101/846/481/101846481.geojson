@@ -12,10 +12,13 @@
     "iso:country":"MT",
     "lbl:latitude":35.957328,
     "lbl:longitude":14.384135,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.957328,
     "mps:longitude":14.384135,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Xemxija"
     ],
@@ -48,7 +51,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633331,
@@ -57,7 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":483443,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q570499"
     },
     "wof:country":"MT",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101846481,
-    "wof:lastmodified":1561845145,
+    "wof:lastmodified":1566612074,
     "wof:name":"Xemxija",
     "wof:parent_id":85686947,
     "wof:placetype":"locality",

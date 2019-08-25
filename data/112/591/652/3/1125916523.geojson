@@ -9,15 +9,18 @@
     "geom:bbox":"14.48278,35.8925,14.48278,35.8925",
     "geom:latitude":35.8925,
     "geom:longitude":14.48278,
-    "gn:gn_country":"MT",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":6920,
+    "gn:country":"MT",
+    "gn:fcode":"PPLA",
     "gn:population":6920,
     "iso:country":"MT",
+    "lbl:bbox":"14.46278,35.8725,14.50278,35.9125",
     "lbl:latitude":35.8925,
     "lbl:longitude":14.48278,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0633\u064a\u062f\u0627"
@@ -157,9 +160,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0441\u0456\u0434\u0430"
     ],
-    "name:unk_x_variant":[
-        "L-Imsida"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0633\u06cc\u062f\u0627"
     ],
@@ -184,7 +184,7 @@
     "qs_pg:qs_id":1036644,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -209,7 +209,7 @@
         }
     ],
     "wof:id":1125916523,
-    "wof:lastmodified":1563917117,
+    "wof:lastmodified":1566612080,
     "wof:name":"Imsida",
     "wof:parent_id":85686837,
     "wof:placetype":"locality",

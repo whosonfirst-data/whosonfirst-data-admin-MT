@@ -9,15 +9,18 @@
     "geom:bbox":"14.23972,36.04444,14.23972,36.04444",
     "geom:latitude":36.04444,
     "geom:longitude":14.23972,
-    "gn:gn_country":"MT",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":6596,
+    "gn:country":"MT",
+    "gn:fcode":"PPLA",
     "gn:population":6596,
     "iso:country":"MT",
+    "lbl:bbox":"14.21972,36.02444,14.25972,36.06444",
     "lbl:latitude":36.04444,
     "lbl:longitude":14.23972,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Victoria"
@@ -230,7 +233,7 @@
     "name:ukr_x_variant":[
         "Victoria"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Victoria Town"
     ],
     "name:urd_x_preferred":[
@@ -269,7 +272,7 @@
     "qs_pg:qs_id":1036635,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -293,7 +296,7 @@
         }
     ],
     "wof:id":1125881411,
-    "wof:lastmodified":1564122638,
+    "wof:lastmodified":1566612077,
     "wof:name":"Victoria",
     "wof:parent_id":85686981,
     "wof:placetype":"locality",

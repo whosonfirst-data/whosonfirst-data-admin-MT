@@ -13,10 +13,13 @@
     "iso:country":"MT",
     "lbl:latitude":35.913475,
     "lbl:longitude":14.501708,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":35.913475,
     "mps:longitude":14.501708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u064a\u0645\u0629"
     ],
@@ -191,9 +194,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u0456\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Tas-Sliema"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0644\u06cc\u0645\u0627"
     ],
@@ -225,7 +225,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -236,9 +236,11 @@
     "wof:concordances":{
         "gn:id":2562501,
         "gp:id":483483,
-        "qs:id":278924,
         "qs_pg:id":238259,
         "wd:id":"Q39526"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":278924
     },
     "wof:country":"MT",
     "wof:geomhash":"d2006af506b5d562d223d5304ba812e7",
@@ -251,7 +253,7 @@
         }
     ],
     "wof:id":101752431,
-    "wof:lastmodified":1563917074,
+    "wof:lastmodified":1566612066,
     "wof:name":"Sliema",
     "wof:parent_id":85686907,
     "wof:placetype":"locality",

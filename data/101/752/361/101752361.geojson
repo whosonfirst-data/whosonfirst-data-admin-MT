@@ -13,10 +13,13 @@
     "iso:country":"MT",
     "lbl:latitude":35.842232,
     "lbl:longitude":14.543044,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":35.842232,
     "mps:longitude":14.543044,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u0633\u0627\u0643\u0633\u0644\u0648\u062e\u0643"
     ],
@@ -149,7 +152,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0441\u0430\u0448\u043b\u043e\u043a\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u2019Xloxx"
     ],
     "name:urd_x_preferred":[
@@ -177,7 +180,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -188,10 +191,12 @@
     "wof:concordances":{
         "gn:id":2562247,
         "gp:id":483430,
-        "qs:id":1036629,
-        "qs_pg:id":1072698,
+        "qs_pg:id":1036629,
         "wd:id":"Q781921",
         "wk:page":"Marsaxlokk"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1072698
     },
     "wof:country":"MT",
     "wof:geomhash":"d1d4faae6cf1859e5d364cf0d3c1a535",
@@ -204,7 +209,7 @@
         }
     ],
     "wof:id":101752361,
-    "wof:lastmodified":1563917078,
+    "wof:lastmodified":1566612067,
     "wof:name":"Marsaxlokk",
     "wof:parent_id":85686743,
     "wof:placetype":"locality",

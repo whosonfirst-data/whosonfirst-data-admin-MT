@@ -13,10 +13,13 @@
     "iso:country":"MT",
     "lbl:latitude":35.860517,
     "lbl:longitude":14.381936,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":35.860517,
     "mps:longitude":14.381936,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0646\u063a\u0644\u064a"
     ],
@@ -152,9 +155,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0456\u043d\u0433\u043b\u0456"
     ],
-    "name:unk_x_variant":[
-        "\u0126ad-Dingli"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u06cc\u0646\u06af\u0644\u06cc"
     ],
@@ -180,7 +180,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -191,10 +191,12 @@
     "wof:concordances":{
         "gn:id":2563140,
         "gp:id":483327,
-        "qs:id":1036663,
-        "qs_pg:id":1055712,
+        "qs_pg:id":1036663,
         "wd:id":"Q905641",
         "wk:page":"Dingli"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1055712
     },
     "wof:country":"MT",
     "wof:geomhash":"facdf7de36697259fcf567273c7053ae",
@@ -207,7 +209,7 @@
         }
     ],
     "wof:id":101752369,
-    "wof:lastmodified":1563917080,
+    "wof:lastmodified":1566612068,
     "wof:name":"Dingli",
     "wof:parent_id":85686763,
     "wof:placetype":"locality",

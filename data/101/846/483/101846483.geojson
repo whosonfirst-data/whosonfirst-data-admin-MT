@@ -13,10 +13,13 @@
     "iso:country":"MT",
     "lbl:latitude":36.03367,
     "lbl:longitude":14.288949,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":36.03367,
     "mps:longitude":14.288949,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0627\u0644\u0627\u060c \u0645\u0627\u0644\u0637\u0627"
     ],
@@ -163,7 +166,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":4187,
     "wof:belongsto":[
@@ -175,7 +178,7 @@
     "wof:concordances":{
         "gn:id":2562655,
         "gp:id":483340,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1088033",
         "wk:page":"Qala, Malta"
     },
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":101846483,
-    "wof:lastmodified":1563917103,
+    "wof:lastmodified":1566612074,
     "wof:name":"Qala",
     "wof:parent_id":85686969,
     "wof:placetype":"locality",

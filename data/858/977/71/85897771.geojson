@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5090962.835138,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.240368,36.044979,14.240368,36.044979",
     "geom:latitude":36.044979,
     "geom:longitude":14.240368,
     "iso:country":"MT",
+    "lbl:bbox":"14.235368,36.039979,14.245368,36.049979",
     "lbl:latitude":36.044979,
     "lbl:longitude":14.240368,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.03902,
     "mps:longitude":14.241415,
     "mz:hierarchy_label":0,
@@ -26,10 +28,7 @@
     "name:und_x_colloquial":[
         "Ta' l-Imghajjen"
     ],
-    "name:und_x_preferred":[
-        "Ta' l-Img\u0127ajjen"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ta' l-Img\u0127ajjen"
     ],
     "qs:gn_fcode":"PPLX",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101752455,
@@ -70,7 +69,6 @@
     "wof:concordances":{
         "gn:id":2562397,
         "gp:id":483502,
-        "qs:id":1165583,
         "qs_pg:id":1165583
     },
     "wof:country":"MT",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531931939,
+    "wof:lastmodified":1566612056,
     "wof:name":"Ta' l-Img\u0127ajjen",
     "wof:parent_id":101752455,
     "wof:placetype":"neighbourhood",

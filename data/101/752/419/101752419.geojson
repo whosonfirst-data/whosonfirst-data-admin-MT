@@ -13,10 +13,13 @@
     "iso:country":"MT",
     "lbl:latitude":35.896208,
     "lbl:longitude":14.465151,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":35.896208,
     "mps:longitude":14.465151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Birkirkara"
     ],
@@ -227,7 +230,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0440\u043a\u0456\u0440\u043a\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u2019Kara"
     ],
     "name:urd_x_preferred":[
@@ -265,7 +268,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -276,10 +279,12 @@
     "wof:concordances":{
         "gn:id":2563191,
         "gp:id":483313,
-        "qs:id":1036665,
-        "qs_pg:id":1078165,
+        "qs_pg:id":1036665,
         "wd:id":"Q39583",
         "wk:page":"Birkirkara"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078165
     },
     "wof:country":"MT",
     "wof:geomhash":"b4440578a1d6cfcab3923f446afcb690",
@@ -292,7 +297,7 @@
         }
     ],
     "wof:id":101752419,
-    "wof:lastmodified":1563917083,
+    "wof:lastmodified":1566612069,
     "wof:name":"Birkirkara",
     "wof:parent_id":85686879,
     "wof:placetype":"locality",

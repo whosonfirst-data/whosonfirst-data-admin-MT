@@ -13,10 +13,13 @@
     "iso:country":"MT",
     "lbl:latitude":35.897573,
     "lbl:longitude":14.485562,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":35.897573,
     "mps:longitude":14.485562,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0633\u064a\u062f\u0627"
     ],
@@ -155,9 +158,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0441\u0456\u0434\u0430"
     ],
-    "name:unk_x_variant":[
-        "L-Imsida"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0633\u06cc\u062f\u0627"
     ],
@@ -186,7 +186,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -197,9 +197,11 @@
     "wof:concordances":{
         "gn:id":2562698,
         "gp:id":483446,
-        "qs:id":1036644,
         "qs_pg:id":238255,
         "wd:id":"Q585187"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1036644
     },
     "wof:country":"MT",
     "wof:geomhash":"f8ede2002e749ce0158d2f6078da911f",
@@ -212,7 +214,7 @@
         }
     ],
     "wof:id":101752421,
-    "wof:lastmodified":1563917084,
+    "wof:lastmodified":1566612069,
     "wof:name":"Msida",
     "wof:parent_id":85686883,
     "wof:placetype":"locality",

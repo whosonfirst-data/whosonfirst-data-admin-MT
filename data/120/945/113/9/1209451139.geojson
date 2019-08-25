@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Malta",
     "iso:country":"MT",
+    "lbl:bbox":"14.49472,35.85111,14.53472,35.89111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tal Borj",
         "Tal-Bor\u0121"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209451139,
-    "wof:lastmodified":1537665818,
+    "wof:lastmodified":1566612060,
     "wof:name":"Tal-Borg",
     "wof:parent_id":85633331,
     "wof:placetype":"locality",

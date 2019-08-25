@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":22831789.148801,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.367241,35.959384,14.367241,35.959384",
     "geom:latitude":35.959384,
     "geom:longitude":14.367241,
     "iso:country":"MT",
+    "lbl:bbox":"14.362241,35.954384,14.372241,35.964384",
     "lbl:latitude":35.959384,
     "lbl:longitude":14.367241,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.952871,
     "mps:longitude":14.375993,
     "mz:hierarchy_label":0,
@@ -26,10 +28,7 @@
     "name:und_x_colloquial":[
         "Ix-Xaghra ta' Barra"
     ],
-    "name:und_x_preferred":[
-        "Ix-Xag\u0127ra ta' Barra"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ix-Xag\u0127ra ta' Barra"
     ],
     "qs:gn_fcode":"PPLX",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101752447,
@@ -70,7 +69,6 @@
     "wof:concordances":{
         "gn:id":2564546,
         "gp:id":483402,
-        "qs:id":1082821,
         "qs_pg:id":1082821
     },
     "wof:country":"MT",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531931937,
+    "wof:lastmodified":1566612056,
     "wof:name":"Ix-Xag\u0127ra ta' Barra",
     "wof:parent_id":101752447,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Malta",
     "iso:country":"MT",
+    "lbl:bbox":"14.36667,35.86611,14.40667,35.90611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "G\u0127ajn Qajjet",
         "Ghain Kaiet",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276589573,
-    "wof:lastmodified":1537665821,
+    "wof:lastmodified":1566612058,
     "wof:name":"Ghajn Qajjied",
     "wof:parent_id":85686875,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Malta",
     "iso:country":"MT",
+    "lbl:bbox":"14.39444,35.90472,14.43444,35.94472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Il Gnien Nesciuf",
         "Wied l-Arkata"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276382777,
-    "wof:lastmodified":1537665817,
+    "wof:lastmodified":1566612058,
     "wof:name":"Wied l-Arkata",
     "wof:parent_id":85686911,
     "wof:placetype":"locality",

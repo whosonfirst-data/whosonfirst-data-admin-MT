@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":36.044875,
     "lbl:longitude":14.243008,
+    "lbl:min_zoom":8.0,
     "mps:latitude":36.044875,
     "mps:longitude":14.243008,
     "mz:hierarchy_label":1,
@@ -36,7 +37,7 @@
     "name:mlt_x_variant":[
         "Ir-Rabat G\u0127awdex"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rabat"
     ],
     "ne:abbrev":"",
@@ -108,7 +109,7 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633331
@@ -138,7 +139,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1553624329,
+    "wof:lastmodified":1566612050,
     "wof:name":"Rabat (Ghawdex) (Citta' Vittoria)",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

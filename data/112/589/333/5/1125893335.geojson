@@ -9,15 +9,18 @@
     "geom:bbox":"14.22667,36.04194,14.22667,36.04194",
     "geom:latitude":36.04194,
     "geom:longitude":14.22667,
-    "gn:gn_country":"MT",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":1627,
+    "gn:country":"MT",
+    "gn:fcode":"PPLA",
     "gn:population":1627,
     "iso:country":"MT",
+    "lbl:bbox":"14.20667,36.02194,14.24667,36.06194",
     "lbl:latitude":36.04194,
     "lbl:longitude":14.22667,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u062a\u0634\u0645"
@@ -136,7 +139,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0440\u0447\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kerchem"
     ],
     "name:urd_x_preferred":[
@@ -169,7 +172,7 @@
     "qs_pg:woe_adm0":23424897,
     "qs_pg:woe_id":483410,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":1125893335,
-    "wof:lastmodified":1563917112,
+    "wof:lastmodified":1566612078,
     "wof:name":"Ker\u010bem",
     "wof:parent_id":85686989,
     "wof:placetype":"locality",

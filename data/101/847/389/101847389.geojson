@@ -12,10 +12,13 @@
     "iso:country":"MT",
     "lbl:latitude":36.037194,
     "lbl:longitude":14.217269,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.037194,
     "mps:longitude":14.217269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Xlendi"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":36.029722,
     "wd:longitude":14.218889,
     "wd:wordcount":1974,
@@ -75,7 +78,6 @@
     "wof:concordances":{
         "gn:id":6692380,
         "gp:id":483569,
-        "qs:id":901630,
         "qs_pg:id":901630,
         "wd:id":"Q670218",
         "wk:page":"Xlendi"
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101847389,
-    "wof:lastmodified":1563917106,
+    "wof:lastmodified":1566612075,
     "wof:name":"Xlendi",
     "wof:parent_id":85686989,
     "wof:placetype":"locality",

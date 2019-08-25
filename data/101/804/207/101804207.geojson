@@ -13,10 +13,13 @@
     "iso:country":"MT",
     "lbl:latitude":36.051329,
     "lbl:longitude":14.239998,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":36.051329,
     "mps:longitude":14.239998,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0646\u062a\u0627\u0646\u0627"
     ],
@@ -160,7 +163,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -173,7 +176,7 @@
     "wof:concordances":{
         "gn:id":8337342,
         "gp:id":483410,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1002742"
     },
     "wof:country":"MT",
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":101804207,
-    "wof:lastmodified":1563917095,
+    "wof:lastmodified":1566612072,
     "wof:name":"Fontana",
     "wof:parent_id":85686981,
     "wof:placetype":"locality",
