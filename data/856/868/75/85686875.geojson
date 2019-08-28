@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":35.886027,
     "lbl:longitude":14.374147,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.886027,
     "mps:longitude":14.374147,
     "mz:hierarchy_label":1,
@@ -261,7 +262,7 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":947,
     "wof:belongsto":[
         102191581,
@@ -293,7 +294,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1563917019,
+    "wof:lastmodified":1566612047,
     "wof:name":"Rabat (Malta)",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

@@ -13,10 +13,13 @@
     "iso:country":"MT",
     "lbl:latitude":35.87703,
     "lbl:longitude":14.507455,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":35.87703,
     "mps:longitude":14.507455,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0648\u0644\u0627"
     ],
@@ -149,7 +152,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043e\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Casal Paolo"
     ],
     "name:urd_x_preferred":[
@@ -183,7 +186,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1908,
     "wof:belongsto":[
@@ -195,7 +198,6 @@
     "wof:concordances":{
         "gn:id":2562617,
         "gp:id":483454,
-        "qs:id":1036634,
         "qs_pg:id":1036634,
         "wd:id":"Q846589",
         "wk:page":"Paola, Malta"
@@ -211,7 +213,7 @@
         }
     ],
     "wof:id":101752391,
-    "wof:lastmodified":1563917061,
+    "wof:lastmodified":1566612063,
     "wof:name":"Paola",
     "wof:parent_id":85686815,
     "wof:placetype":"locality",

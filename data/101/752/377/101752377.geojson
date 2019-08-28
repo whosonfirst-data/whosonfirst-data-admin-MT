@@ -13,10 +13,13 @@
     "iso:country":"MT",
     "lbl:latitude":35.872022,
     "lbl:longitude":14.521401,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":35.872022,
     "mps:longitude":14.521401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Fgura"
     ],
@@ -224,9 +227,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0433\u0443\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Il-Fgura"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u06af\u0648\u0631\u0627"
     ],
@@ -255,7 +255,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -266,9 +266,11 @@
     "wof:concordances":{
         "gn:id":2563115,
         "gp:id":483330,
-        "qs:id":1036662,
-        "qs_pg:id":1055708,
+        "qs_pg:id":1036662,
         "wd:id":"Q44388"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1055708
     },
     "wof:country":"MT",
     "wof:geomhash":"8eb2a521332cc3efb8d831ff3730de0b",
@@ -281,7 +283,7 @@
         }
     ],
     "wof:id":101752377,
-    "wof:lastmodified":1563917077,
+    "wof:lastmodified":1566612066,
     "wof:name":"Fgura",
     "wof:parent_id":85686781,
     "wof:placetype":"locality",

@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":35.85957,
     "lbl:longitude":14.383104,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.85957,
     "mps:longitude":14.383104,
     "mz:hierarchy_label":1,
@@ -234,7 +235,7 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"MT-07",
     "wd:wordcount":876,
     "wof:belongsto":[
@@ -268,7 +269,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1563917040,
+    "wof:lastmodified":1566612054,
     "wof:name":"Dingli",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

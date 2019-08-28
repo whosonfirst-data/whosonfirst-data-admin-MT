@@ -12,10 +12,13 @@
     "iso:country":"MT",
     "lbl:latitude":35.897206,
     "lbl:longitude":14.418452,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.897206,
     "mps:longitude":14.418452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0642\u0644\u0639\u064a"
     ],
@@ -97,7 +100,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430-\u041a\u0430\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ta Kali"
     ],
     "name:zho_x_preferred":[
@@ -117,7 +120,7 @@
     "qs:type":"suburbs point-very-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":35.895,
     "wd:longitude":14.41972,
     "wd:wordcount":419,
@@ -130,7 +133,7 @@
     "wof:concordances":{
         "gn:id":2562362,
         "gp:id":483313,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1042361",
         "wk:page":"Ta' Qali"
     },
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101759433,
-    "wof:lastmodified":1563917102,
+    "wof:lastmodified":1566612074,
     "wof:name":"Ta' Qali",
     "wof:parent_id":85686851,
     "wof:placetype":"locality",

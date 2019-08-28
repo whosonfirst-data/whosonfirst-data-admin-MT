@@ -13,10 +13,13 @@
     "iso:country":"MT",
     "lbl:latitude":35.93022,
     "lbl:longitude":14.452807,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":35.93022,
     "mps:longitude":14.452807,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0643\u0633\u0627\u0631"
     ],
@@ -178,7 +181,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -189,7 +192,7 @@
     "wof:concordances":{
         "gn:id":2562683,
         "gp:id":483346,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q44397",
         "wk:page":"Naxxar"
     },
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":101846467,
-    "wof:lastmodified":1563917104,
+    "wof:lastmodified":1566612074,
     "wof:name":"Naxxar",
     "wof:parent_id":85686919,
     "wof:placetype":"locality",

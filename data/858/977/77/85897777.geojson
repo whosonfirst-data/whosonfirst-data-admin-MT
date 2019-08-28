@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14758449.371317,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.25688,36.028459,14.25688,36.028459",
     "geom:latitude":36.028459,
     "geom:longitude":14.25688,
     "iso:country":"MT",
+    "lbl:bbox":"14.25188,36.023459,14.26188,36.033459",
     "lbl:latitude":36.028459,
     "lbl:longitude":14.25688,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.02499,
     "mps:longitude":14.259564,
     "mz:hierarchy_label":0,
@@ -38,10 +40,7 @@
     "name:und_x_colloquial":[
         "Tal-Hamrija"
     ],
-    "name:und_x_preferred":[
-        "Tal-\u0126amrija"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tal-\u0126amrija"
     ],
     "qs:gn_fcode":"PPLX",
@@ -71,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633331,
@@ -81,7 +80,6 @@
     "wof:concordances":{
         "gn:id":2562407,
         "gp:id":483532,
-        "qs:id":901629,
         "qs_pg:id":901629
     },
     "wof:country":"MT",
@@ -99,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531931940,
+    "wof:lastmodified":1566612056,
     "wof:name":"Tal-\u0126amrija",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

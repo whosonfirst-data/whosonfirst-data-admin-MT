@@ -13,6 +13,8 @@
     "iso:country":"MT",
     "lbl:latitude":35.89905,
     "lbl:longitude":14.511673,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":35.89905,
     "mps:longitude":14.511673,
     "mz:hierarchy_label":1,
@@ -435,9 +437,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u043b\u0435\u0442\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "La Valette"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0644\u06cc\u0679\u0627"
     ],
@@ -588,7 +587,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":56.0,
     "wd:latitude":35.897778,
@@ -606,7 +605,6 @@
         "gn:id":2562305,
         "gp:id":483559,
         "loc:id":"n81103153",
-        "qs:id":278919,
         "qs_pg:id":278919,
         "wd:id":"Q23800",
         "wk:page":"Valletta"
@@ -625,7 +623,7 @@
         }
     ],
     "wof:id":101752423,
-    "wof:lastmodified":1563917069,
+    "wof:lastmodified":1566612065,
     "wof:megacity":0,
     "wof:name":"Valletta",
     "wof:parent_id":85686889,

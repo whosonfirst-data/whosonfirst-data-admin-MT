@@ -13,10 +13,13 @@
     "iso:country":"MT",
     "lbl:latitude":35.929784,
     "lbl:longitude":14.479935,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":35.929784,
     "mps:longitude":14.479935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0645\u0628\u0631\u0648\u0643"
     ],
@@ -169,7 +172,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":101752439,
-    "wof:lastmodified":1563917071,
+    "wof:lastmodified":1566612065,
     "wof:name":"Pembroke",
     "wof:parent_id":85686933,
     "wof:placetype":"locality",

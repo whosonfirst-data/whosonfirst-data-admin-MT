@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16607537.66137,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.252916,36.051211,14.252916,36.051211",
     "geom:latitude":36.051211,
     "geom:longitude":14.252916,
     "iso:country":"MT",
+    "lbl:bbox":"14.247916,36.046211,14.257916,36.056211",
     "lbl:latitude":36.051211,
     "lbl:longitude":14.252916,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.061817,
     "mps:longitude":14.264078,
     "mz:hierarchy_label":0,
@@ -23,10 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Tal-Barmil"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tal-Barmil"
     ],
     "qs:gn_fcode":"PPLX",
@@ -56,7 +55,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633331,
@@ -66,7 +65,6 @@
     "wof:concordances":{
         "gn:id":2562425,
         "gp:id":483522,
-        "qs:id":901628,
         "qs_pg:id":901628
     },
     "wof:country":"MT",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531931939,
+    "wof:lastmodified":1566612056,
     "wof:name":"Tal-Barmil",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

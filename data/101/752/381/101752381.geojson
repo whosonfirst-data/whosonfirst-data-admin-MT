@@ -13,10 +13,13 @@
     "iso:country":"MT",
     "lbl:latitude":35.876759,
     "lbl:longitude":14.440818,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":35.876759,
     "mps:longitude":14.440818,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Haz-Zebbug"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "Haz-Zebbug"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zebbuj"
     ],
     "qs:a0":"Malta",
@@ -46,7 +49,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":2562261,
         "gp:id":483573,
-        "qs:id":1036632,
+        "qs_pg:id":1036632,
         "wd:id":"Q20923008"
     },
     "wof:country":"MT",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101752381,
-    "wof:lastmodified":1563917092,
+    "wof:lastmodified":1566612071,
     "wof:name":"Zebbug",
     "wof:parent_id":85686789,
     "wof:placetype":"locality",

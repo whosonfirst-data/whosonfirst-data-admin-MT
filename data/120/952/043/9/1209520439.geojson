@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Malta",
     "iso:country":"MT",
+    "lbl:bbox":"14.51028,35.81389,14.55028,35.85389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bor\u0121 in-Nadur"
     ],
@@ -38,8 +42,7 @@
         "\u0411\u043e\u0440\u0434\u0436 \u0438\u043d-\u041d\u0430\u0434\u0443\u0440"
     ],
     "name:und_x_variant":[
-        "Nadur",
-        "Bor\u0121 in-Nadur"
+        "Nadur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1209520439,
-    "wof:lastmodified":1564122628,
+    "wof:lastmodified":1566612059,
     "wof:name":"Borg in-Nadur",
     "wof:parent_id":85633331,
     "wof:placetype":"locality",

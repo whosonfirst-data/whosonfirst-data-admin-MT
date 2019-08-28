@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":36.037851,
     "lbl:longitude":14.236563,
+    "lbl:min_zoom":8.0,
     "mps:latitude":36.037851,
     "mps:longitude":14.236563,
     "mz:hierarchy_label":1,
@@ -183,7 +184,7 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"MT-10",
     "wd:wordcount":170,
     "wof:belongsto":[
@@ -216,7 +217,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1564122622,
+    "wof:lastmodified":1566612051,
     "wof:name":"Fontana",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

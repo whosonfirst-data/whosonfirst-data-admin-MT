@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":35.830494,
     "lbl:longitude":14.452041,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.830494,
     "mps:longitude":14.452041,
     "mz:hierarchy_label":1,
@@ -234,7 +235,7 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"MT-44",
     "wd:wordcount":7607,
     "wof:belongsto":[
@@ -268,7 +269,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1563917036,
+    "wof:lastmodified":1566612053,
     "wof:name":"Qrendi",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

@@ -13,10 +13,13 @@
     "iso:country":"MT",
     "lbl:latitude":35.866418,
     "lbl:longitude":14.513157,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":35.866418,
     "mps:longitude":14.513157,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0631\u0632\u064a\u0646"
     ],
@@ -152,9 +155,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0440\u0448\u0456\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u0126al Tarxien"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u0631\u0634\u06cc\u0626\u0646"
     ],
@@ -183,7 +183,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -194,7 +194,6 @@
     "wof:concordances":{
         "gn:id":2562349,
         "gp:id":483330,
-        "qs:id":278923,
         "qs_pg:id":278923,
         "wd:id":"Q744001"
     },
@@ -209,7 +208,7 @@
         }
     ],
     "wof:id":101752375,
-    "wof:lastmodified":1563917091,
+    "wof:lastmodified":1566612071,
     "wof:name":"Tarxien",
     "wof:parent_id":85686771,
     "wof:placetype":"locality",

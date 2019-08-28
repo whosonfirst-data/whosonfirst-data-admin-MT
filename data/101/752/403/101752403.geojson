@@ -13,10 +13,13 @@
     "iso:country":"MT",
     "lbl:latitude":35.894348,
     "lbl:longitude":14.501921,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":35.894348,
     "mps:longitude":14.501921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0644\u0648\u0631\u064a\u0627\u0646\u0627"
     ],
@@ -149,9 +152,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u043b\u043e\u0440\u0456\u0430\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Il-Furjana"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u0644\u0648\u0631\u06cc\u0627\u0646\u0627"
     ],
@@ -177,7 +177,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -188,10 +188,12 @@
     "wof:concordances":{
         "gn:id":2562955,
         "gp:id":483371,
-        "qs:id":278930,
         "qs_pg:id":219153,
         "wd:id":"Q832807",
         "wk:page":"Floriana"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":278930
     },
     "wof:country":"MT",
     "wof:geomhash":"7fde8d4ffc1f3ff730de05546963b1b3",
@@ -204,7 +206,7 @@
         }
     ],
     "wof:id":101752403,
-    "wof:lastmodified":1563917090,
+    "wof:lastmodified":1566612071,
     "wof:name":"Floriana",
     "wof:parent_id":85686855,
     "wof:placetype":"locality",

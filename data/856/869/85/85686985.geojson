@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":36.037643,
     "lbl:longitude":14.316522,
+    "lbl:min_zoom":8.0,
     "mps:latitude":36.037643,
     "mps:longitude":14.316522,
     "mz:hierarchy_label":1,
@@ -111,7 +112,7 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"MT-42",
     "wd:wordcount":93,
     "wof:belongsto":[
@@ -144,7 +145,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1564122621,
+    "wof:lastmodified":1566612051,
     "wof:name":"Qala",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

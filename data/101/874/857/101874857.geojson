@@ -11,12 +11,16 @@
     "geom:longitude":14.293365,
     "gn:population":1534,
     "iso:country":"MT",
+    "lbl:bbox":"14.273365,35.999612,14.313365,36.039612",
     "lbl:latitude":36.019612,
     "lbl:longitude":14.293365,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":36.019612,
     "mps:longitude":14.293365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0627\u0644\u0627\u060c \u0645\u0627\u0644\u0637\u0627"
     ],
@@ -143,9 +147,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "Il-Qala"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0644\u0627\u060c \u0645\u0627\u0644\u0679\u0627"
     ],
@@ -175,7 +176,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":4187,
     "wof:belongsto":[],
@@ -183,10 +184,12 @@
     "wof:concordances":{
         "gn:id":2562655,
         "gp:id":483458,
-        "qs:id":9,
-        "qs_pg:id":1036641,
+        "qs_pg:id":9,
         "wd:id":"Q1088033",
         "wk:page":"Qala, Malta"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1036641
     },
     "wof:country":"MT",
     "wof:geomhash":"d4f0f22efb0724de56f8374ade6cdc93",
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":101874857,
-    "wof:lastmodified":1563917093,
+    "wof:lastmodified":1566612071,
     "wof:name":"Qala",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

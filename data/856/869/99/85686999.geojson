@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":36.047957,
     "lbl:longitude":14.294282,
+    "lbl:min_zoom":8.0,
     "mps:latitude":36.047957,
     "mps:longitude":14.294282,
     "mz:hierarchy_label":1,
@@ -219,7 +220,7 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"MT-37",
     "wd:wordcount":1381,
     "wof:belongsto":[
@@ -253,7 +254,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1563917032,
+    "wof:lastmodified":1566612051,
     "wof:name":"Nadur",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":35.891739,
     "lbl:longitude":14.425036,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.891739,
     "mps:longitude":14.425036,
     "mz:hierarchy_label":1,
@@ -259,7 +260,7 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"MT-01",
     "wd:wordcount":1108,
     "wof:belongsto":[
@@ -293,7 +294,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1563917017,
+    "wof:lastmodified":1566612046,
     "wof:name":"Attard",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

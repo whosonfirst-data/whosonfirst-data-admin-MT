@@ -11,12 +11,16 @@
     "geom:longitude":14.202157,
     "gn:population":530,
     "iso:country":"MT",
+    "lbl:bbox":"14.182157,36.032141,14.222157,36.072141",
     "lbl:latitude":36.052141,
     "lbl:longitude":14.202157,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":36.052141,
     "mps:longitude":14.202157,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0644\u0648\u0631\u0627\u0646\u0633"
     ],
@@ -129,7 +133,7 @@
         "San Lawrenz"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0bb2\u0bbe\u0bb0\u0ba9\u0bcd\u0bb8\u0bcd"
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd \u0bb2\u0bbe\u0bb0\u0ba9\u0bcd\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c32\u0c3e\u0c30\u0c46\u0c28\u0c4d\u0c38\u0c4d"
@@ -143,7 +147,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041b\u043e\u0440\u0435\u043d\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Laurenz"
     ],
     "name:urd_x_preferred":[
@@ -175,7 +179,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -186,10 +190,12 @@
     "wof:concordances":{
         "gn:id":2562552,
         "gp:id":483467,
-        "qs:id":91861,
-        "qs_pg:id":1283377,
+        "qs_pg:id":91861,
         "wd:id":"Q537308",
         "wk:page":"San Lawrenz"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1283377
     },
     "wof:country":"MT",
     "wof:geomhash":"776a1df6e954d12f3281a6982d3d02b2",
@@ -202,7 +208,7 @@
         }
     ],
     "wof:id":101874859,
-    "wof:lastmodified":1563917092,
+    "wof:lastmodified":1566612071,
     "wof:name":"San Lawrenz",
     "wof:parent_id":85686995,
     "wof:placetype":"locality",

@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":35.844162,
     "lbl:longitude":14.484289,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.844162,
     "mps:longitude":14.484289,
     "mz:hierarchy_label":1,
@@ -237,7 +238,7 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"MT-23",
     "wd:wordcount":765,
     "wof:belongsto":[
@@ -271,7 +272,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1563917034,
+    "wof:lastmodified":1566612052,
     "wof:name":"Kirkop",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
