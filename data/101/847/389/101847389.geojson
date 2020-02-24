@@ -83,6 +83,9 @@
         "wk:page":"Xlendi"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e9fcd22a8ddf3e080daf4a6d3de16a3c",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101847389,
-    "wof:lastmodified":1566612075,
+    "wof:lastmodified":1582316831,
     "wof:name":"Xlendi",
     "wof:parent_id":85686989,
     "wof:placetype":"locality",

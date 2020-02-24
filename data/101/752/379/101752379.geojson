@@ -214,6 +214,9 @@
         "wk:page":"Marsaskala"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e8432e724a51e57943bf2ba249e36339",
     "wof:hierarchy":[
         {
@@ -224,7 +227,7 @@
         }
     ],
     "wof:id":101752379,
-    "wof:lastmodified":1566612066,
+    "wof:lastmodified":1582316829,
     "wof:name":"Marsaskala",
     "wof:parent_id":85686785,
     "wof:placetype":"locality",

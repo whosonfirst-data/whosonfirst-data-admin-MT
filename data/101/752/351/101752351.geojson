@@ -214,6 +214,9 @@
         "wk:page":"\u017burrieq"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4b94ece1dbbafe07281e3dbaa3eefd56",
     "wof:hierarchy":[
         {
@@ -224,7 +227,7 @@
         }
     ],
     "wof:id":101752351,
-    "wof:lastmodified":1566612068,
+    "wof:lastmodified":1582316830,
     "wof:name":"Zurrieq",
     "wof:parent_id":85686717,
     "wof:placetype":"locality",

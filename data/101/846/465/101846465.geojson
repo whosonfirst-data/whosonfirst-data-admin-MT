@@ -64,6 +64,9 @@
         "wd:id":"Q586551"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"62f06da272acafd6d855786793b04a75",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101846465,
-    "wof:lastmodified":1566612074,
+    "wof:lastmodified":1582316831,
     "wof:name":"Bahrija",
     "wof:parent_id":85686929,
     "wof:placetype":"locality",

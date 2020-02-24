@@ -196,6 +196,9 @@
         "wd:id":"Q755979"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4659c46c4aa48699c945f844a3cfa9d9",
     "wof:hierarchy":[
         {
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":101848919,
-    "wof:lastmodified":1566612074,
+    "wof:lastmodified":1582316831,
     "wof:name":"Mellieha",
     "wof:parent_id":1175612955,
     "wof:placetype":"locality",

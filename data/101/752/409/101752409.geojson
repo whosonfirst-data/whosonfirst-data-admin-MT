@@ -326,6 +326,9 @@
         "wk:page":"Kalkara"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"87d5c03c2be211eb7d75edbe88593a47",
     "wof:hierarchy":[
         {
@@ -336,7 +339,7 @@
         }
     ],
     "wof:id":101752409,
-    "wof:lastmodified":1566612066,
+    "wof:lastmodified":1582316829,
     "wof:name":"Kalkara",
     "wof:parent_id":85686863,
     "wof:placetype":"locality",

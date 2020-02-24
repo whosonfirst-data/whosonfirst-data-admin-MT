@@ -237,6 +237,10 @@
         "wk:page":"Qormi"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5e23116ab22e68b9975897bb5d891fa7",
     "wof:hierarchy":[
         {
@@ -247,7 +251,7 @@
         }
     ],
     "wof:id":101874851,
-    "wof:lastmodified":1561845143,
+    "wof:lastmodified":1582316830,
     "wof:name":"Qormi",
     "wof:parent_id":85686805,
     "wof:placetype":"locality",

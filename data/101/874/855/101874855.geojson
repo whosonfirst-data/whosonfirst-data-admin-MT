@@ -179,6 +179,10 @@
         "wd:id":"Q587462"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cb0a289d8998b97158391aa35a722c2e",
     "wof:hierarchy":[
         {
@@ -189,7 +193,7 @@
         }
     ],
     "wof:id":101874855,
-    "wof:lastmodified":1566612072,
+    "wof:lastmodified":1582316830,
     "wof:name":"Munxar",
     "wof:parent_id":85686965,
     "wof:placetype":"locality",

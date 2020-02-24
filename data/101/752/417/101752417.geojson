@@ -236,6 +236,9 @@
         "wk:page":"Rabat, Malta"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7311fc32480536666b432c7bf2fd3bd2",
     "wof:hierarchy":[
         {
@@ -246,7 +249,7 @@
         }
     ],
     "wof:id":101752417,
-    "wof:lastmodified":1566612069,
+    "wof:lastmodified":1582316830,
     "wof:name":"Rabat",
     "wof:parent_id":85686875,
     "wof:placetype":"locality",

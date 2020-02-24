@@ -189,6 +189,9 @@
         "wd:id":"Q658903"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"61cd8ffa39e2dc6eec4c24e4441d54c6",
     "wof:hierarchy":[
         {
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":101752357,
-    "wof:lastmodified":1566612068,
+    "wof:lastmodified":1582316830,
     "wof:name":"Safi",
     "wof:parent_id":85686727,
     "wof:placetype":"locality",

@@ -68,6 +68,10 @@
         "qs_pg:id":901628
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5589299513f09c87594d58f322513a77",
     "wof:hierarchy":[
         {
@@ -82,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566612056,
+    "wof:lastmodified":1582316829,
     "wof:name":"Tal-Barmil",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -202,6 +202,9 @@
         "wk:page":"G\u0127axaq"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e715084858bc8a7adcef38090df39a88",
     "wof:hierarchy":[
         {
@@ -212,7 +215,7 @@
         }
     ],
     "wof:id":101752365,
-    "wof:lastmodified":1566612063,
+    "wof:lastmodified":1582316829,
     "wof:name":"Ghaxaq",
     "wof:parent_id":85686749,
     "wof:placetype":"locality",

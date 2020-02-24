@@ -192,6 +192,9 @@
         "qs_pg:id":1036653
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1c8530b14b46a7f60dcfbd626ed23abf",
     "wof:hierarchy":[
         {
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":101756769,
-    "wof:lastmodified":1566612073,
+    "wof:lastmodified":1582316831,
     "wof:name":"Kirkop",
     "wof:parent_id":85686735,
     "wof:placetype":"locality",

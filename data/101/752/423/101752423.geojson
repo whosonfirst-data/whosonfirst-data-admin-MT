@@ -613,6 +613,9 @@
         85686889
     ],
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c6b99ded49ba415228034a73ced1868e",
     "wof:hierarchy":[
         {
@@ -623,7 +626,7 @@
         }
     ],
     "wof:id":101752423,
-    "wof:lastmodified":1566612065,
+    "wof:lastmodified":1582316829,
     "wof:megacity":0,
     "wof:name":"Valletta",
     "wof:parent_id":85686889,

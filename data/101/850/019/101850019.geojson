@@ -182,6 +182,10 @@
         "wk:page":"G\u0127asri"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6d29be71422b5bf00216c3271703856e",
     "wof:hierarchy":[
         {
@@ -192,7 +196,7 @@
         }
     ],
     "wof:id":101850019,
-    "wof:lastmodified":1561845144,
+    "wof:lastmodified":1582316830,
     "wof:name":"Ghasri",
     "wof:parent_id":85687013,
     "wof:placetype":"locality",

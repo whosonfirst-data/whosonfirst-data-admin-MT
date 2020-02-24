@@ -72,6 +72,10 @@
         "qs_pg:id":1082821
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"63a7de46158916fa2f06f43db0a80f37",
     "wof:hierarchy":[
         {
@@ -86,7 +90,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566612056,
+    "wof:lastmodified":1582316829,
     "wof:name":"Ix-Xag\u0127ra ta' Barra",
     "wof:parent_id":101752447,
     "wof:placetype":"neighbourhood",

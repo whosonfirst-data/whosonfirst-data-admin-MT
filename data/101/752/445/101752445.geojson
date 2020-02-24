@@ -96,6 +96,9 @@
         "wk:page":"Bu\u0121ibba"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aacffb3243da1a6d6bb86bdb51227b1b",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101752445,
-    "wof:lastmodified":1566612069,
+    "wof:lastmodified":1582316830,
     "wof:name":"Bugibba",
     "wof:parent_id":85686943,
     "wof:placetype":"locality",

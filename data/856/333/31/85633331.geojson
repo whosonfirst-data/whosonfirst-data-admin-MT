@@ -1040,6 +1040,10 @@
     },
     "wof:country":"MT",
     "wof:country_alpha3":"MLT",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"6f0c796cc68173072005ca366672273b",
     "wof:hierarchy":[
         {
@@ -1056,7 +1060,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1566612055,
+    "wof:lastmodified":1582316828,
     "wof:name":"Malta",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

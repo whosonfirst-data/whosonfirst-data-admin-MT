@@ -243,6 +243,9 @@
         "qs_pg:id":278924
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d2006af506b5d562d223d5304ba812e7",
     "wof:hierarchy":[
         {
@@ -253,7 +256,7 @@
         }
     ],
     "wof:id":101752431,
-    "wof:lastmodified":1566612066,
+    "wof:lastmodified":1582316829,
     "wof:name":"Sliema",
     "wof:parent_id":85686907,
     "wof:placetype":"locality",

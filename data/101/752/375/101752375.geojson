@@ -198,6 +198,9 @@
         "wd:id":"Q744001"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"40e7fc4ecbd943ca7270455dde7c834a",
     "wof:hierarchy":[
         {
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":101752375,
-    "wof:lastmodified":1566612071,
+    "wof:lastmodified":1582316830,
     "wof:name":"Tarxien",
     "wof:parent_id":85686771,
     "wof:placetype":"locality",

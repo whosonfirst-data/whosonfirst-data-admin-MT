@@ -203,6 +203,9 @@
         "wk:page":"Paola, Malta"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"71d333ce0bf46af50257865f8340d119",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":101752391,
-    "wof:lastmodified":1566612063,
+    "wof:lastmodified":1582316829,
     "wof:name":"Paola",
     "wof:parent_id":85686815,
     "wof:placetype":"locality",
