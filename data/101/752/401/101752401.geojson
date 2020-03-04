@@ -216,6 +216,9 @@
         "qs_pg:id":1036667
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"61ddb4e321b0e195628bdf65808f878b",
     "wof:hierarchy":[
         {
@@ -226,7 +229,7 @@
         }
     ],
     "wof:id":101752401,
-    "wof:lastmodified":1566612065,
+    "wof:lastmodified":1582316829,
     "wof:name":"Attard",
     "wof:parent_id":85686851,
     "wof:placetype":"locality",

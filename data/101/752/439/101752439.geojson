@@ -187,6 +187,9 @@
         "wd:id":"Q775756"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"16e0285666595e2e5d428574627e14fa",
     "wof:hierarchy":[
         {
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":101752439,
-    "wof:lastmodified":1566612065,
+    "wof:lastmodified":1582316829,
     "wof:name":"Pembroke",
     "wof:parent_id":85686933,
     "wof:placetype":"locality",

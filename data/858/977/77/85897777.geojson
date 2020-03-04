@@ -83,6 +83,10 @@
         "qs_pg:id":901629
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bf59f41cbab80fe8a9fb03d3908b6dc4",
     "wof:hierarchy":[
         {
@@ -97,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566612056,
+    "wof:lastmodified":1582316829,
     "wof:name":"Tal-\u0126amrija",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

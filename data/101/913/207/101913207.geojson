@@ -192,6 +192,9 @@
         "wk:page":"Bir\u017cebbu\u0121a"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"56982fb3b5a5e30d0ef54e0106b7f851",
     "wof:hierarchy":[
         {
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":101913207,
-    "wof:lastmodified":1561845144,
+    "wof:lastmodified":1582316830,
     "wof:name":"Bir\u017cebbu\u0121a",
     "wof:parent_id":85686731,
     "wof:placetype":"locality",

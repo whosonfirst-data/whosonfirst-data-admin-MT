@@ -221,6 +221,9 @@
         "wk:page":"\u017bejtun"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"594cde236011503efd8b01f1bea9b32c",
     "wof:hierarchy":[
         {
@@ -231,7 +234,7 @@
         }
     ],
     "wof:id":101913211,
-    "wof:lastmodified":1566612072,
+    "wof:lastmodified":1582316830,
     "wof:name":"\u017bejtun",
     "wof:parent_id":85686731,
     "wof:placetype":"locality",

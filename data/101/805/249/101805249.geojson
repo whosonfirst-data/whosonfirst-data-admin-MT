@@ -182,6 +182,9 @@
         "wk:page":"G\u0127arb"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b2918700e96df926fbdef5ebd1337f3b",
     "wof:hierarchy":[
         {
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":101805249,
-    "wof:lastmodified":1561845144,
+    "wof:lastmodified":1582316830,
     "wof:name":"Gharb",
     "wof:parent_id":85687007,
     "wof:placetype":"locality",

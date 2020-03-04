@@ -186,6 +186,9 @@
         "wd:id":"Q602037"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5e41bc77e1c63b5b1a207f9246b7aed8",
     "wof:hierarchy":[
         {
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":101752449,
-    "wof:lastmodified":1566612064,
+    "wof:lastmodified":1582316829,
     "wof:name":"Sannat",
     "wof:parent_id":85686961,
     "wof:placetype":"locality",

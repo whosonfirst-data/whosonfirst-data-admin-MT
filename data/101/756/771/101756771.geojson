@@ -192,6 +192,9 @@
         "wd:id":"Q475585"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6eb47a27e46aca632090fcf800edadc2",
     "wof:hierarchy":[
         {
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":101756771,
-    "wof:lastmodified":1561845144,
+    "wof:lastmodified":1582316830,
     "wof:name":"Luqa",
     "wof:parent_id":85686775,
     "wof:placetype":"locality",

@@ -196,6 +196,9 @@
         "qs_pg:id":278930
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7fde8d4ffc1f3ff730de05546963b1b3",
     "wof:hierarchy":[
         {
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":101752403,
-    "wof:lastmodified":1566612071,
+    "wof:lastmodified":1582316830,
     "wof:name":"Floriana",
     "wof:parent_id":85686855,
     "wof:placetype":"locality",

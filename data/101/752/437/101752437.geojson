@@ -204,6 +204,9 @@
         "qs_pg:id":1036661
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5dc061cfd56f021a8924fcb2378aa3cd",
     "wof:hierarchy":[
         {
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":101752437,
-    "wof:lastmodified":1566612065,
+    "wof:lastmodified":1582316829,
     "wof:name":"Swieqi",
     "wof:parent_id":85686925,
     "wof:placetype":"locality",

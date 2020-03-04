@@ -189,6 +189,9 @@
         "qs_pg:id":1036639
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a0a1f025b96636c36d6f6e4016de5cd5",
     "wof:hierarchy":[
         {
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":101752355,
-    "wof:lastmodified":1566612064,
+    "wof:lastmodified":1582316829,
     "wof:name":"Qrendi",
     "wof:parent_id":85686721,
     "wof:placetype":"locality",

@@ -189,6 +189,9 @@
         "wd:id":"Q789794"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a289729d8ced16b6a57cb814a3991e75",
     "wof:hierarchy":[
         {
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":101752405,
-    "wof:lastmodified":1566612070,
+    "wof:lastmodified":1582316830,
     "wof:name":"Balzan",
     "wof:parent_id":85686859,
     "wof:placetype":"locality",

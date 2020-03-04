@@ -201,6 +201,9 @@
         "qs_pg:id":1055724
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"29cd9ab722997397c196dcbdd6d7f846",
     "wof:hierarchy":[
         {
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":101752397,
-    "wof:lastmodified":1566612064,
+    "wof:lastmodified":1582316829,
     "wof:name":"Santa Venera",
     "wof:parent_id":85686837,
     "wof:placetype":"locality",

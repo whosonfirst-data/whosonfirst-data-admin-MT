@@ -189,6 +189,9 @@
         "wd:id":"Q757225"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c07417bbc5034c2f188b181c8bb370bb",
     "wof:hierarchy":[
         {
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":101752469,
-    "wof:lastmodified":1561845143,
+    "wof:lastmodified":1582316830,
     "wof:name":"Bormla",
     "wof:parent_id":85687021,
     "wof:placetype":"locality",

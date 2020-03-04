@@ -198,6 +198,10 @@
         "wk:page":"Mqabba"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"13ab9e9be2691c9efeedabf8b5e2f07f",
     "wof:hierarchy":[
         {
@@ -208,7 +212,7 @@
         }
     ],
     "wof:id":101874849,
-    "wof:lastmodified":1566612071,
+    "wof:lastmodified":1582316830,
     "wof:name":"Mqabba",
     "wof:parent_id":85686739,
     "wof:placetype":"locality",

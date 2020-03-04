@@ -56,6 +56,9 @@
         "qs_pg:id":9
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"451f12b5e6453c1833e1d74f90d4fc50",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101848915,
-    "wof:lastmodified":1566612074,
+    "wof:lastmodified":1582316831,
     "wof:name":"Delimara",
     "wof:parent_id":85686743,
     "wof:placetype":"locality",

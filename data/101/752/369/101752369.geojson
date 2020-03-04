@@ -199,6 +199,9 @@
         "qs_pg:id":1055712
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"facdf7de36697259fcf567273c7053ae",
     "wof:hierarchy":[
         {
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":101752369,
-    "wof:lastmodified":1566612068,
+    "wof:lastmodified":1582316830,
     "wof:name":"Dingli",
     "wof:parent_id":85686763,
     "wof:placetype":"locality",

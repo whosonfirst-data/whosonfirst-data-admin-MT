@@ -199,6 +199,9 @@
         "wk:page":"San \u0120wann"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e41b1b58ce8c37a3db0128814086c83d",
     "wof:hierarchy":[
         {
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":101756791,
-    "wof:lastmodified":1561845144,
+    "wof:lastmodified":1582316830,
     "wof:name":"San Gwann",
     "wof:parent_id":85686901,
     "wof:placetype":"locality",

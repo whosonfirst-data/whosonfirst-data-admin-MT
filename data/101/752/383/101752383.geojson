@@ -161,6 +161,9 @@
         "qs_pg:id":1036649
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1a7505433efa35c00bb3841990589b2e",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101752383,
-    "wof:lastmodified":1566612066,
+    "wof:lastmodified":1582316829,
     "wof:name":"Marsa",
     "wof:parent_id":85686803,
     "wof:placetype":"locality",

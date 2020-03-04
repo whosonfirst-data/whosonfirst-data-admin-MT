@@ -175,7 +175,6 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
@@ -196,6 +195,9 @@
         "wk:page":"G\u0127asri"
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6d29be71422b5bf00216c3271703856e",
     "wof:hierarchy":[
         {
@@ -206,7 +208,7 @@
         }
     ],
     "wof:id":1175612953,
-    "wof:lastmodified":1566612061,
+    "wof:lastmodified":1582316829,
     "wof:name":"Ghasri",
     "wof:parent_id":85687013,
     "wof:placetype":"locality",

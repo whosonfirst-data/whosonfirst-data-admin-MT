@@ -204,6 +204,9 @@
         "qs_pg:id":1036644
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f8ede2002e749ce0158d2f6078da911f",
     "wof:hierarchy":[
         {
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":101752421,
-    "wof:lastmodified":1566612069,
+    "wof:lastmodified":1582316830,
     "wof:name":"Msida",
     "wof:parent_id":85686883,
     "wof:placetype":"locality",

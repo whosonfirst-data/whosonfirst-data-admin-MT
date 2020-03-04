@@ -186,6 +186,9 @@
         "qs_pg:id":278933
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9d39e9f292f59bb5139aaa889a0d6cee",
     "wof:hierarchy":[
         {
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":101752363,
-    "wof:lastmodified":1566612064,
+    "wof:lastmodified":1582316829,
     "wof:name":"Gudja",
     "wof:parent_id":85686747,
     "wof:placetype":"locality",

@@ -287,6 +287,9 @@
         "qs_pg:id":1078165
     },
     "wof:country":"MT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b4440578a1d6cfcab3923f446afcb690",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
         }
     ],
     "wof:id":101752419,
-    "wof:lastmodified":1566612069,
+    "wof:lastmodified":1582316830,
     "wof:name":"Birkirkara",
     "wof:parent_id":85686879,
     "wof:placetype":"locality",
