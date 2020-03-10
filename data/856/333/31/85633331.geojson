@@ -1017,9 +1017,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Malta",
-        "digitalenvoy:country_code":[
-            470
-        ],
+        "digitalenvoy:country_code":470,
         "fb:id":"en.malta",
         "fifa:id":"MLT",
         "fips:code":"MT",
@@ -1063,7 +1061,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1583529182,
+    "wof:lastmodified":1583797390,
     "wof:name":"Malta",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
