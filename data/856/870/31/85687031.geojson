@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":4987.253344,
-    "geom:bbox":"14.3241675,36.010644,14.325774,36.011338",
+    "geom:bbox":"14.324167,36.010644,14.325774,36.011338",
     "geom:latitude":36.01091,
-    "geom:longitude":14.324867,
+    "geom:longitude":14.324866,
     "iso:country":"MT",
     "label:eng_x_preferred_longname":[
         "Ghajnsielem u Kemmuna Local Council"
@@ -27,6 +27,9 @@
     "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ghajnsielem u Kemmuna"
+    ],
+    "name:fra_x_preferred":[
+        "Comino"
     ],
     "qs:a0":"Malta",
     "qs:a0_lc":"MT00000",
@@ -47,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"MT",
-    "wof:geomhash":"178acf4268cfbf0afe933ffc1e4853b0",
+    "wof:geomhash":"7a15fb5edad76794ef593e29d30b83a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +67,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1566612056,
+    "wof:lastmodified":1627522383,
     "wof:name":"Ghajnsielem u Kemmuna",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
@@ -74,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.32416749999979,
-    36.01064399999987,
-    14.3257739999998,
-    36.01133799999985
+    14.324167,
+    36.010644,
+    14.325774,
+    36.011338
 ],
-  "geometry": {"coordinates":[[[14.3246584999998,36.01133799999985],[14.3257739999998,36.01064399999987],[14.32416749999979,36.01074949999986],[14.3246584999998,36.01133799999985]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[14.324658,36.011338],[14.325774,36.010644],[14.324167,36.010749],[14.324658,36.011338]]],"type":"Polygon"}
 }
