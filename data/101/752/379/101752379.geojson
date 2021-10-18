@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000281,
     "geom:area_square_m":2815986.459961,
-    "geom:bbox":"14.5469513187,35.8554635,14.5760233292,35.879050994",
+    "geom:bbox":"14.54695131873262,35.85546350000016,14.57602332922812,35.87905099403315",
     "geom:latitude":35.867511,
     "geom:longitude":14.564274,
     "gn:population":10024,
@@ -54,10 +54,10 @@
         "Marsascala"
     ],
     "name:eng_x_preferred":[
-        "Marsascala"
+        "Marsaskala"
     ],
     "name:eng_x_variant":[
-        "Marsaskala"
+        "Marsascala"
     ],
     "name:epo_x_preferred":[
         "Marsaskala"
@@ -227,7 +227,7 @@
         }
     ],
     "wof:id":101752379,
-    "wof:lastmodified":1582316829,
+    "wof:lastmodified":1634598218,
     "wof:name":"Marsaskala",
     "wof:parent_id":85686785,
     "wof:placetype":"locality",
