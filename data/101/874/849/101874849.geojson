@@ -66,6 +66,9 @@
     "name:guj_x_preferred":[
         "\u0aae\u0a95\u0aac\u0acd\u0aac\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e1\u05d8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0915\u093e\u092c\u093e"
     ],
@@ -212,7 +215,7 @@
         }
     ],
     "wof:id":101874849,
-    "wof:lastmodified":1582316830,
+    "wof:lastmodified":1636495372,
     "wof:name":"Mqabba",
     "wof:parent_id":85686739,
     "wof:placetype":"locality",

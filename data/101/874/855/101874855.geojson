@@ -60,6 +60,9 @@
     "name:guj_x_preferred":[
         "\u0aae\u0ac1\u0aa8\u0acd\u0a95\u0acd\u0ab8\u0ab0"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e8\u05d0\u05de\u05d5\u05d5\u05d9\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0941\u0928\u094d\u0915\u094d\u0938\u093e\u0930"
     ],
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":101874855,
-    "wof:lastmodified":1582316830,
+    "wof:lastmodified":1636495372,
     "wof:name":"Munxar",
     "wof:parent_id":85686965,
     "wof:placetype":"locality",

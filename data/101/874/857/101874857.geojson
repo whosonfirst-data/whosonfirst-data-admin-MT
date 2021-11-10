@@ -66,6 +66,9 @@
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab5\u0abe\u0ab2\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05dc\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u093e\u0932\u093e."
     ],
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":101874857,
-    "wof:lastmodified":1582316830,
+    "wof:lastmodified":1636495372,
     "wof:name":"Qala",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

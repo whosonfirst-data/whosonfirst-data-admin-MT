@@ -66,6 +66,9 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0ab2\u0acb\u0ab0\u0ac7\u0aa8\u0acd\u0ab8"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05dc\u05d5\u05e8\u05e0\u05e5"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u0902\u091f \u0932\u0949\u0930\u0947\u0902\u0938"
     ],
@@ -212,7 +215,7 @@
         }
     ],
     "wof:id":101874859,
-    "wof:lastmodified":1582316830,
+    "wof:lastmodified":1636495371,
     "wof:name":"San Lawrenz",
     "wof:parent_id":85686995,
     "wof:placetype":"locality",

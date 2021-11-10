@@ -64,6 +64,9 @@
     "name:guj_x_preferred":[
         "\u0a87\u0a95\u0acd\u0ab2\u0abf\u0aa8"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05e7\u05dc\u05d9\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0907\u0915\u0932\u093f\u0928"
     ],
@@ -263,7 +266,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1608006569,
+    "wof:lastmodified":1636495365,
     "wof:name":"Iklin",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

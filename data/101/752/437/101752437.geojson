@@ -65,6 +65,9 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0ab5\u0abf\u0a95\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05d5\u05d9\u05d9\u05e7\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u094d\u0935\u093f\u090f\u0915\u0940"
     ],
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":101752437,
-    "wof:lastmodified":1608006568,
+    "wof:lastmodified":1636495370,
     "wof:name":"Swieqi",
     "wof:parent_id":85686925,
     "wof:placetype":"locality",

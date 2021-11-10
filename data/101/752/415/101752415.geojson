@@ -59,6 +59,9 @@
     "name:guj_x_preferred":[
         "\u0ab2\u0ac0\u0a9c\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05d0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u0940\u092f\u093e"
     ],
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":101752415,
-    "wof:lastmodified":1608006568,
+    "wof:lastmodified":1636495369,
     "wof:name":"Lija",
     "wof:parent_id":85686871,
     "wof:placetype":"locality",
