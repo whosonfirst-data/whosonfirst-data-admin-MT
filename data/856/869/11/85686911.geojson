@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01539",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Il-Mosta",
+    "eurostat:nuts_2021_id":"MT01539",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01539",
+    "eurostat:population":21426,
+    "eurostat:population_year":2020,
     "geom:area":0.00068,
-    "geom:area_square_m":6807520.834126,
+    "geom:area_square_m":6807520.834125,
     "geom:bbox":"14.3932215,35.89732,14.4391425,35.9289975",
     "geom:latitude":35.91296,
     "geom:longitude":14.419082,
@@ -266,6 +278,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-32",
     "wd:wordcount":818,
     "wof:belongsto":[
@@ -274,6 +288,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01539",
+        "eurostat:nuts_2021_id":"MT01539",
         "fips:code":"",
         "gn:id":8299734,
         "gp:id":24551367,
@@ -282,7 +298,7 @@
         "wd:id":"Q39520"
     },
     "wof:country":"MT",
-    "wof:geomhash":"75bcfdf4e3ff937b449974aae4d47ea2",
+    "wof:geomhash":"8eceb3050a6fecc9c54c847d7ad36c51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -299,10 +315,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1566612050,
+    "wof:lastmodified":1684354004,
     "wof:name":"Mosta",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":21426,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-32",

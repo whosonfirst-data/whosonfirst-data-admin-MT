@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT02630",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ta' Ker\u010bem",
+    "eurostat:nuts_2021_id":"MT02630",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT002",
+    "eurostat:nuts_2021_level_lau":"MT02630",
+    "eurostat:population":1809,
+    "eurostat:population_year":2020,
     "geom:area":0.000544,
-    "geom:area_square_m":5437180.556565,
+    "geom:area_square_m":5437180.556564,
     "geom:bbox":"14.193307,36.031316,14.2338045,36.0554745",
     "geom:latitude":36.042681,
     "geom:longitude":14.215419,
@@ -230,6 +242,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-22",
     "wd:wordcount":424,
     "wof:belongsto":[
@@ -238,6 +252,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT02630",
+        "eurostat:nuts_2021_id":"MT02630",
         "fips:code":"",
         "gn:id":8299726,
         "gp:id":24551358,
@@ -246,7 +262,7 @@
         "wd:id":"Q674679"
     },
     "wof:country":"MT",
-    "wof:geomhash":"52b3658d575f7c547951fc3c6e4db53d",
+    "wof:geomhash":"ad2fbdd4a3e07199e737de56ac601a29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -263,10 +279,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1566612050,
+    "wof:lastmodified":1684354005,
     "wof:name":"Kercem",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":1809,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"99",
     "wof:subdivision":"MT-22",

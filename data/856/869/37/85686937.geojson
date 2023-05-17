@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01544",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"In-Naxxar",
+    "eurostat:nuts_2021_id":"MT01544",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01544",
+    "eurostat:population":15244,
+    "eurostat:population_year":2020,
     "geom:area":0.001157,
-    "geom:area_square_m":11586586.253804,
+    "geom:area_square_m":11586685.286824,
     "geom:bbox":"14.418857,35.90461,14.463784,35.95497",
     "geom:latitude":35.932129,
     "geom:longitude":14.439109,
@@ -248,6 +260,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-38",
     "wd:wordcount":2105,
     "wof:belongsto":[
@@ -256,6 +270,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01544",
+        "eurostat:nuts_2021_id":"MT01544",
         "fips:code":"",
         "gn:id":8299737,
         "gp:id":56043491,
@@ -264,7 +280,7 @@
         "wd:id":"Q44397"
     },
     "wof:country":"MT",
-    "wof:geomhash":"ca017a4b0c896ff949cea7d58d20b5bf",
+    "wof:geomhash":"d26c75f5d7334389a7302622514b9a2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -281,10 +297,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1636495366,
+    "wof:lastmodified":1684354005,
     "wof:name":"Naxxar",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":15244,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-38",

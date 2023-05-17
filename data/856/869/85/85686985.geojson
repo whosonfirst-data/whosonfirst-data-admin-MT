@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT02648",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Il-Qala",
+    "eurostat:nuts_2021_id":"MT02648",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT002",
+    "eurostat:nuts_2021_level_lau":"MT02648",
+    "eurostat:population":1976,
+    "eurostat:population_year":2020,
     "geom:area":0.00058,
-    "geom:area_square_m":5798204.497919,
+    "geom:area_square_m":5798382.392677,
     "geom:bbox":"14.295665,36.025732,14.336018,36.049918",
     "geom:latitude":36.036546,
     "geom:longitude":14.316906,
@@ -119,6 +131,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-42",
     "wd:wordcount":93,
     "wof:belongsto":[
@@ -127,6 +141,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT02648",
+        "eurostat:nuts_2021_id":"MT02648",
         "fips:code":"",
         "gn:id":8299741,
         "gp:id":24551357,
@@ -134,7 +150,7 @@
         "unlc:id":"MT-42"
     },
     "wof:country":"MT",
-    "wof:geomhash":"2321263b6d55017b3e9f727afd8f50f4",
+    "wof:geomhash":"bb11a9327880073786bd509f31fe5cc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +167,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1636495367,
+    "wof:lastmodified":1684354005,
     "wof:name":"Qala",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":1976,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"99",
     "wof:subdivision":"MT-42",

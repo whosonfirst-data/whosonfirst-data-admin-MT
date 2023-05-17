@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Il-Kalkara",
+    "eurostat:nuts_2021_id":"MT01129",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01129",
+    "eurostat:population":3112,
+    "eurostat:population_year":2020,
     "geom:area":0.000177,
-    "geom:area_square_m":1776468.263605,
+    "geom:area_square_m":1776432.229522,
     "geom:bbox":"14.522639,35.884315,14.545165,35.899499",
     "geom:latitude":35.891272,
     "geom:longitude":14.533043,
@@ -368,6 +380,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-21",
     "wd:wordcount":3184,
     "wof:belongsto":[
@@ -376,6 +390,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01129",
+        "eurostat:nuts_2021_id":"MT01129",
         "fips:code":"",
         "gn:id":8299725,
         "gp:id":24551392,
@@ -384,7 +400,7 @@
         "wd:id":"Q533257"
     },
     "wof:country":"MT",
-    "wof:geomhash":"c6974a4afd6c4286457fcd12d28749ab",
+    "wof:geomhash":"873a29ec3c7854f9aa9650ee2c560e7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -401,10 +417,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1636495365,
+    "wof:lastmodified":1684354004,
     "wof:name":"Kalkara",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":3112,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-21",

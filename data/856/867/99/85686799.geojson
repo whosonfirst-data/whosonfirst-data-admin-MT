@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"L-Imdina",
+    "eurostat:nuts_2021_id":"MT01402",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01402",
+    "eurostat:population":249,
+    "eurostat:population_year":2020,
     "geom:area":0.000085,
-    "geom:area_square_m":854841.720801,
+    "geom:area_square_m":854798.828978,
     "geom:bbox":"14.397463,35.882572,14.415116,35.891666",
     "geom:latitude":35.886921,
     "geom:longitude":14.405521,
@@ -43,6 +55,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-29",
     "wof:belongsto":[
         102191581,
@@ -50,10 +64,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01402",
+        "eurostat:nuts_2021_id":"MT01402",
         "unlc:id":"MT-29"
     },
     "wof:country":"MT",
-    "wof:geomhash":"eae810436aec72496ec4c01e7f7f3910",
+    "wof:geomhash":"d1d99d9fc98e40607230f47b345f55c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,10 +86,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1627522383,
+    "wof:lastmodified":1684354004,
     "wof:name":"Mdina (Citta' Notabile)",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":249,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:subdivision":"MT-29",
     "wof:superseded_by":[],

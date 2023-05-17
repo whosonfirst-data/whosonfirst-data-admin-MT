@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Il-Furjana",
+    "eurostat:nuts_2021_id":"MT01118",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01118",
+    "eurostat:population":2053,
+    "eurostat:population_year":2020,
     "geom:area":0.000096,
     "geom:area_square_m":959011.271109,
     "geom:bbox":"14.4974265,35.885983,14.510959,35.899178",
@@ -234,6 +246,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-09",
     "wd:wordcount":1161,
     "wof:belongsto":[
@@ -242,6 +256,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01118",
+        "eurostat:nuts_2021_id":"MT01118",
         "fips:code":"",
         "gn:id":8299708,
         "gp:id":56043492,
@@ -250,7 +266,7 @@
         "wd:id":"Q832807"
     },
     "wof:country":"MT",
-    "wof:geomhash":"4666b01038bcb4d78fce5be7b5384001",
+    "wof:geomhash":"c223060ba19cbebe08cd53ac39cb5b6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -267,10 +283,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1566612047,
+    "wof:lastmodified":1684354004,
     "wof:name":"Floriana",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":2053,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-09",

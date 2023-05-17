@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01367",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"I\u017c-\u017burrieq",
+    "eurostat:nuts_2021_id":"MT01367",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01367",
+    "eurostat:population":11140,
+    "eurostat:population_year":2020,
     "geom:area":0.000836,
     "geom:area_square_m":8379107.458602,
     "geom:bbox":"14.456766,35.8118365,14.5166735,35.8410795",
@@ -254,6 +266,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-68",
     "wd:wordcount":1766,
     "wof:belongsto":[
@@ -262,6 +276,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01367",
+        "eurostat:nuts_2021_id":"MT01367",
         "fips:code":"",
         "gn:id":8299766,
         "gp:id":24551383,
@@ -270,7 +286,7 @@
         "wd:id":"Q44417"
     },
     "wof:country":"MT",
-    "wof:geomhash":"287f46fdfe9ad6e90da7ae471a5767c2",
+    "wof:geomhash":"5e2c094381862cd84a87ceecc98a0fef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -287,10 +303,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1566612053,
+    "wof:lastmodified":1684354004,
     "wof:name":"Zurrieq",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":11140,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-68",

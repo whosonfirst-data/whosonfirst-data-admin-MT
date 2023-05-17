@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01315",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bir\u017cebbu\u0121a",
+    "eurostat:nuts_2021_id":"MT01315",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01315",
+    "eurostat:population":13453,
+    "eurostat:population_year":2020,
     "geom:area":0.00092,
-    "geom:area_square_m":9219604.268671,
+    "geom:area_square_m":9219604.26867,
     "geom:bbox":"14.5001545,35.806459,14.5492645,35.843872",
     "geom:latitude":35.821406,
     "geom:longitude":14.523413,
@@ -248,6 +260,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wd:wordcount":1201,
     "wof:belongsto":[
         102191581,
@@ -255,6 +269,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01315",
+        "eurostat:nuts_2021_id":"MT01315",
         "fips:code":"",
         "gn:id":8299704,
         "gp:id":24551382,
@@ -262,7 +278,7 @@
         "wd:id":"Q258028"
     },
     "wof:country":"MT",
-    "wof:geomhash":"cd6e364b1aa3e07a7b24f4bc92b7453e",
+    "wof:geomhash":"f3b3d34a6cdbd194ceaf16c6f55c72d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -279,10 +295,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1566612053,
+    "wof:lastmodified":1684354004,
     "wof:name":"Birzebbugia",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":13453,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:superseded_by":[],

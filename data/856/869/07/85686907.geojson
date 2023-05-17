@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01259",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tas-Sliema",
+    "eurostat:nuts_2021_id":"MT01259",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01259",
+    "eurostat:population":24358,
+    "eurostat:population_year":2020,
     "geom:area":0.00013,
-    "geom:area_square_m":1298220.26814,
+    "geom:area_square_m":1298220.268142,
     "geom:bbox":"14.492942,35.905403,14.5150515,35.9190055",
     "geom:latitude":35.91166,
     "geom:longitude":14.502794,
@@ -293,6 +305,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-56",
     "wd:wordcount":1549,
     "wof:belongsto":[
@@ -301,6 +315,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01259",
+        "eurostat:nuts_2021_id":"MT01259",
         "fips:code":"",
         "gn:id":8299755,
         "gp:id":24551395,
@@ -309,7 +325,7 @@
         "wd:id":"Q39526"
     },
     "wof:country":"MT",
-    "wof:geomhash":"b54807c3097b5ccdada8f333ba519d84",
+    "wof:geomhash":"ec8ae72eaac220f0a4a3eabad5c31b69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -326,10 +342,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1566612050,
+    "wof:lastmodified":1684354004,
     "wof:name":"Sliema",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":24358,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-56",

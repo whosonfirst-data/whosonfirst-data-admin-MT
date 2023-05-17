@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01227",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Il-\u0126amrun",
+    "eurostat:nuts_2021_id":"MT01227",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01227",
+    "eurostat:population":10075,
+    "eurostat:population_year":2020,
     "geom:area":0.000104,
     "geom:area_square_m":1045626.450107,
     "geom:bbox":"14.479929,35.881298,14.500261,35.892323",
@@ -196,6 +208,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-18",
     "wd:wordcount":2420,
     "wof:belongsto":[
@@ -204,6 +218,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01227",
+        "eurostat:nuts_2021_id":"MT01227",
         "unlc:id":"MT-18",
         "wd:id":"Q343001"
     },
@@ -211,7 +227,7 @@
         101752395
     ],
     "wof:country":"MT",
-    "wof:geomhash":"8386160326510c2ccfe3ba7315d3ff05",
+    "wof:geomhash":"faa47e36b63ac100ae99aaefab51534b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -228,10 +244,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1608006569,
+    "wof:lastmodified":1684354004,
     "wof:name":"Hamrun",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":10075,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:subdivision":"MT-18",
     "wof:superseded_by":[],

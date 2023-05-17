@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT02625",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"L-G\u0127asri",
+    "eurostat:nuts_2021_id":"MT02625",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT002",
+    "eurostat:nuts_2021_level_lau":"MT02625",
+    "eurostat:population":422,
+    "eurostat:population_year":2020,
     "geom:area":0.000506,
-    "geom:area_square_m":5059593.431387,
+    "geom:area_square_m":5059593.431388,
     "geom:bbox":"14.2093615,36.0502525,14.237581,36.082288",
     "geom:latitude":36.066599,
     "geom:longitude":14.2227,
@@ -233,6 +245,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-16",
     "wd:wordcount":518,
     "wof:belongsto":[
@@ -241,6 +255,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT02625",
+        "eurostat:nuts_2021_id":"MT02625",
         "fips:code":"",
         "gn:id":8299713,
         "gp:id":24551355,
@@ -249,7 +265,7 @@
         "wd:id":"Q1017339"
     },
     "wof:country":"MT",
-    "wof:geomhash":"a81659e57cf1d06867c4dfeffbaf630e",
+    "wof:geomhash":"539cd756fad458443704a8606b362290",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -266,10 +282,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1566612056,
+    "wof:lastmodified":1684354005,
     "wof:name":"Ghasri",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":422,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"99",
     "wof:subdivision":"MT-16",

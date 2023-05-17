@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01537",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Il-Mellie\u0127a",
+    "eurostat:nuts_2021_id":"MT01537",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01537",
+    "eurostat:population":11823,
+    "eurostat:population_year":2020,
     "geom:area":0.00228,
-    "geom:area_square_m":22815191.504486,
+    "geom:area_square_m":22815191.504484,
     "geom:bbox":"14.3196785,35.9306305,14.4074355,35.9983875",
     "geom:latitude":35.962283,
     "geom:longitude":14.355762,
@@ -242,6 +254,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wd:wordcount":1144,
     "wof:belongsto":[
         102191581,
@@ -250,6 +264,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01537",
+        "eurostat:nuts_2021_id":"MT01537",
         "fips:code":"",
         "gn:id":8299733,
         "gp:id":24551366,
@@ -257,7 +273,7 @@
         "wd:id":"Q755979"
     },
     "wof:country":"MT",
-    "wof:geomhash":"322a5e5959ce71fe58f5d00e72e76acf",
+    "wof:geomhash":"165171047895cffff786e15577735add",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -274,10 +290,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1566612061,
+    "wof:lastmodified":1684354005,
     "wof:name":"Mellieha",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":11823,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[
