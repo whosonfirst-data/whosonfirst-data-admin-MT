@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT02664",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ix-Xewkija",
+    "eurostat:nuts_2021_id":"MT02664",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT002",
+    "eurostat:nuts_2021_level_lau":"MT02664",
+    "eurostat:population":3279,
+    "eurostat:population_year":2020,
     "geom:area":0.000452,
-    "geom:area_square_m":4522147.753498,
+    "geom:area_square_m":4522210.088596,
     "geom:bbox":"14.238111,36.021573,14.277431,36.042493",
     "geom:latitude":36.032914,
     "geom:longitude":14.261115,
@@ -230,6 +242,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-62",
     "wd:wordcount":784,
     "wof:belongsto":[
@@ -238,6 +252,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT02664",
+        "eurostat:nuts_2021_id":"MT02664",
         "fips:code":"",
         "gn:id":8299760,
         "gp:id":24551360,
@@ -246,7 +262,7 @@
         "wd:id":"Q919921"
     },
     "wof:country":"MT",
-    "wof:geomhash":"5a8e168ed700e15d8b966b7d338995b4",
+    "wof:geomhash":"60bf650f72a302433f614cd8e6b0fb20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -263,10 +279,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1636495366,
+    "wof:lastmodified":1684354005,
     "wof:name":"Xewkija",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":3279,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"99",
     "wof:subdivision":"MT-62",

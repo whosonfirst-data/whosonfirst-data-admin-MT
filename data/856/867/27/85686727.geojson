@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01351",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0126al Safi",
+    "eurostat:nuts_2021_id":"MT01351",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01351",
+    "eurostat:population":2375,
+    "eurostat:population_year":2020,
     "geom:area":0.00023,
-    "geom:area_square_m":2309588.428117,
+    "geom:area_square_m":2309553.601188,
     "geom:bbox":"14.479256,35.826057,14.505829,35.843658",
     "geom:latitude":35.833777,
     "geom:longitude":14.492029,
@@ -149,6 +161,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-47",
     "wd:wordcount":118,
     "wof:belongsto":[
@@ -157,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01351",
+        "eurostat:nuts_2021_id":"MT01351",
         "fips:code":"",
         "gn:id":8299746,
         "gp:id":24551385,
@@ -164,7 +180,7 @@
         "unlc:id":"MT-47"
     },
     "wof:country":"MT",
-    "wof:geomhash":"4820e302e4db11844122fec284703d6e",
+    "wof:geomhash":"72ff75c5db33fc29a02b673a1dc58fea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,10 +197,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1636495367,
+    "wof:lastmodified":1684354004,
     "wof:name":"Safi",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":2375,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-47",

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01258",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Venera",
+    "eurostat:nuts_2021_id":"MT01258",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01258",
+    "eurostat:population":7909,
+    "eurostat:population_year":2020,
     "geom:area":0.000091,
-    "geom:area_square_m":913583.445947,
+    "geom:area_square_m":913605.335869,
     "geom:bbox":"14.470377,35.883915,14.484731,35.894928",
     "geom:latitude":35.889829,
     "geom:longitude":14.47807,
@@ -242,6 +254,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-54",
     "wd:wordcount":819,
     "wof:belongsto":[
@@ -250,6 +264,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01258",
+        "eurostat:nuts_2021_id":"MT01258",
         "fips:code":"MT53",
         "gn:id":8299752,
         "gp:id":24551410,
@@ -258,7 +274,7 @@
         "wd:id":"Q585420"
     },
     "wof:country":"MT",
-    "wof:geomhash":"65f056cf5c3fd5e124920ae4ba7a8e10",
+    "wof:geomhash":"024f0a2cf05034528cec16c37201b05f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -275,10 +291,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1636495365,
+    "wof:lastmodified":1684354004,
     "wof:name":"Santa Venera",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":7909,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-54",

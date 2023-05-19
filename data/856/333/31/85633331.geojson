@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Malta",
+    "eurostat:name_local":"Malta",
+    "eurostat:nuts_2021_id":"MT00",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:population":520971,
+    "eurostat:population_year":2022,
     "geom:area":0.031511,
-    "geom:area_square_m":315535528.294841,
+    "geom:area_square_m":315535528.294874,
     "geom:bbox":"14.183606,35.806459,14.576155,36.082438",
     "geom:latitude":35.922644,
     "geom:longitude":14.399911,
@@ -1107,7 +1117,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:dial":"356",
     "statoids:ds":"M",
     "statoids:fifa":"MLT",
@@ -1136,6 +1147,7 @@
     "wof:concordances":{
         "dbp:id":"Malta",
         "digitalenvoy:country_code":470,
+        "eurostat:nuts_2021_id":"MT00",
         "fb:id":"en.malta",
         "fifa:id":"MLT",
         "fips:code":"MT",
@@ -1164,7 +1176,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"1fc2d6b99c91a66c4add3ef07628c3e2",
+    "wof:geomhash":"e56ec45d5f0c565aec70389c1129baba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1180,12 +1192,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1617827399,
+    "wof:lastmodified":1684351457,
     "wof:name":"Malta",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":423374,
-    "wof:population_rank":10,
+    "wof:population":520971,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:superseded_by":[],

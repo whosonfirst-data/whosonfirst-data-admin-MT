@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"I\u017c-\u017bejtun",
+    "eurostat:nuts_2021_id":"MT01310",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01310",
+    "eurostat:population":11533,
+    "eurostat:population_year":2020,
     "geom:area":0.000536,
-    "geom:area_square_m":5371382.391281,
+    "geom:area_square_m":5371408.971722,
     "geom:bbox":"14.515515,35.844993,14.552034,35.869446",
     "geom:latitude":35.857149,
     "geom:longitude":14.534092,
@@ -107,6 +119,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-67",
     "wof:belongsto":[
         102191581,
@@ -114,6 +128,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01310",
+        "eurostat:nuts_2021_id":"MT01310",
         "fips:code":"",
         "gn:id":8299765,
         "gp:id":24551384,
@@ -121,7 +137,7 @@
         "unlc:id":"MT-67"
     },
     "wof:country":"MT",
-    "wof:geomhash":"6cc7b9f2fa5648374ec6b9f3cf4fd571",
+    "wof:geomhash":"a519355f471c2d5904a9fc2f84eb6014",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1627522383,
+    "wof:lastmodified":1684354004,
     "wof:name":"Zejtun (Citta' Beland)",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":11533,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-67",

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01450",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ir-Rabat",
+    "eurostat:nuts_2021_id":"MT01450",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01450",
+    "eurostat:population":11553,
+    "eurostat:population_year":2020,
     "geom:area":0.002659,
-    "geom:area_square_m":26639003.600125,
+    "geom:area_square_m":26639003.600121,
     "geom:bbox":"14.328263,35.8615575,14.416919,35.9076505",
     "geom:latitude":35.886048,
     "geom:longitude":14.37413,
@@ -263,6 +275,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wd:wordcount":947,
     "wof:belongsto":[
         102191581,
@@ -270,6 +284,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01450",
+        "eurostat:nuts_2021_id":"MT01450",
         "fips:code":"",
         "gn:id":-99,
         "gp:id":56043491,
@@ -277,7 +293,7 @@
         "wd:id":"Q44381"
     },
     "wof:country":"MT",
-    "wof:geomhash":"0b99d932a32f587cfc745b8c04d49eb5",
+    "wof:geomhash":"5569ee221fbd1abe21ee608d794db56d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -294,10 +310,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1566612047,
+    "wof:lastmodified":1684354004,
     "wof:name":"Rabat (Malta)",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":11553,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01428",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"L-Iklin",
+    "eurostat:nuts_2021_id":"MT01428",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01428",
+    "eurostat:population":3507,
+    "eurostat:population_year":2020,
     "geom:area":0.000169,
-    "geom:area_square_m":1693261.140579,
+    "geom:area_square_m":1693261.140578,
     "geom:bbox":"14.447334,35.902203,14.463303,35.916756",
     "geom:latitude":35.909572,
     "geom:longitude":14.455524,
@@ -230,6 +242,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-19",
     "wd:wordcount":908,
     "wof:belongsto":[
@@ -238,6 +252,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01428",
+        "eurostat:nuts_2021_id":"MT01428",
         "fips:code":"",
         "gn:id":8299718,
         "gp:id":24551409,
@@ -249,7 +265,7 @@
         101752427
     ],
     "wof:country":"MT",
-    "wof:geomhash":"cc6a6fa46017458ed288b877232c7a39",
+    "wof:geomhash":"b230f2c0d38f93ed9d8641d997f23a9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -266,10 +282,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1636495365,
+    "wof:lastmodified":1684354004,
     "wof:name":"Iklin",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":3507,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-19",

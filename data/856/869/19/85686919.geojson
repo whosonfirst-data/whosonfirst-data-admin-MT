@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01524",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0126al G\u0127arg\u0127ur",
+    "eurostat:nuts_2021_id":"MT01524",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01524",
+    "eurostat:population":2921,
+    "eurostat:population_year":2020,
     "geom:area":0.000202,
-    "geom:area_square_m":2022859.357103,
+    "geom:area_square_m":2022859.357104,
     "geom:bbox":"14.447738,35.912407,14.4657185,35.9333005",
     "geom:latitude":35.922891,
     "geom:longitude":14.455807,
@@ -134,6 +146,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-15",
     "wof:belongsto":[
         102191581,
@@ -141,6 +155,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01524",
+        "eurostat:nuts_2021_id":"MT01524",
         "fips:code":"",
         "gn:id":8299712,
         "gp:id":24551405,
@@ -148,7 +164,7 @@
         "unlc:id":"MT-15"
     },
     "wof:country":"MT",
-    "wof:geomhash":"659f238aa393678dbee1d6aef6f3ca75",
+    "wof:geomhash":"c95a98e49e166af741b9cba30c7bdade",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,10 +181,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1566612050,
+    "wof:lastmodified":1684354004,
     "wof:name":"Gharghur",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":2921,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-15",

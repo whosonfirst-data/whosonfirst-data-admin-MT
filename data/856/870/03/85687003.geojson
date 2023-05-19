@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT02663",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ix-Xag\u0127ra",
+    "eurostat:nuts_2021_id":"MT02663",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT002",
+    "eurostat:nuts_2021_level_lau":"MT02663",
+    "eurostat:population":4301,
+    "eurostat:population_year":2020,
     "geom:area":0.000764,
     "geom:area_square_m":7640371.458159,
     "geom:bbox":"14.249259,36.038278,14.286077,36.0733655",
@@ -239,6 +251,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-61",
     "wd:wordcount":797,
     "wof:belongsto":[
@@ -247,6 +261,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT02663",
+        "eurostat:nuts_2021_id":"MT02663",
         "fips:code":"",
         "gn:id":8299759,
         "gp:id":24551356,
@@ -255,7 +271,7 @@
         "wd:id":"Q605343"
     },
     "wof:country":"MT",
-    "wof:geomhash":"caba1bf19889ab413222f4bbfb313f46",
+    "wof:geomhash":"1d16b00ceb6a73a0ac7d4ec10847cd38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -272,10 +288,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1566612055,
+    "wof:lastmodified":1684354005,
     "wof:name":"Xaghra",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":4301,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"99",
     "wof:subdivision":"MT-61",

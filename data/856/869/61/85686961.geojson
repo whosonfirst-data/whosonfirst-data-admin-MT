@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT02656",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ta' Sannat",
+    "eurostat:nuts_2021_id":"MT02656",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT002",
+    "eurostat:nuts_2021_level_lau":"MT02656",
+    "eurostat:population":1904,
+    "eurostat:population_year":2020,
     "geom:area":0.000384,
-    "geom:area_square_m":3844033.613038,
+    "geom:area_square_m":3844002.957477,
     "geom:bbox":"14.230482,36.011569,14.272569,36.030435",
     "geom:latitude":36.021858,
     "geom:longitude":14.25196,
@@ -233,6 +245,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-52",
     "wd:wordcount":425,
     "wof:belongsto":[
@@ -241,6 +255,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT02656",
+        "eurostat:nuts_2021_id":"MT02656",
         "fips:code":"",
         "gn:id":8299753,
         "gp:id":24551350,
@@ -249,7 +265,7 @@
         "wd:id":"Q602037"
     },
     "wof:country":"MT",
-    "wof:geomhash":"c5347aebbd36bdcebfd6a79ac65ca8c6",
+    "wof:geomhash":"4a537ff6c3fe714b2ccfe9ba51a60f33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -266,10 +282,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1636495365,
+    "wof:lastmodified":1684354005,
     "wof:name":"Sannat",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":1904,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"99",
     "wof:subdivision":"MT-52",

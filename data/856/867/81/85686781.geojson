@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Il-Fgura",
+    "eurostat:nuts_2021_id":"MT01117",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01117",
+    "eurostat:population":12877,
+    "eurostat:population_year":2020,
     "geom:area":0.000111,
-    "geom:area_square_m":1108537.879647,
+    "geom:area_square_m":1108521.035513,
     "geom:bbox":"14.511657,35.866451,14.526985,35.87751",
     "geom:latitude":35.872564,
     "geom:longitude":14.520287,
@@ -320,6 +332,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-08",
     "wd:wordcount":2028,
     "wof:belongsto":[
@@ -328,6 +342,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01117",
+        "eurostat:nuts_2021_id":"MT01117",
         "fips:code":"",
         "gn:id":8299707,
         "gp:id":24551403,
@@ -336,7 +352,7 @@
         "wd:id":"Q44388"
     },
     "wof:country":"MT",
-    "wof:geomhash":"ac96ccc8391462215eb131825c9d56b2",
+    "wof:geomhash":"9aa35202ef2ebe019881901649374d21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -353,10 +369,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1636495367,
+    "wof:lastmodified":1684354004,
     "wof:name":"Fgura",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":12877,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-08",

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT02623",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"L-G\u0127arb",
+    "eurostat:nuts_2021_id":"MT02623",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT002",
+    "eurostat:nuts_2021_level_lau":"MT02623",
+    "eurostat:population":1311,
+    "eurostat:population_year":2020,
     "geom:area":0.000468,
-    "geom:area_square_m":4673090.795403,
+    "geom:area_square_m":4673021.683174,
     "geom:bbox":"14.183606,36.054342,14.218173,36.079963",
     "geom:latitude":36.067258,
     "geom:longitude":14.201489,
@@ -107,6 +119,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-14",
     "wof:belongsto":[
         102191581,
@@ -114,6 +128,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT02623",
+        "eurostat:nuts_2021_id":"MT02623",
         "fips:code":"",
         "gn:id":8299711,
         "gp:id":24551351,
@@ -121,7 +137,7 @@
         "unlc:id":"MT-14"
     },
     "wof:country":"MT",
-    "wof:geomhash":"7cc48351c8ab7b66225049720917bc08",
+    "wof:geomhash":"0dc3462987442c93d226d2fc98a62459",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1627522383,
+    "wof:lastmodified":1684354005,
     "wof:name":"Gharb",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":1311,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"99",
     "wof:subdivision":"MT-14",

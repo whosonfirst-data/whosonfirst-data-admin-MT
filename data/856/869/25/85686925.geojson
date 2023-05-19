@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01260",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Is-Swieqi",
+    "eurostat:nuts_2021_id":"MT01260",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01260",
+    "eurostat:population":15565,
+    "eurostat:population_year":2020,
     "geom:area":0.000306,
     "geom:area_square_m":3065975.043118,
     "geom:bbox":"14.455076,35.912647,14.486818,35.933567",
@@ -251,6 +263,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-57",
     "wd:wordcount":1948,
     "wof:belongsto":[
@@ -259,6 +273,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01260",
+        "eurostat:nuts_2021_id":"MT01260",
         "fips:code":"",
         "gn:id":8299756,
         "gp:id":24551413,
@@ -270,7 +286,7 @@
         101752437
     ],
     "wof:country":"MT",
-    "wof:geomhash":"4311b31ac5069a9e198326efcc17296c",
+    "wof:geomhash":"f4f18392cb4c1cfd6eb9b29483925be2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -287,10 +303,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1636495367,
+    "wof:lastmodified":1684354005,
     "wof:name":"Swieqi",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":15565,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-57",

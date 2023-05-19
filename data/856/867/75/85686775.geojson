@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01133",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0126al Luqa",
+    "eurostat:nuts_2021_id":"MT01133",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01133",
+    "eurostat:population":6379,
+    "eurostat:population_year":2020,
     "geom:area":0.000676,
     "geom:area_square_m":6778421.09339,
     "geom:bbox":"14.4576,35.82798,14.5138545,35.8756335",
@@ -245,6 +257,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-25",
     "wd:wordcount":648,
     "wof:belongsto":[
@@ -253,6 +267,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01133",
+        "eurostat:nuts_2021_id":"MT01133",
         "fips:code":"",
         "gn:id":8299729,
         "gp:id":24551411,
@@ -261,7 +277,7 @@
         "wd:id":"Q475585"
     },
     "wof:country":"MT",
-    "wof:geomhash":"3a8244d8b3f84a8214a1bf4614146a53",
+    "wof:geomhash":"fdd4449fc278c5faad24e5640f3ffa5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -278,10 +294,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1566612053,
+    "wof:lastmodified":1684354004,
     "wof:name":"Luqa",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":6379,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-25",

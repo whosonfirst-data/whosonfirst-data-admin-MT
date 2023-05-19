@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01413",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0126al Balzan",
+    "eurostat:nuts_2021_id":"MT01413",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01413",
+    "eurostat:population":4768,
+    "eurostat:population_year":2020,
     "geom:area":0.00006,
     "geom:area_square_m":598891.730491,
     "geom:bbox":"14.446071,35.892807,14.45735,35.902203",
@@ -236,6 +248,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-02",
     "wd:wordcount":517,
     "wof:belongsto":[
@@ -244,6 +258,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01413",
+        "eurostat:nuts_2021_id":"MT01413",
         "fips:code":"",
         "gn:id":8299701,
         "gp:id":24551375,
@@ -255,7 +271,7 @@
         101752405
     ],
     "wof:country":"MT",
-    "wof:geomhash":"13905cbc1b6545d960990e0144e0ff0a",
+    "wof:geomhash":"3259ef3bcec5019fb928eaab9231b1a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -272,10 +288,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1608006569,
+    "wof:lastmodified":1684354004,
     "wof:name":"Balzan",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":4768,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-02",

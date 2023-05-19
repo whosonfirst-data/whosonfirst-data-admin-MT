@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01331",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0126al Kirkop",
+    "eurostat:nuts_2021_id":"MT01331",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01331",
+    "eurostat:population":2443,
+    "eurostat:population_year":2020,
     "geom:area":0.000112,
-    "geom:area_square_m":1125141.006464,
+    "geom:area_square_m":1125126.096402,
     "geom:bbox":"14.477059,35.836101,14.492023,35.851116",
     "geom:latitude":35.843769,
     "geom:longitude":14.484289,
@@ -242,6 +254,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-23",
     "wd:wordcount":765,
     "wof:belongsto":[
@@ -250,6 +264,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01331",
+        "eurostat:nuts_2021_id":"MT01331",
         "fips:code":"",
         "gn:id":8299727,
         "gp:id":24551378,
@@ -258,7 +274,7 @@
         "wd:id":"Q597464"
     },
     "wof:country":"MT",
-    "wof:geomhash":"6cc0ce985484ae93b5f202de5ec5a286",
+    "wof:geomhash":"d0ff8c7a8dd2b785bde4483c7f04ecc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -275,10 +291,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1636495367,
+    "wof:lastmodified":1684354004,
     "wof:name":"Kirkop",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":2443,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-23",

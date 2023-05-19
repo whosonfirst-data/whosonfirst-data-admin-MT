@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT02643",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"In-Nadur",
+    "eurostat:nuts_2021_id":"MT02643",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT002",
+    "eurostat:nuts_2021_level_lau":"MT02643",
+    "eurostat:population":4221,
+    "eurostat:population_year":2020,
     "geom:area":0.000719,
-    "geom:area_square_m":7187326.508837,
+    "geom:area_square_m":7187325.003108,
     "geom:bbox":"14.277281,36.034032,14.315071,36.065806",
     "geom:latitude":36.048124,
     "geom:longitude":14.294642,
@@ -224,6 +236,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-37",
     "wd:wordcount":1381,
     "wof:belongsto":[
@@ -232,6 +246,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT02643",
+        "eurostat:nuts_2021_id":"MT02643",
         "fips:code":"",
         "gn:id":8299736,
         "gp:id":24551353,
@@ -240,7 +256,7 @@
         "wd:id":"Q929969"
     },
     "wof:country":"MT",
-    "wof:geomhash":"b64b4bf56eed1df9a9fe5976aa944c92",
+    "wof:geomhash":"41630e4e5e9d1377b30cefcc5ea9464b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -257,10 +273,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1636495366,
+    "wof:lastmodified":1684354005,
     "wof:name":"Nadur",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":4221,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"99",
     "wof:subdivision":"MT-37",

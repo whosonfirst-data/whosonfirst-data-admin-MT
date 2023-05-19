@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01335",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marsaskala",
+    "eurostat:nuts_2021_id":"MT01335",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01335",
+    "eurostat:population":15504,
+    "eurostat:population_year":2020,
     "geom:area":0.000537,
-    "geom:area_square_m":5384852.924591,
+    "geom:area_square_m":5384896.023257,
     "geom:bbox":"14.544792,35.844387,14.576155,35.877601",
     "geom:latitude":35.860749,
     "geom:longitude":14.56061,
@@ -251,6 +263,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-27",
     "wd:wordcount":1676,
     "wof:belongsto":[
@@ -259,6 +273,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01335",
+        "eurostat:nuts_2021_id":"MT01335",
         "fips:code":"",
         "gn:id":8299731,
         "gp:id":24551386,
@@ -267,7 +283,7 @@
         "wd:id":"Q534571"
     },
     "wof:country":"MT",
-    "wof:geomhash":"1a71986a6fbba65ed9dacf2303d090f5",
+    "wof:geomhash":"2619aa3b2f6ce3dd74c80d6a905db952",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -284,10 +300,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1636495368,
+    "wof:lastmodified":1684354004,
     "wof:name":"Marsaskala",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":15504,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-27",

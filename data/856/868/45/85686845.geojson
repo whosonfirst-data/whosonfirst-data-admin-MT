@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01247",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tal-Pieta'",
+    "eurostat:nuts_2021_id":"MT01247",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01247",
+    "eurostat:population":5255,
+    "eurostat:population_year":2020,
     "geom:area":0.000047,
     "geom:area_square_m":469533.21191,
     "geom:bbox":"14.4898915,35.888569,14.497448,35.896665",
@@ -166,6 +178,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wd:wordcount":846,
     "wof:belongsto":[
         102191581,
@@ -173,10 +187,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01247",
+        "eurostat:nuts_2021_id":"MT01247",
         "wd:id":"Q223689"
     },
     "wof:country":"MT",
-    "wof:geomhash":"d379d3fde5417e8cd31d56ba0e20ad2b",
+    "wof:geomhash":"5ac1830562b4d5d9bbc1cbeeb505b286",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,10 +209,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1566612047,
+    "wof:lastmodified":1684354004,
     "wof:name":"Pieta'",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":5255,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

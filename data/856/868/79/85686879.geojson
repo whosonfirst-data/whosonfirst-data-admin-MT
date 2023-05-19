@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01214",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Birkirkara",
+    "eurostat:nuts_2021_id":"MT01214",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01214",
+    "eurostat:population":25463,
+    "eurostat:population_year":2020,
     "geom:area":0.000274,
-    "geom:area_square_m":2744899.156672,
+    "geom:area_square_m":2744899.156673,
     "geom:bbox":"14.452302,35.886879,14.478336,35.904743",
     "geom:latitude":35.896529,
     "geom:longitude":14.465652,
@@ -308,6 +320,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-04",
     "wd:wordcount":770,
     "wof:belongsto":[
@@ -316,6 +330,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01214",
+        "eurostat:nuts_2021_id":"MT01214",
         "fips:code":"",
         "gn:id":8299703,
         "gp:id":24551412,
@@ -327,7 +343,7 @@
         101752419
     ],
     "wof:country":"MT",
-    "wof:geomhash":"9639d74b5adc8f64d657729351bde390",
+    "wof:geomhash":"cb19732df1f942d90ce38a4e3f75570d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -344,10 +360,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1608006569,
+    "wof:lastmodified":1684354004,
     "wof:name":"Birkirkara",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":25463,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-04",

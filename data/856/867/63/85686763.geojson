@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01416",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0126ad-Dingli",
+    "eurostat:nuts_2021_id":"MT01416",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01416",
+    "eurostat:population":3730,
+    "eurostat:population_year":2020,
     "geom:area":0.000569,
     "geom:area_square_m":5704497.655023,
     "geom:bbox":"14.35996,35.8462045,14.3978075,35.872696",
@@ -236,6 +248,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-07",
     "wd:wordcount":876,
     "wof:belongsto":[
@@ -244,6 +258,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01416",
+        "eurostat:nuts_2021_id":"MT01416",
         "fips:code":"",
         "gn:id":8299706,
         "gp:id":24551369,
@@ -252,7 +268,7 @@
         "wd:id":"Q905641"
     },
     "wof:country":"MT",
-    "wof:geomhash":"db52b38336453c66d11c3e2e4b47349e",
+    "wof:geomhash":"0d8479476f3265fef0868942927bfa6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -269,10 +285,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1566612054,
+    "wof:lastmodified":1684354004,
     "wof:name":"Dingli",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":3730,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-07",

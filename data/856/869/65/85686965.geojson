@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT02642",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Il-Munxar",
+    "eurostat:nuts_2021_id":"MT02642",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT002",
+    "eurostat:nuts_2021_level_lau":"MT02642",
+    "eurostat:population":1305,
+    "eurostat:population_year":2020,
     "geom:area":0.000286,
-    "geom:area_square_m":2859097.519088,
+    "geom:area_square_m":2859003.809602,
     "geom:bbox":"14.211845,36.020585,14.23909,36.037583",
     "geom:latitude":36.028952,
     "geom:longitude":14.225424,
@@ -230,6 +242,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-36",
     "wd:wordcount":786,
     "wof:belongsto":[
@@ -238,6 +252,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT02642",
+        "eurostat:nuts_2021_id":"MT02642",
         "fips:code":"",
         "gn:id":8299735,
         "gp:id":24551354,
@@ -246,7 +262,7 @@
         "wd:id":"Q587462"
     },
     "wof:country":"MT",
-    "wof:geomhash":"a5b114baed21abf4a561cab3f8e331ef",
+    "wof:geomhash":"4f32a70bb4369e04896469cecb5caa41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -263,10 +279,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1636495366,
+    "wof:lastmodified":1684354005,
     "wof:name":"Munxar",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":1305,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"99",
     "wof:subdivision":"MT-36",

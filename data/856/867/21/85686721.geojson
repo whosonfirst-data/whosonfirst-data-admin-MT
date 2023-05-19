@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01349",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Il-Qrendi",
+    "eurostat:nuts_2021_id":"MT01349",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01349",
+    "eurostat:population":2850,
+    "eurostat:population_year":2020,
     "geom:area":0.00049,
-    "geom:area_square_m":4910200.774856,
+    "geom:area_square_m":4910246.397451,
     "geom:bbox":"14.430066,35.818994,14.469852,35.842659",
     "geom:latitude":35.830852,
     "geom:longitude":14.450684,
@@ -239,6 +251,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-44",
     "wd:wordcount":7607,
     "wof:belongsto":[
@@ -247,6 +261,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01349",
+        "eurostat:nuts_2021_id":"MT01349",
         "fips:code":"",
         "gn:id":8299743,
         "gp:id":24551377,
@@ -255,7 +271,7 @@
         "wd:id":"Q282203"
     },
     "wof:country":"MT",
-    "wof:geomhash":"932f386d8f626656fc5de70ea5ab1812",
+    "wof:geomhash":"73eae5b0dbad35be1728ff272b4d28c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -272,10 +288,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1636495367,
+    "wof:lastmodified":1684354004,
     "wof:name":"Qrendi",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":2850,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-44",

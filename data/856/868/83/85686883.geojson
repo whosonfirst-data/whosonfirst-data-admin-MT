@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01241",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"L-Imsida",
+    "eurostat:nuts_2021_id":"MT01241",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01241",
+    "eurostat:population":15364,
+    "eurostat:population_year":2020,
     "geom:area":0.000167,
-    "geom:area_square_m":1676309.435463,
+    "geom:area_square_m":1676309.435462,
     "geom:bbox":"14.473564,35.891071,14.49404,35.904392",
     "geom:latitude":35.898499,
     "geom:longitude":14.483604,
@@ -254,6 +266,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-34",
     "wd:wordcount":1034,
     "wof:belongsto":[
@@ -262,6 +276,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01241",
+        "eurostat:nuts_2021_id":"MT01241",
         "fips:code":"",
         "gn:id":8299722,
         "gp:id":24551414,
@@ -273,7 +289,7 @@
         101752421
     ],
     "wof:country":"MT",
-    "wof:geomhash":"c43743434e011a77285added9c900030",
+    "wof:geomhash":"5e6afa13581b7bbe06bbaff81abcb5dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -290,10 +306,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1608006569,
+    "wof:lastmodified":1684354004,
     "wof:name":"Msida",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":15364,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-34",

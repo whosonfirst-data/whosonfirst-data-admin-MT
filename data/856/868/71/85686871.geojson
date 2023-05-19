@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01432",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0126al Lija",
+    "eurostat:nuts_2021_id":"MT01432",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01432",
+    "eurostat:population":3293,
+    "eurostat:population_year":2020,
     "geom:area":0.000111,
     "geom:area_square_m":1107002.642241,
     "geom:bbox":"14.434028,35.896908,14.452302,35.905663",
@@ -233,6 +245,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-24",
     "wd:wordcount":507,
     "wof:belongsto":[
@@ -241,6 +255,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01432",
+        "eurostat:nuts_2021_id":"MT01432",
         "fips:code":"",
         "gn:id":8299728,
         "gp:id":24551371,
@@ -252,7 +268,7 @@
         101752415
     ],
     "wof:country":"MT",
-    "wof:geomhash":"7e3a1896fc9865a4ddd6ee041a7fd09a",
+    "wof:geomhash":"bfdf7ef9d40d35f32878b3b74af68589",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -269,10 +285,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1636495365,
+    "wof:lastmodified":1684354004,
     "wof:name":"Lija",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":3293,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-24",

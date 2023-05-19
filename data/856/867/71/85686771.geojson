@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01162",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0126al Tarxien",
+    "eurostat:nuts_2021_id":"MT01162",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01162",
+    "eurostat:population":8863,
+    "eurostat:population_year":2020,
     "geom:area":0.000087,
     "geom:area_square_m":868966.329549,
     "geom:bbox":"14.506124,35.861492,14.520708,35.871319",
@@ -251,6 +263,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-59",
     "wd:wordcount":877,
     "wof:belongsto":[
@@ -259,6 +273,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01162",
+        "eurostat:nuts_2021_id":"MT01162",
         "fips:code":"",
         "gn:id":8299757,
         "gp:id":24551402,
@@ -270,7 +286,7 @@
         101752375
     ],
     "wof:country":"MT",
-    "wof:geomhash":"5d75983a1146ece254a744fe43d6f09d",
+    "wof:geomhash":"3ac297f34f34217aefc5d830412e4bd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -287,10 +303,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1608006569,
+    "wof:lastmodified":1684354004,
     "wof:name":"Tarxien",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":8863,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-59",

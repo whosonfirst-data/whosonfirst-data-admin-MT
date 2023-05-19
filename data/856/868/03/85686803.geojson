@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01134",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Il-Marsa",
+    "eurostat:nuts_2021_id":"MT01134",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01134",
+    "eurostat:population":5823,
+    "eurostat:population_year":2020,
     "geom:area":0.000272,
-    "geom:area_square_m":2723441.318743,
+    "geom:area_square_m":2723467.261767,
     "geom:bbox":"14.480756,35.865295,14.505292,35.888225",
     "geom:latitude":35.876516,
     "geom:longitude":14.492404,
@@ -152,6 +164,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "unlc:subdivision":"MT-26",
     "wd:wordcount":100,
     "wof:belongsto":[
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01134",
+        "eurostat:nuts_2021_id":"MT01134",
         "fips:code":"",
         "gn:id":8299730,
         "gp:id":24551393,
@@ -167,7 +183,7 @@
         "unlc:id":"MT-26"
     },
     "wof:country":"MT",
-    "wof:geomhash":"3f747d1643b3568f9514dd90daaf878d",
+    "wof:geomhash":"c451e21a54f870a50d31ac5f1b8a3bbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,10 +200,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1636495364,
+    "wof:lastmodified":1684354004,
     "wof:name":"Marsa",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":5823,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:shortcode":"MT",
     "wof:subdivision":"MT-26",

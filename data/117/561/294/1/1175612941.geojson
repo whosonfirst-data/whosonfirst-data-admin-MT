@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bormla",
+    "eurostat:nuts_2021_id":"MT01105",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01105",
+    "eurostat:population":5184,
+    "eurostat:population_year":2020,
     "geom:area":0.000092,
-    "geom:area_square_m":922495.952761,
+    "geom:area_square_m":922472.321574,
     "geom:bbox":"14.513674,35.875725,14.52961,35.889443",
     "geom:latitude":35.880649,
     "geom:longitude":14.521438,
@@ -46,6 +58,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633331,
@@ -53,13 +67,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01105",
+        "eurostat:nuts_2021_id":"MT01105",
         "fips:code":"",
         "gn:id":8299705,
         "gp:id":24551391,
         "hasc:id":"MT"
     },
     "wof:country":"MT",
-    "wof:geomhash":"72d0ca7cd3b89c59cd6aad82c5dd4266",
+    "wof:geomhash":"beb5fd91f2182a14e75d6d5f8b64599d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,10 +92,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1627522382,
+    "wof:lastmodified":1684354005,
     "wof:name":"Bormla (Citta' Cospicua)",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":5184,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MT",
+    "eurostat:gisco_id":"MT_MT01157",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Lu\u010bija",
+    "eurostat:nuts_2021_id":"MT01157",
+    "eurostat:nuts_2021_level_0":"MT",
+    "eurostat:nuts_2021_level_1":"MT0",
+    "eurostat:nuts_2021_level_2":"MT00",
+    "eurostat:nuts_2021_level_3":"MT001",
+    "eurostat:nuts_2021_level_lau":"MT01157",
+    "eurostat:population":2958,
+    "eurostat:population_year":2020,
     "geom:area":0.000072,
     "geom:area_square_m":725535.302221,
     "geom:bbox":"14.4987175,35.857204,14.51454,35.865284",
@@ -166,6 +178,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wd:wordcount":252,
     "wof:belongsto":[
         102191581,
@@ -173,10 +187,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MT_MT01157",
+        "eurostat:nuts_2021_id":"MT01157",
         "wd:id":"Q1087776"
     },
     "wof:country":"MT",
-    "wof:geomhash":"1a28e75ff99a827b7aa7fb0d73ccf2ce",
+    "wof:geomhash":"17691065084ec58f4f37b1db507d0039",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,10 +209,12 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1566612054,
+    "wof:lastmodified":1684354004,
     "wof:name":"Santa Lucija",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
+    "wof:population":2958,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
