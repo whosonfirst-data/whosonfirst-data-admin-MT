@@ -67,6 +67,9 @@
     "name:eus_x_preferred":[
         "Iklin"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u06a9\u0644\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Iklin"
     ],
@@ -265,7 +268,7 @@
         101752427
     ],
     "wof:country":"MT",
-    "wof:geomhash":"b230f2c0d38f93ed9d8641d997f23a9b",
+    "wof:geomhash":"cc6a6fa46017458ed288b877232c7a39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -282,7 +285,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1690846216,
     "wof:name":"Iklin",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

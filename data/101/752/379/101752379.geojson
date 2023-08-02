@@ -104,14 +104,23 @@
     "name:lat_x_preferred":[
         "Marsaskala"
     ],
+    "name:lat_x_variant":[
+        "Marzascala"
+    ],
     "name:lav_x_preferred":[
         "Marsaskala"
     ],
     "name:lit_x_preferred":[
         "Marsaskala"
     ],
+    "name:ltz_x_preferred":[
+        "Marsaskala"
+    ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0930\u094d\u0938\u0938\u094d\u0915\u0945\u0932\u093e"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u0440\u0441\u0430\u0441\u043a\u0430\u043b\u0430"
     ],
     "name:mlt_x_preferred":[
         "Wied il-G\u0127ajn"
@@ -230,7 +239,7 @@
         }
     ],
     "wof:id":101752379,
-    "wof:lastmodified":1636495370,
+    "wof:lastmodified":1690846233,
     "wof:name":"Marsaskala",
     "wof:parent_id":85686785,
     "wof:placetype":"locality",

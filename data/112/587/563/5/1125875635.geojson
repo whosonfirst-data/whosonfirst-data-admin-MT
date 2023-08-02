@@ -34,6 +34,9 @@
     "name:hun_x_preferred":[
         "Marsalforn"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0580\u057d\u0561\u056c\u0586\u0578\u0580\u0576"
+    ],
     "name:ita_x_preferred":[
         "Marsalforn"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:pol_x_preferred":[
         "Marsalforn"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0441\u0430\u043b\u044c\u0444\u043e\u0440\u043d"
     ],
     "name:swe_x_preferred":[
         "Marsalforn"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125875635,
-    "wof:lastmodified":1566612079,
+    "wof:lastmodified":1690846248,
     "wof:name":"Marsalforn",
     "wof:parent_id":85687017,
     "wof:placetype":"locality",

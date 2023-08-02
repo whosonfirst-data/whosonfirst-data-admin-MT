@@ -52,6 +52,9 @@
     "name:ceb_x_preferred":[
         "Is-Swieqi"
     ],
+    "name:ces_x_preferred":[
+        "Swieqi"
+    ],
     "name:ckb_x_preferred":[
         "\u0633\u0648\u06cc\u0642\u06cc"
     ],
@@ -286,7 +289,7 @@
         101752437
     ],
     "wof:country":"MT",
-    "wof:geomhash":"f4f18392cb4c1cfd6eb9b29483925be2",
+    "wof:geomhash":"4311b31ac5069a9e198326efcc17296c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -303,7 +306,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354005,
+    "wof:lastmodified":1690846221,
     "wof:name":"Swieqi",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

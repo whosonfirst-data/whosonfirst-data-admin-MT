@@ -70,6 +70,9 @@
     "name:eus_x_preferred":[
         "Kirkop"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06a9\u0648\u067e"
+    ],
     "name:fin_x_preferred":[
         "Kirkop"
     ],
@@ -274,7 +277,7 @@
         "wd:id":"Q597464"
     },
     "wof:country":"MT",
-    "wof:geomhash":"d0ff8c7a8dd2b785bde4483c7f04ecc3",
+    "wof:geomhash":"6cc0ce985484ae93b5f202de5ec5a286",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -291,7 +294,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1690846221,
     "wof:name":"Kirkop",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

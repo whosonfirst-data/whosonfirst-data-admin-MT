@@ -52,6 +52,9 @@
     "name:eus_x_preferred":[
         "Ker\u010bem"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0634\u0645"
+    ],
     "name:fin_x_preferred":[
         "Ker\u010bem"
     ],
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":1125893335,
-    "wof:lastmodified":1566612078,
+    "wof:lastmodified":1690846247,
     "wof:name":"Ker\u010bem",
     "wof:parent_id":85686989,
     "wof:placetype":"locality",

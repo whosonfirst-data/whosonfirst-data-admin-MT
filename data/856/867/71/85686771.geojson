@@ -46,6 +46,9 @@
     "name:cat_x_preferred":[
         "Tarxien"
     ],
+    "name:ceb_x_preferred":[
+        "Tarxien"
+    ],
     "name:ces_x_preferred":[
         "Tarxien"
     ],
@@ -87,6 +90,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0ab0\u0acd\u0a95\u0acd\u0ab8\u0abf\u0a8f\u0aa8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05e9\u05d9\u05df"
     ],
     "name:hin_x_preferred":[
         "\u091f\u093e\u0930\u091c\u093c\u093f\u090f\u0928"
@@ -147,6 +153,9 @@
     ],
     "name:por_x_preferred":[
         "Tarxien"
+    ],
+    "name:pus_x_preferred":[
+        "\u062a\u0631\u0632\u06cc\u0646"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0440\u0448\u0438\u043d"
@@ -286,7 +295,7 @@
         101752375
     ],
     "wof:country":"MT",
-    "wof:geomhash":"3ac297f34f34217aefc5d830412e4bd6",
+    "wof:geomhash":"5d75983a1146ece254a744fe43d6f09d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -303,7 +312,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1690846224,
     "wof:name":"Tarxien",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

@@ -67,6 +67,9 @@
     "name:eus_x_preferred":[
         "Munxar"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u06a9\u0633\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Munxar"
     ],
@@ -262,7 +265,7 @@
         "wd:id":"Q587462"
     },
     "wof:country":"MT",
-    "wof:geomhash":"4f32a70bb4369e04896469cecb5caa41",
+    "wof:geomhash":"a5b114baed21abf4a561cab3f8e331ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -279,7 +282,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354005,
+    "wof:lastmodified":1690846219,
     "wof:name":"Munxar",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

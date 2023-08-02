@@ -55,6 +55,9 @@
     "name:eus_x_preferred":[
         "M\u0121arr"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06af\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "M\u0121arr"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aae\u0acd\u0a97\u0abe\u0ab0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d2'\u05d0\u05e8"
     ],
     "name:hin_x_preferred":[
         "\u0917\u093c\u093e\u0930"
@@ -75,6 +81,9 @@
     ],
     "name:ita_x_preferred":[
         "M\u0121arr"
+    ],
+    "name:ita_x_variant":[
+        "Mugiarro"
     ],
     "name:jpn_x_preferred":[
         "\u30a4\u30e0\u30b8\u30e3\u30fc"
@@ -200,7 +209,7 @@
         }
     ],
     "wof:id":1125916543,
-    "wof:lastmodified":1566612080,
+    "wof:lastmodified":1690846250,
     "wof:name":"Im\u0121arr",
     "wof:parent_id":85686929,
     "wof:placetype":"locality",

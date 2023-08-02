@@ -67,6 +67,9 @@
     "name:eus_x_preferred":[
         "Nadur"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062f\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Nadur"
     ],
@@ -141,6 +144,9 @@
     ],
     "name:spa_x_preferred":[
         "Nadur"
+    ],
+    "name:swe_x_preferred":[
+        "In-Nadur"
     ],
     "name:tam_x_preferred":[
         "\u0ba8\u0b9f\u0bc2\u0bb0\u0bcd"
@@ -256,7 +262,7 @@
         "wd:id":"Q929969"
     },
     "wof:country":"MT",
-    "wof:geomhash":"41630e4e5e9d1377b30cefcc5ea9464b",
+    "wof:geomhash":"b64b4bf56eed1df9a9fe5976aa944c92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -273,7 +279,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354005,
+    "wof:lastmodified":1690846220,
     "wof:name":"Nadur",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

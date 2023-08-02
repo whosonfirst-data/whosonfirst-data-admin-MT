@@ -116,6 +116,9 @@
     "name:hun_x_preferred":[
         "Fgura"
     ],
+    "name:hye_x_preferred":[
+        "\u0556\u0563\u0578\u0582\u0580\u0561"
+    ],
     "name:ind_x_preferred":[
         "Fgura"
     ],
@@ -289,7 +292,7 @@
         }
     ],
     "wof:id":101752377,
-    "wof:lastmodified":1636495370,
+    "wof:lastmodified":1690846233,
     "wof:name":"Fgura",
     "wof:parent_id":85686781,
     "wof:placetype":"locality",

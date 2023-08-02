@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Is-Swieqi"
     ],
+    "name:ces_x_preferred":[
+        "Swieqi"
+    ],
     "name:ckb_x_preferred":[
         "\u0633\u0648\u06cc\u0642\u06cc"
     ],
@@ -223,7 +226,7 @@
         }
     ],
     "wof:id":101752437,
-    "wof:lastmodified":1636495370,
+    "wof:lastmodified":1690846231,
     "wof:name":"Swieqi",
     "wof:parent_id":85686925,
     "wof:placetype":"locality",

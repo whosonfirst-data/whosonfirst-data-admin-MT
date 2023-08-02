@@ -49,6 +49,9 @@
     "name:ceb_x_preferred":[
         "In-Naxxar"
     ],
+    "name:ces_x_preferred":[
+        "Naxxar"
+    ],
     "name:ckb_x_preferred":[
         "\u0646\u0627\u0634\u0627\u0631"
     ],
@@ -90,6 +93,9 @@
     ],
     "name:hun_x_preferred":[
         "Naxxar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u0577\u0561\u0580"
     ],
     "name:ind_x_preferred":[
         "Naxxar"
@@ -150,6 +156,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0db1\u0d9a\u0dca\u0dc3\u0dcf\u0dbb\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Naxxar"
     ],
     "name:sme_x_preferred":[
         "Naxxar"
@@ -280,7 +289,7 @@
         "wd:id":"Q44397"
     },
     "wof:country":"MT",
-    "wof:geomhash":"d26c75f5d7334389a7302622514b9a2b",
+    "wof:geomhash":"ca017a4b0c896ff949cea7d58d20b5bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -297,7 +306,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354005,
+    "wof:lastmodified":1690846219,
     "wof:name":"Naxxar",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

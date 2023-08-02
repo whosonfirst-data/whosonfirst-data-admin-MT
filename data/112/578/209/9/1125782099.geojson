@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.4964575,35.9010525,14.4964575,35.9010525",
+    "geom:bbox":"14.496457,35.901052,14.496457,35.901052",
     "geom:latitude":35.901052,
     "geom:longitude":14.496457,
     "gn:country":null,
@@ -81,6 +81,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0533\u0566\u056b\u0580\u0561"
+    ],
+    "name:ile_x_preferred":[
+        "G\u017cira"
     ],
     "name:ind_x_preferred":[
         "G\u017cira"
@@ -219,7 +222,7 @@
     },
     "wof:country":"MT",
     "wof:created":1497290528,
-    "wof:geomhash":"a5a21aff1c62b5985d85098de307601f",
+    "wof:geomhash":"f008c1fa8bfd27a09d19a772504549b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -229,7 +232,7 @@
         }
     ],
     "wof:id":1125782099,
-    "wof:lastmodified":1566612081,
+    "wof:lastmodified":1690846251,
     "wof:name":"G\u017cira",
     "wof:parent_id":85686869,
     "wof:placetype":"locality",
@@ -243,10 +246,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.4964575,
-    35.9010525,
-    14.4964575,
-    35.9010525
+    14.496457,
+    35.901052,
+    14.496457,
+    35.901052
 ],
-  "geometry": {"coordinates":[14.4964575,35.9010525],"type":"Point"}
+  "geometry": {"coordinates":[14.496457,35.901052],"type":"Point"}
 }

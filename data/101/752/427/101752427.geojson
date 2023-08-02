@@ -49,6 +49,9 @@
     "name:eus_x_preferred":[
         "Iklin"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u06a9\u0644\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Iklin"
     ],
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":101752427,
-    "wof:lastmodified":1636495371,
+    "wof:lastmodified":1690846237,
     "wof:name":"Iklin",
     "wof:parent_id":85686897,
     "wof:placetype":"locality",
