@@ -34,6 +34,9 @@
     "mz:is_current":1,
     "mz:max_zoom":9.0,
     "mz:min_zoom":4.0,
+    "name:abk_x_preferred":[
+        "\u041c\u0430\u043b\u044c\u0442\u0430"
+    ],
     "name:ace_x_preferred":[
         "Malta"
     ],
@@ -43,14 +46,23 @@
     "name:aka_x_preferred":[
         "M\u0254lta"
     ],
+    "name:aka_x_variant":[
+        "Malta"
+    ],
     "name:als_x_preferred":[
         "Malta"
     ],
     "name:amh_x_preferred":[
         "\u121b\u120d\u1273"
     ],
+    "name:ami_x_preferred":[
+        "Malta"
+    ],
     "name:ang_x_preferred":[
         "Melita"
+    ],
+    "name:anp_x_preferred":[
+        "\u092e\u093e\u0932\u094d\u091f\u093e"
     ],
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0637\u0627"
@@ -75,6 +87,12 @@
     ],
     "name:ava_x_preferred":[
         "\u041c\u0430\u043b\u044c\u0442\u0430"
+    ],
+    "name:avk_x_preferred":[
+        "Malta"
+    ],
+    "name:awa_x_preferred":[
+        "\u092e\u093e\u0932\u094d\u091f\u093e"
     ],
     "name:azb_x_preferred":[
         "\u0645\u0627\u0644\u062a"
@@ -111,6 +129,9 @@
     ],
     "name:bis_x_preferred":[
         "Malta"
+    ],
+    "name:bis_x_variant":[
+        "Molta"
     ],
     "name:bod_x_preferred":[
         "\u0f58\u0f63\u0f0b\u0f4f\u0f0d"
@@ -182,6 +203,9 @@
         "Malta"
     ],
     "name:cym_x_preferred":[
+        "Malta"
+    ],
+    "name:dag_x_preferred":[
         "Malta"
     ],
     "name:dan_x_preferred":[
@@ -310,6 +334,9 @@
     ],
     "name:got_x_preferred":[
         "\ud800\udf3c\ud800\udf30\ud800\udf3b\ud800\udf44\ud800\udf30"
+    ],
+    "name:gpe_x_preferred":[
+        "Malta"
     ],
     "name:grn_x_preferred":[
         "Malta"
@@ -508,6 +535,9 @@
     "name:liv_x_preferred":[
         "Malta"
     ],
+    "name:lld_x_preferred":[
+        "Malta"
+    ],
     "name:lmo_x_preferred":[
         "Malta"
     ],
@@ -529,6 +559,9 @@
     "name:lzh_x_preferred":[
         "\u99ac\u723e\u4ed6"
     ],
+    "name:mad_x_preferred":[
+        "Malta"
+    ],
     "name:mai_x_preferred":[
         "\u092e\u093e\u0932\u094d\u091f\u093e"
     ],
@@ -541,8 +574,14 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0932\u094d\u091f\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u043b\u044c\u0442\u0430"
+    ],
     "name:mhr_x_preferred":[
         "\u041c\u0430\u043b\u044c\u0442\u0430"
+    ],
+    "name:min_x_preferred":[
+        "Malta"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u043b\u0442\u0430"
@@ -552,6 +591,9 @@
     ],
     "name:mlt_x_preferred":[
         "Malta"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc3\uabe5\uabdc\uabc7\uabe5"
     ],
     "name:mon_x_preferred":[
         "\u041c\u0430\u043b\u044c\u0442"
@@ -727,6 +769,9 @@
     "name:san_x_preferred":[
         "\u092e\u093e\u0932\u094d\u091f\u093e"
     ],
+    "name:sat_x_preferred":[
+        "\u1c62\u1c5f\u1c5e\u1c74\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "Malta"
     ],
@@ -735,6 +780,12 @@
     ],
     "name:sgs_x_preferred":[
         "Malta"
+    ],
+    "name:shi_x_preferred":[
+        "Mal\u1e6da"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1019\u1031\u1083\u1038\u1010\u1083\u1087"
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0ddd\u0dbd\u0dca\u0da7\u0dcf\u0dc0"
@@ -754,11 +805,17 @@
     "name:sme_x_variant":[
         "M\u00e1lta"
     ],
+    "name:smn_x_preferred":[
+        "Malta"
+    ],
     "name:smo_x_preferred":[
         "Melita"
     ],
     "name:smo_x_variant":[
         "Malitia"
+    ],
+    "name:sms_x_preferred":[
+        "Malta"
     ],
     "name:sna_x_preferred":[
         "Malta"
@@ -844,8 +901,14 @@
     "name:tir_x_preferred":[
         "\u121b\u120d\u1273"
     ],
+    "name:tok_x_preferred":[
+        "ma Mata"
+    ],
     "name:ton_x_preferred":[
         "Malita"
+    ],
+    "name:trv_x_preferred":[
+        "Malta"
     ],
     "name:tso_x_preferred":[
         "Malta"
@@ -964,7 +1027,8 @@
         "\u9a6c\u8033\u4ed6"
     ],
     "name:zho_x_variant":[
-        "\u99ac\u723e\u4ed6"
+        "\u99ac\u723e\u4ed6",
+        "\u99ac\u8033\u4ed6"
     ],
     "name:zho_yue_x_preferred":[
         "\u99ac\u8033\u4ed6"
@@ -1176,7 +1240,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"e56ec45d5f0c565aec70389c1129baba",
+    "wof:geomhash":"1fc2d6b99c91a66c4add3ef07628c3e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1192,7 +1256,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684351457,
+    "wof:lastmodified":1690846225,
     "wof:name":"Malta",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

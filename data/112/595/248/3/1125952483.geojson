@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u0631\u0639 \u062e\u0644\u064a\u062c \u0628\u0648\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0627\u0646\u062a \u0628\u0648\u0644 \u0628\u0627\u064a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043d-\u041f\u0430\u045e\u043b\u044c-\u0456\u043b\u044c-\u0411\u0430\u0445\u0430\u0440"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u09aa\u09b2'\u09b8 \u09ac\u09c7"
     ],
@@ -88,6 +94,9 @@
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30c8\u30dd\u30fc\u30eb\u30ba\u30fb\u30d9\u30a4"
     ],
+    "name:jpn_x_variant":[
+        "\u30bb\u30f3\u30c8\u30fb\u30dd\u30fc\u30eb\u30ba\u30fb\u30d9\u30a4"
+    ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0caa\u0cbe\u0cb2\u0ccd\u0cb8\u0ccd \u0cac\u0cc7"
     ],
@@ -127,6 +136,9 @@
     "name:por_x_preferred":[
         "St. Paul's Bay"
     ],
+    "name:pus_x_preferred":[
+        "\u0633\u0627\u0646 \u067e\u0627\u0644 \u0627\u06cc\u0644\u0628\u0647\u0627\u0631"
+    ],
     "name:ron_x_preferred":[
         "Golful Sf\u00e2ntul Paul"
     ],
@@ -138,6 +150,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0db4\u0ddd\u0dbd\u0dca\u0dc3\u0dca \u0d9a\u0dbd\u0db4\u0dd4\u0dc0"
+    ],
+    "name:slv_x_preferred":[
+        "San Pawl il-Ba\u0127ar"
     ],
     "name:sme_x_preferred":[
         "San Pawl il-Ba\u0127ar"
@@ -232,7 +247,7 @@
         }
     ],
     "wof:id":1125952483,
-    "wof:lastmodified":1566612076,
+    "wof:lastmodified":1690846246,
     "wof:name":"San Pawl il-Ba\u0127ar",
     "wof:parent_id":85686943,
     "wof:placetype":"locality",

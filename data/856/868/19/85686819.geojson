@@ -67,6 +67,9 @@
     "name:eus_x_preferred":[
         "Mtarfa"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0639\u0645\u0631\u0641\u0627"
+    ],
     "name:fin_x_preferred":[
         "Mtarfa"
     ],
@@ -209,7 +212,7 @@
         "wd:id":"Q656837"
     },
     "wof:country":"MT",
-    "wof:geomhash":"501de387378043faa6d334584d22ff0f",
+    "wof:geomhash":"06079fc19f0a2331cb4cc50bab4e0f58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -226,7 +229,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1690846215,
     "wof:name":"Mtarfa",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

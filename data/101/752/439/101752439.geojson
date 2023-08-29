@@ -53,6 +53,9 @@
     "name:eus_x_preferred":[
         "Pembroke"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0645\u0628\u0631\u0648\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Pembroke"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:hun_x_preferred":[
         "Pembroke"
+    ],
+    "name:hye_x_preferred":[
+        "\u0553\u0565\u0574\u0562\u0580\u0578\u0584"
     ],
     "name:ind_x_preferred":[
         "Pembroke"
@@ -209,7 +215,7 @@
         }
     ],
     "wof:id":101752439,
-    "wof:lastmodified":1636495369,
+    "wof:lastmodified":1690846231,
     "wof:name":"Pembroke",
     "wof:parent_id":85686933,
     "wof:placetype":"locality",

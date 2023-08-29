@@ -49,6 +49,9 @@
     "name:arz_x_preferred":[
         "\u0628\u064a\u0631\u0643\u064a\u0631\u0643\u0627\u0631\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Birkirkara"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0456\u0440\u043a\u0456\u0440\u043a\u0430\u0440\u0430"
     ],
@@ -86,6 +89,9 @@
         "Birkirkara"
     ],
     "name:epo_x_preferred":[
+        "Birkirkara"
+    ],
+    "name:est_x_preferred":[
         "Birkirkara"
     ],
     "name:eus_x_preferred":[
@@ -151,6 +157,9 @@
     "name:lit_x_preferred":[
         "Birkirkara"
     ],
+    "name:ltz_x_preferred":[
+        "Birkirkara"
+    ],
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u093f\u0915\u0940\u0930\u0915\u093e\u0930\u093e"
     ],
@@ -180,6 +189,9 @@
     ],
     "name:por_x_preferred":[
         "Birkirkara"
+    ],
+    "name:pus_x_preferred":[
+        "\u0628\u06cc\u0631\u06a9\u06cc\u0631\u06a9\u0627\u0631\u0627"
     ],
     "name:ron_x_preferred":[
         "Birkirkara"
@@ -243,6 +255,9 @@
     ],
     "name:war_x_preferred":[
         "Birkirkara"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6bd4\u5c14\u57fa\u5361\u62c9"
     ],
     "name:xmf_x_preferred":[
         "\u10d1\u10d8\u10e0\u10d9\u10d8\u10e0\u10d9\u10d0\u10e0\u10d0"
@@ -343,7 +358,7 @@
         101752419
     ],
     "wof:country":"MT",
-    "wof:geomhash":"cb19732df1f942d90ce38a4e3f75570d",
+    "wof:geomhash":"9639d74b5adc8f64d657729351bde390",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -360,7 +375,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1690846217,
     "wof:name":"Birkirkara",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

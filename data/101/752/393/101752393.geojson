@@ -50,6 +50,9 @@
     "name:eus_x_preferred":[
         "Mtarfa"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0639\u0645\u0631\u0641\u0627"
+    ],
     "name:fin_x_preferred":[
         "Mtarfa"
     ],
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":101752393,
-    "wof:lastmodified":1636495371,
+    "wof:lastmodified":1690846236,
     "wof:name":"Mtarfa",
     "wof:parent_id":85686875,
     "wof:placetype":"locality",

@@ -53,6 +53,9 @@
     "name:eus_x_preferred":[
         "Kirkop"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06a9\u0648\u067e"
+    ],
     "name:fin_x_preferred":[
         "Kirkop"
     ],
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":101756769,
-    "wof:lastmodified":1636495372,
+    "wof:lastmodified":1690846243,
     "wof:name":"Kirkop",
     "wof:parent_id":85686735,
     "wof:placetype":"locality",

@@ -46,6 +46,12 @@
     "name:cat_x_preferred":[
         "Msida"
     ],
+    "name:ceb_x_preferred":[
+        "L-Imsida"
+    ],
+    "name:ces_x_preferred":[
+        "Msida"
+    ],
     "name:ckb_x_preferred":[
         "\u0626\u06cc\u0645\u0633\u06cc\u062f\u0627"
     ],
@@ -64,6 +70,9 @@
     "name:epo_x_preferred":[
         "Msida"
     ],
+    "name:est_x_preferred":[
+        "Msida"
+    ],
     "name:eus_x_preferred":[
         "Msida"
     ],
@@ -71,6 +80,9 @@
         "\u0645\u0633\u06cc\u062f\u0627"
     ],
     "name:fin_x_preferred":[
+        "Msida"
+    ],
+    "name:fit_x_preferred":[
         "Msida"
     ],
     "name:fra_x_preferred":[
@@ -124,6 +136,9 @@
     "name:mar_x_preferred":[
         "\u092e\u0938\u0940\u0926"
     ],
+    "name:mhr_x_preferred":[
+        "\u041c\u0441\u0438\u0434\u0430"
+    ],
     "name:mlt_x_preferred":[
         "L-Imsida"
     ],
@@ -145,6 +160,12 @@
     "name:por_x_preferred":[
         "Msida"
     ],
+    "name:pus_x_preferred":[
+        "\u0645\u0633\u064a\u062f\u0627"
+    ],
+    "name:rmf_x_preferred":[
+        "Msida"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0441\u0438\u0434\u0430"
     ],
@@ -154,10 +175,31 @@
     "name:sin_x_preferred":[
         "\u0db8\u0dca\u0dc3\u0dd2\u0da9\u0dcf"
     ],
+    "name:sjd_x_preferred":[
+        "\u041c\u0441\u0438\u0434\u0430"
+    ],
+    "name:sje_x_preferred":[
+        "Msida"
+    ],
+    "name:sju_x_preferred":[
+        "Msida"
+    ],
     "name:slv_x_preferred":[
         "Msida"
     ],
+    "name:sma_x_preferred":[
+        "Msida"
+    ],
     "name:sme_x_preferred":[
+        "Msida"
+    ],
+    "name:smj_x_preferred":[
+        "Msida"
+    ],
+    "name:smn_x_preferred":[
+        "Msida"
+    ],
+    "name:sms_x_preferred":[
         "Msida"
     ],
     "name:spa_x_preferred":[
@@ -289,7 +331,7 @@
         101752421
     ],
     "wof:country":"MT",
-    "wof:geomhash":"5e6afa13581b7bbe06bbaff81abcb5dd",
+    "wof:geomhash":"c43743434e011a77285added9c900030",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -306,7 +348,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1690846217,
     "wof:name":"Msida",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

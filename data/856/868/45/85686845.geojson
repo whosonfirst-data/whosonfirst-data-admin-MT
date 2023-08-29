@@ -18,7 +18,7 @@
     "eurostat:population_year":2020,
     "geom:area":0.000047,
     "geom:area_square_m":469533.21191,
-    "geom:bbox":"14.4898915,35.888569,14.497448,35.896665",
+    "geom:bbox":"14.489891,35.888569,14.497448,35.896665",
     "geom:latitude":35.892458,
     "geom:longitude":14.493798,
     "iso:country":"MT",
@@ -40,6 +40,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u064a\u062a\u0627"
     ],
+    "name:aze_x_preferred":[
+        "Pyeta"
+    ],
     "name:bcl_x_preferred":[
         "Pieta"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:ces_x_preferred":[
         "Pieta"
+    ],
+    "name:cym_x_preferred":[
+        "Piet\u00e0"
     ],
     "name:dan_x_preferred":[
         "Piet\u00e0"
@@ -76,6 +82,9 @@
     "name:epo_x_preferred":[
         "Pietato"
     ],
+    "name:est_x_preferred":[
+        "Piet\u00e0"
+    ],
     "name:eus_x_preferred":[
         "Piet\u00e0"
     ],
@@ -91,6 +100,9 @@
     "name:glg_x_preferred":[
         "Piet\u00e0"
     ],
+    "name:glg_x_variant":[
+        "Piedade"
+    ],
     "name:grn_x_preferred":[
         "Piet\u00e0"
     ],
@@ -102,6 +114,9 @@
     ],
     "name:hun_x_preferred":[
         "Piet\u00e0"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u056b\u0565\u057f\u0561"
     ],
     "name:ind_x_preferred":[
         "Piet\u00e0"
@@ -127,11 +142,17 @@
     "name:lat_x_preferred":[
         "Piet\u00e0"
     ],
+    "name:lit_x_preferred":[
+        "Pieta"
+    ],
     "name:ltz_x_preferred":[
         "Piet\u00e0"
     ],
     "name:nld_x_preferred":[
         "Pi\u00ebta"
+    ],
+    "name:nld_x_variant":[
+        "pi\u00ebta"
     ],
     "name:nob_x_preferred":[
         "Piet\u00e0"
@@ -148,11 +169,17 @@
     "name:rus_x_preferred":[
         "\u041f\u044c\u0435\u0442\u0430"
     ],
+    "name:slv_x_preferred":[
+        "Piet\u00e0"
+    ],
     "name:spa_x_preferred":[
         "Piet\u00e0"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0438\u0458\u0435\u0442\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Yesu kushushwa"
     ],
     "name:swe_x_preferred":[
         "Piet\u00e0"
@@ -192,7 +219,7 @@
         "wd:id":"Q223689"
     },
     "wof:country":"MT",
-    "wof:geomhash":"5ac1830562b4d5d9bbc1cbeeb505b286",
+    "wof:geomhash":"f8f7c390ada5324ed74464d2437caf1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,7 +236,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1690846215,
     "wof:name":"Pieta'",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
@@ -221,10 +248,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.4898914999998,
-    35.88856899999985,
-    14.49744799999979,
-    35.89666499999987
+    14.489891,
+    35.888569,
+    14.497448,
+    35.896665
 ],
-  "geometry": {"coordinates":[[[14.49742649999979,35.89307649999986],[14.49744799999979,35.89086199999986],[14.49423549999977,35.88857699999986],[14.4925714999998,35.88856899999985],[14.48994299999978,35.88923299999985],[14.49068849999978,35.89075499999987],[14.4898914999998,35.89107149999987],[14.49081349999977,35.89518749999985],[14.4947109999998,35.89612899999985],[14.49647449999978,35.89655449999987],[14.49693649999978,35.89666499999987],[14.49741999999978,35.89628149999984],[14.49684099999979,35.89313599999986],[14.49742649999979,35.89307649999986]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[14.497426,35.893076],[14.497448,35.890862],[14.494235,35.888577],[14.492571,35.888569],[14.489943,35.889233],[14.490688,35.890755],[14.489891,35.891071],[14.490813,35.895187],[14.494711,35.896129],[14.496474,35.896554],[14.496936,35.896665],[14.49742,35.896281],[14.496841,35.893136],[14.497426,35.893076]]],"type":"Polygon"}
 }

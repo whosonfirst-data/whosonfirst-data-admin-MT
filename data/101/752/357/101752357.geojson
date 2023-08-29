@@ -53,6 +53,9 @@
     "name:eus_x_preferred":[
         "Safi"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0641\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Safi"
     ],
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":101752357,
-    "wof:lastmodified":1636495371,
+    "wof:lastmodified":1690846234,
     "wof:name":"Safi",
     "wof:parent_id":85686727,
     "wof:placetype":"locality",

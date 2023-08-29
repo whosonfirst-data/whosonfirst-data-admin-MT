@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0639\u0637\u0627\u0631"
     ],
+    "name:aze_x_preferred":[
+        "Attard"
+    ],
     "name:bel_x_variant":[
         "\u0410\u0442\u0430\u0440\u0434"
     ],
@@ -89,6 +92,9 @@
     ],
     "name:hun_x_preferred":[
         "Attard"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057f\u057f\u0561\u0580\u0564"
     ],
     "name:ind_x_preferred":[
         "Attard"
@@ -246,7 +252,7 @@
         }
     ],
     "wof:id":101874853,
-    "wof:lastmodified":1582316830,
+    "wof:lastmodified":1690846241,
     "wof:name":"Attard",
     "wof:parent_id":85686851,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:ara_x_preferred":[
         "\u062d\u0645\u0631\u0648\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u043c\u0440\u0443\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09cd\u09b2\u09be\u09ae\u09c1\u09a8"
     ],
@@ -91,6 +94,9 @@
     "name:fra_x_variant":[
         "Hamrun"
     ],
+    "name:gle_x_preferred":[
+        "\u0126amrun"
+    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0abe\u0aae\u0ab0\u0ac1\u0aa8"
     ],
@@ -99,6 +105,9 @@
     ],
     "name:hun_x_preferred":[
         "\u0126amrun"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0574\u0580\u0578\u0582\u0576"
     ],
     "name:ind_x_preferred":[
         "\u0126amrun"
@@ -144,6 +153,9 @@
     ],
     "name:por_x_preferred":[
         "\u0126amrun"
+    ],
+    "name:pus_x_preferred":[
+        "\u0647\u0627\u0645\u0631\u0648\u0646"
     ],
     "name:ron_x_preferred":[
         "\u0126amrun"
@@ -227,7 +239,7 @@
         101752395
     ],
     "wof:country":"MT",
-    "wof:geomhash":"faa47e36b63ac100ae99aaefab51534b",
+    "wof:geomhash":"8386160326510c2ccfe3ba7315d3ff05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -244,7 +256,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1690846217,
     "wof:name":"Hamrun",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

@@ -50,6 +50,9 @@
     "name:eus_x_preferred":[
         "Lija"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0644\u06cc\u062e\u0627"
+    ],
     "name:fin_x_preferred":[
         "Lija"
     ],
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":101752415,
-    "wof:lastmodified":1636495369,
+    "wof:lastmodified":1690846230,
     "wof:name":"Lija",
     "wof:parent_id":85686871,
     "wof:placetype":"locality",

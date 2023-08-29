@@ -54,6 +54,9 @@
     "name:eus_x_preferred":[
         "Qala"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Qala"
     ],
@@ -104,6 +107,9 @@
     ],
     "name:mlt_x_preferred":[
         "Il-Qala"
+    ],
+    "name:mlt_x_variant":[
+        "Qala"
     ],
     "name:msa_x_preferred":[
         "Qala"
@@ -209,7 +215,7 @@
         }
     ],
     "wof:id":101874857,
-    "wof:lastmodified":1636495372,
+    "wof:lastmodified":1690846240,
     "wof:name":"Qala",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

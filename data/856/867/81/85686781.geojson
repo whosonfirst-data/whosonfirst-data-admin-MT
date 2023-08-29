@@ -133,6 +133,9 @@
     "name:hun_x_preferred":[
         "Fgura"
     ],
+    "name:hye_x_preferred":[
+        "\u0556\u0563\u0578\u0582\u0580\u0561"
+    ],
     "name:ind_x_preferred":[
         "Fgura"
     ],
@@ -352,7 +355,7 @@
         "wd:id":"Q44388"
     },
     "wof:country":"MT",
-    "wof:geomhash":"9aa35202ef2ebe019881901649374d21",
+    "wof:geomhash":"ac96ccc8391462215eb131825c9d56b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -369,7 +372,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1690846222,
     "wof:name":"Fgura",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

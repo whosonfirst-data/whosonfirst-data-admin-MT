@@ -112,14 +112,23 @@
     "name:lat_x_preferred":[
         "Marsaskala"
     ],
+    "name:lat_x_variant":[
+        "Marzascala"
+    ],
     "name:lav_x_preferred":[
         "Marsaskala"
     ],
     "name:lit_x_preferred":[
         "Marsaskala"
     ],
+    "name:ltz_x_preferred":[
+        "Marsaskala"
+    ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0930\u094d\u0938\u0938\u094d\u0915\u0945\u0932\u093e"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u0440\u0441\u0430\u0441\u043a\u0430\u043b\u0430"
     ],
     "name:mlt_x_preferred":[
         "Marsaskala"
@@ -283,7 +292,7 @@
         "wd:id":"Q534571"
     },
     "wof:country":"MT",
-    "wof:geomhash":"2619aa3b2f6ce3dd74c80d6a905db952",
+    "wof:geomhash":"1a71986a6fbba65ed9dacf2303d090f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -300,7 +309,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1690846223,
     "wof:name":"Marsaskala",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

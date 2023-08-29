@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Madliena"
     ],
+    "name:spa_x_preferred":[
+        "Madliena"
+    ],
     "qs_pg:aaroncc":"MT",
     "qs_pg:gn_country":"MT",
     "qs_pg:gn_fcode":"PPL",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1125907139,
-    "wof:lastmodified":1566612079,
+    "wof:lastmodified":1690846248,
     "wof:name":"Il-Madliena",
     "wof:parent_id":85686925,
     "wof:placetype":"locality",
