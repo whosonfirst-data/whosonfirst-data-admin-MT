@@ -24,6 +24,9 @@
     "itu:country_code":[
         "356"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "lbl:latitude":35.888972,
     "lbl:longitude":14.431432,
     "lbl:max_zoom":8.0,
@@ -1240,7 +1243,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"1fc2d6b99c91a66c4add3ef07628c3e2",
+    "wof:geomhash":"e56ec45d5f0c565aec70389c1129baba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1256,7 +1259,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846225,
+    "wof:lastmodified":1694492263,
     "wof:name":"Malta",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
