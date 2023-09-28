@@ -34,7 +34,7 @@
     "mps:latitude":35.875427,
     "mps:longitude":14.539161,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
@@ -134,8 +134,14 @@
         "gn:id":8299762,
         "gp:id":24551397,
         "hasc:id":"MT",
+        "iso:code":"MT-64",
+        "qs:local_id":"1108",
         "unlc:id":"MT-64"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
     "wof:geomhash":"b485fc681d12ce759a31cecebe044770",
     "wof:hierarchy":[
@@ -154,7 +160,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1695884322,
     "wof:name":"Zabbar (Citta' Hompesch)",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

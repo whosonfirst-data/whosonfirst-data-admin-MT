@@ -34,7 +34,7 @@
     "mps:latitude":35.890921,
     "mps:longitude":14.531934,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
@@ -402,11 +402,17 @@
         "gn:id":8299725,
         "gp:id":24551392,
         "hasc:id":"MT",
+        "iso:code":"MT-21",
+        "qs:local_id":"1129",
         "unlc:id":"MT-21",
         "wd:id":"Q533257"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"c6974a4afd6c4286457fcd12d28749ab",
+    "wof:geomhash":"873a29ec3c7854f9aa9650ee2c560e7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -423,7 +429,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846217,
+    "wof:lastmodified":1695884322,
     "wof:name":"Kalkara",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

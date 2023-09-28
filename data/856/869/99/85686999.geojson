@@ -34,7 +34,7 @@
     "mps:latitude":36.047957,
     "mps:longitude":14.294282,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -258,11 +258,17 @@
         "gn:id":8299736,
         "gp:id":24551353,
         "hasc:id":"-99",
+        "iso:code":"MT-37",
+        "qs:local_id":"2643",
         "unlc:id":"MT-37",
         "wd:id":"Q929969"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"b64b4bf56eed1df9a9fe5976aa944c92",
+    "wof:geomhash":"41630e4e5e9d1377b30cefcc5ea9464b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -279,7 +285,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846220,
+    "wof:lastmodified":1695884323,
     "wof:name":"Nadur",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

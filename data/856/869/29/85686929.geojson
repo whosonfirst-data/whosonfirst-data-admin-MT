@@ -17,7 +17,7 @@
     "eurostat:population":3928,
     "eurostat:population_year":2020,
     "geom:area":0.00162,
-    "geom:area_square_m":16219137.018378,
+    "geom:area_square_m":16219283.780128,
     "geom:bbox":"14.33229,35.896694,14.404726,35.940583",
     "geom:latitude":35.917522,
     "geom:longitude":14.364658,
@@ -34,7 +34,7 @@
     "mps:latitude":35.918405,
     "mps:longitude":14.365206,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -274,11 +274,17 @@
         "gn:id":8299720,
         "gp:id":24551364,
         "hasc:id":"MT",
+        "iso:code":"MT-31",
+        "qs:local_id":"1538",
         "unlc:id":"MT-31",
         "wd:id":"Q691220"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"e342dc26704fa08116bb0275ff634ca6",
+    "wof:geomhash":"1c9c7fa1e43cdbc4b237fc58f393cde2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -295,7 +301,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846218,
+    "wof:lastmodified":1695884323,
     "wof:name":"Mgarr",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

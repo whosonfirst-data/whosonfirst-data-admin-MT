@@ -17,7 +17,7 @@
     "eurostat:population":11823,
     "eurostat:population_year":2020,
     "geom:area":0.00228,
-    "geom:area_square_m":22815191.504484,
+    "geom:area_square_m":22815003.768682,
     "geom:bbox":"14.319678,35.93063,14.407435,35.998387",
     "geom:latitude":35.962283,
     "geom:longitude":14.355762,
@@ -34,7 +34,7 @@
     "mps:latitude":35.952953,
     "mps:longitude":14.354882,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -288,10 +288,16 @@
         "gn:id":8299733,
         "gp:id":24551366,
         "hasc:id":"MT",
+        "iso:code":"MT-30",
+        "qs:local_id":"1537",
         "wd:id":"Q755979"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"0545e531618a6aff61dcfa2e935323ce",
+    "wof:geomhash":"3ed3941a11ee00f6e4bc8dd16b7cf95a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -308,7 +314,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846226,
+    "wof:lastmodified":1695884323,
     "wof:name":"Mellieha",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

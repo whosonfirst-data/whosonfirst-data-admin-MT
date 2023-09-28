@@ -34,7 +34,7 @@
     "mps:latitude":35.887871,
     "mps:longitude":14.516917,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
@@ -66,8 +66,14 @@
     "wof:concordances":{
         "eg:gisco_id":"MT_MT01104",
         "eurostat:nuts_2021_id":"MT01104",
+        "iso:code":"MT-20",
+        "qs:local_id":"1104",
         "unlc:id":"MT-20"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
     "wof:geomhash":"b8efe527df5870f32cd95c82687b2245",
     "wof:hierarchy":[
@@ -86,7 +92,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1695884322,
     "wof:name":"Isla (Citta' Invicta)",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

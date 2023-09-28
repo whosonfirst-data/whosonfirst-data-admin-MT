@@ -34,7 +34,7 @@
     "mps:latitude":35.896094,
     "mps:longitude":14.465404,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
@@ -351,14 +351,20 @@
         "gn:id":8299703,
         "gp:id":24551412,
         "hasc:id":"MT",
+        "iso:code":"MT-04",
+        "qs:local_id":"1214",
         "unlc:id":"MT-04",
         "wd:id":"Q39583"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         101752419
     ],
     "wof:country":"MT",
-    "wof:geomhash":"9639d74b5adc8f64d657729351bde390",
+    "wof:geomhash":"cb19732df1f942d90ce38a4e3f75570d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -375,7 +381,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846217,
+    "wof:lastmodified":1695884323,
     "wof:name":"Birkirkara",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

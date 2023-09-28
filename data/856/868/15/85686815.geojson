@@ -183,8 +183,14 @@
         "gn:id":8299738,
         "gp:id":24551398,
         "hasc:id":"MT",
+        "iso:code":"MT-39",
+        "qs:local_id":"1145",
         "unlc:id":"MT-39"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
     "wof:geomhash":"0b85db27feb3c20361f714f2f2a09e9a",
     "wof:hierarchy":[
@@ -203,7 +209,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1695885335,
     "wof:name":"Paola",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

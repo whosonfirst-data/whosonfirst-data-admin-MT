@@ -17,7 +17,7 @@
     "eurostat:population":11553,
     "eurostat:population_year":2020,
     "geom:area":0.002659,
-    "geom:area_square_m":26639003.600121,
+    "geom:area_square_m":26638861.626183,
     "geom:bbox":"14.328263,35.861557,14.416919,35.90765",
     "geom:latitude":35.886047,
     "geom:longitude":14.37413,
@@ -34,7 +34,7 @@
     "mps:latitude":35.886027,
     "mps:longitude":14.374147,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -299,10 +299,16 @@
         "gn:id":-99,
         "gp:id":56043491,
         "hasc:id":"MT",
+        "iso:code":"MT-46",
+        "qs:local_id":"1450",
         "wd:id":"Q44381"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"3b7ffff3563f9f5301ad038e0f549eec",
+    "wof:geomhash":"dbca6a47dacdf1abf6a8067ac81076a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -319,7 +325,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846216,
+    "wof:lastmodified":1695884323,
     "wof:name":"Rabat (Malta)",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

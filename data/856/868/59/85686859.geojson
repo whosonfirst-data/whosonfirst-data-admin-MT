@@ -34,7 +34,7 @@
     "mps:latitude":35.897046,
     "mps:longitude":14.452836,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -273,14 +273,20 @@
         "gn:id":8299701,
         "gp:id":24551375,
         "hasc:id":"MT",
+        "iso:code":"MT-02",
+        "qs:local_id":"1413",
         "unlc:id":"MT-02",
         "wd:id":"Q789794"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         101752405
     ],
     "wof:country":"MT",
-    "wof:geomhash":"13905cbc1b6545d960990e0144e0ff0a",
+    "wof:geomhash":"3259ef3bcec5019fb928eaab9231b1a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -297,7 +303,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846214,
+    "wof:lastmodified":1695884322,
     "wof:name":"Balzan",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

@@ -17,7 +17,7 @@
     "eurostat:population":422,
     "eurostat:population_year":2020,
     "geom:area":0.000506,
-    "geom:area_square_m":5059593.431388,
+    "geom:area_square_m":5059586.570675,
     "geom:bbox":"14.209361,36.050252,14.237581,36.082288",
     "geom:latitude":36.066599,
     "geom:longitude":14.2227,
@@ -34,7 +34,7 @@
     "mps:latitude":36.070998,
     "mps:longitude":14.220135,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -267,11 +267,17 @@
         "gn:id":8299713,
         "gp:id":24551355,
         "hasc:id":"-99",
+        "iso:code":"MT-16",
+        "qs:local_id":"2625",
         "unlc:id":"MT-16",
         "wd:id":"Q1017339"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"5774d5c65d9176d4742bb7fd811060ca",
+    "wof:geomhash":"ecd2c94378bf8d247fbd8438202eb56a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -288,7 +294,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846225,
+    "wof:lastmodified":1695884323,
     "wof:name":"Ghasri",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

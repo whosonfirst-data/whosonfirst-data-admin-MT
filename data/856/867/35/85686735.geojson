@@ -34,7 +34,7 @@
     "mps:latitude":35.844162,
     "mps:longitude":14.484289,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -273,11 +273,17 @@
         "gn:id":8299727,
         "gp:id":24551378,
         "hasc:id":"MT",
+        "iso:code":"MT-23",
+        "qs:local_id":"1331",
         "unlc:id":"MT-23",
         "wd:id":"Q597464"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"6cc0ce985484ae93b5f202de5ec5a286",
+    "wof:geomhash":"d0ff8c7a8dd2b785bde4483c7f04ecc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -294,7 +300,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846221,
+    "wof:lastmodified":1695884322,
     "wof:name":"Kirkop",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

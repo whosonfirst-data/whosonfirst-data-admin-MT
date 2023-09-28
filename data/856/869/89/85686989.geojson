@@ -17,7 +17,7 @@
     "eurostat:population":1809,
     "eurostat:population_year":2020,
     "geom:area":0.000544,
-    "geom:area_square_m":5437180.556564,
+    "geom:area_square_m":5437225.09108,
     "geom:bbox":"14.193307,36.031316,14.233804,36.055474",
     "geom:latitude":36.04268,
     "geom:longitude":14.215418,
@@ -34,7 +34,7 @@
     "mps:latitude":36.04317,
     "mps:longitude":14.215704,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -261,11 +261,17 @@
         "gn:id":8299726,
         "gp:id":24551358,
         "hasc:id":"-99",
+        "iso:code":"MT-22",
+        "qs:local_id":"2630",
         "unlc:id":"MT-22",
         "wd:id":"Q674679"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"78513e11602e970d2196995cb0420a2f",
+    "wof:geomhash":"7b8151213798337f1d66cbca50b09afb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -282,7 +288,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846219,
+    "wof:lastmodified":1695884323,
     "wof:name":"Kercem",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

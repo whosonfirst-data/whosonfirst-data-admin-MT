@@ -17,7 +17,7 @@
     "eurostat:population":11630,
     "eurostat:population_year":2020,
     "geom:area":0.00066,
-    "geom:area_square_m":6607950.006705,
+    "geom:area_square_m":6608023.981356,
     "geom:bbox":"14.408804,35.881081,14.458171,35.901722",
     "geom:latitude":35.891372,
     "geom:longitude":14.430443,
@@ -34,7 +34,7 @@
     "mps:latitude":35.891739,
     "mps:longitude":14.425036,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -295,11 +295,17 @@
         "gn:id":8299700,
         "gp:id":24551373,
         "hasc:id":"MT",
+        "iso:code":"MT-01",
+        "qs:local_id":"1412",
         "unlc:id":"MT-01",
         "wd:id":"Q44557"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"6bdc8b4c7182b6fc331f68b390440ba9",
+    "wof:geomhash":"45995f60e0b9fe7c985d570a402b9bb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -316,7 +322,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846215,
+    "wof:lastmodified":1695884322,
     "wof:name":"Attard",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

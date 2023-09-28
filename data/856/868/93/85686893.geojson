@@ -34,7 +34,7 @@
     "mps:latitude":35.905151,
     "mps:longitude":14.492526,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
@@ -93,8 +93,14 @@
     "wof:concordances":{
         "eg:gisco_id":"MT_MT01221",
         "eurostat:nuts_2021_id":"MT01221",
+        "iso:code":"MT-12",
+        "qs:local_id":"1221",
         "unlc:id":"MT-12"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
     "wof:geomhash":"b0d16ca87a95df9878c809cc4a1b2bd1",
     "wof:hierarchy":[
@@ -113,7 +119,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1695884323,
     "wof:name":"Gzira",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

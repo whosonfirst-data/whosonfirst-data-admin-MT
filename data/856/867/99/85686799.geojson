@@ -34,7 +34,7 @@
     "mps:latitude":35.887013,
     "mps:longitude":14.406122,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
@@ -66,8 +66,14 @@
     "wof:concordances":{
         "eg:gisco_id":"MT_MT01402",
         "eurostat:nuts_2021_id":"MT01402",
+        "iso:code":"MT-29",
+        "qs:local_id":"1402",
         "unlc:id":"MT-29"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
     "wof:geomhash":"d1d99d9fc98e40607230f47b345f55c4",
     "wof:hierarchy":[
@@ -86,7 +92,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1695884322,
     "wof:name":"Mdina (Citta' Notabile)",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

@@ -17,7 +17,7 @@
     "eurostat:population":4928,
     "eurostat:population_year":2020,
     "geom:area":0.000383,
-    "geom:area_square_m":3836776.329301,
+    "geom:area_square_m":3836768.71413,
     "geom:bbox":"14.504496,35.831451,14.527912,35.861835",
     "geom:latitude":35.845237,
     "geom:longitude":14.516364,
@@ -34,7 +34,7 @@
     "mps:latitude":35.845009,
     "mps:longitude":14.517339,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -273,11 +273,17 @@
         "gn:id":8299714,
         "gp:id":24551379,
         "hasc:id":"MT",
+        "iso:code":"MT-17",
+        "qs:local_id":"1326",
         "unlc:id":"MT-17",
         "wd:id":"Q426385"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"170ba5bbd138f0e8d50385c45a305306",
+    "wof:geomhash":"aa7e536091a35e00aabcb959e48869c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -294,7 +300,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846224,
+    "wof:lastmodified":1695884322,
     "wof:name":"Ghaxaq",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

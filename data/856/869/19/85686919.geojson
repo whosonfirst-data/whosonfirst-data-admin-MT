@@ -34,7 +34,7 @@
     "mps:latitude":35.922688,
     "mps:longitude":14.454445,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
@@ -161,8 +161,14 @@
         "gn:id":8299712,
         "gp:id":24551405,
         "hasc:id":"MT",
+        "iso:code":"MT-15",
+        "qs:local_id":"1524",
         "unlc:id":"MT-15"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
     "wof:geomhash":"c95a98e49e166af741b9cba30c7bdade",
     "wof:hierarchy":[
@@ -181,7 +187,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1695884323,
     "wof:name":"Gharghur",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
