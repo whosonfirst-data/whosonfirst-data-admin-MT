@@ -1224,6 +1224,7 @@
         "hasc:id":"MT",
         "icao:code":"9G",
         "ioc:id":"MLT",
+        "iso:code":"MT",
         "itu:id":"MLT",
         "m49:code":"470",
         "marc:id":"mm",
@@ -1237,6 +1238,7 @@
         "wk:page":"Malta",
         "wmo:id":"ML"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MT",
     "wof:country_alpha3":"MLT",
     "wof:geom_alt":[
@@ -1259,7 +1261,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1694492263,
+    "wof:lastmodified":1695881376,
     "wof:name":"Malta",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
