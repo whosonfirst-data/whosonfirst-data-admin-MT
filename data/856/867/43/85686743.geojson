@@ -17,7 +17,7 @@
     "eurostat:population":3766,
     "eurostat:population_year":2020,
     "geom:area":0.000467,
-    "geom:area_square_m":4680513.580998,
+    "geom:area_square_m":4680413.464142,
     "geom:bbox":"14.526729,35.819142,14.572577,35.84951",
     "geom:latitude":35.839077,
     "geom:longitude":14.55038,
@@ -34,7 +34,7 @@
     "mps:latitude":35.84132,
     "mps:longitude":14.553852,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -273,11 +273,17 @@
         "gn:id":8299732,
         "gp:id":24551380,
         "hasc:id":"MT",
+        "iso:code":"MT-28",
+        "qs:local_id":"1336",
         "unlc:id":"MT-28",
         "wd:id":"Q781921"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"5096ab2ae00f4f315feba8c218d8fa46",
+    "wof:geomhash":"c06952171002ab30cbc91be42bda1f84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -294,7 +300,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846222,
+    "wof:lastmodified":1695884322,
     "wof:name":"Marsaxlokk",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

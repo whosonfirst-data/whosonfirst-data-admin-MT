@@ -34,7 +34,7 @@
     "mps:latitude":35.866271,
     "mps:longitude":14.513351,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -288,14 +288,20 @@
         "gn:id":8299757,
         "gp:id":24551402,
         "hasc:id":"MT",
+        "iso:code":"MT-59",
+        "qs:local_id":"1162",
         "unlc:id":"MT-59",
         "wd:id":"Q744001"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         101752375
     ],
     "wof:country":"MT",
-    "wof:geomhash":"5d75983a1146ece254a744fe43d6f09d",
+    "wof:geomhash":"3ac297f34f34217aefc5d830412e4bd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -312,7 +318,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846224,
+    "wof:lastmodified":1695884322,
     "wof:name":"Tarxien",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

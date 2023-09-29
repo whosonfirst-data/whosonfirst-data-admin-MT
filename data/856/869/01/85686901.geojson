@@ -17,7 +17,7 @@
     "eurostat:population":15107,
     "eurostat:population_year":2020,
     "geom:area":0.000263,
-    "geom:area_square_m":2630875.270122,
+    "geom:area_square_m":2630946.504724,
     "geom:bbox":"14.462099,35.902618,14.490283,35.917023",
     "geom:latitude":35.909032,
     "geom:longitude":14.475147,
@@ -34,7 +34,7 @@
     "mps:latitude":35.908526,
     "mps:longitude":14.475416,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -279,10 +279,16 @@
         "gn:id":8299747,
         "gp:id":24551407,
         "hasc:id":"MT",
+        "iso:code":"MT-49",
+        "qs:local_id":"1253",
         "wd:id":"Q39507"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"136efffcd190c303a81885e0dc08828f",
+    "wof:geomhash":"5b4426bfc3bd74f6abfd23dce088fa3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -299,7 +305,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846220,
+    "wof:lastmodified":1695884323,
     "wof:name":"San Gwann",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

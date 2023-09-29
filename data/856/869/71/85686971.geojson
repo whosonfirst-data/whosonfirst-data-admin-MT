@@ -213,8 +213,14 @@
         "gn:id":8299709,
         "gp:id":24551362,
         "hasc:id":"-99",
+        "iso:code":"MT-10",
+        "qs:local_id":"2619",
         "unlc:id":"MT-10"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
     "wof:geomhash":"683d04553f63d04d1e26d2ff6e00fb11",
     "wof:hierarchy":[
@@ -233,7 +239,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354005,
+    "wof:lastmodified":1695885335,
     "wof:name":"Fontana",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

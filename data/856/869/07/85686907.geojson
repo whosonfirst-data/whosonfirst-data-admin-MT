@@ -17,7 +17,7 @@
     "eurostat:population":24358,
     "eurostat:population_year":2020,
     "geom:area":0.00013,
-    "geom:area_square_m":1298220.268142,
+    "geom:area_square_m":1298158.577232,
     "geom:bbox":"14.492942,35.905403,14.515051,35.919005",
     "geom:latitude":35.91166,
     "geom:longitude":14.502794,
@@ -34,7 +34,7 @@
     "mps:latitude":35.912581,
     "mps:longitude":14.501705,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -345,11 +345,17 @@
         "gn:id":8299755,
         "gp:id":24551395,
         "hasc:id":"MT",
+        "iso:code":"MT-56",
+        "qs:local_id":"1259",
         "unlc:id":"MT-56",
         "wd:id":"Q39526"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"3cb279ed3b107b4e27db6d8697836535",
+    "wof:geomhash":"c5df30ddaaeae198b304e6a8b12d0888",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -366,7 +372,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846219,
+    "wof:lastmodified":1695884323,
     "wof:name":"Sliema",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

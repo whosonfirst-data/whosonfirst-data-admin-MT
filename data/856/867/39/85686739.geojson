@@ -34,7 +34,7 @@
     "mps:latitude":35.845117,
     "mps:longitude":14.467489,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -262,9 +262,15 @@
         "gn:id":8299721,
         "gp:id":24551381,
         "hasc:id":"MT",
+        "iso:code":"MT-33",
+        "qs:local_id":"1340",
         "unlc:id":"MT-33",
         "wd:id":"Q1017953"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
     "wof:geomhash":"f0e03c8be679d99d0bf36bc26f2a414a",
     "wof:hierarchy":[
@@ -283,7 +289,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1695884322,
     "wof:name":"Mqabba",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

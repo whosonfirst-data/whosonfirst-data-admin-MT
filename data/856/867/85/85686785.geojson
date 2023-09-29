@@ -34,7 +34,7 @@
     "mps:latitude":35.85821,
     "mps:longitude":14.557758,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -288,11 +288,17 @@
         "gn:id":8299731,
         "gp:id":24551386,
         "hasc:id":"MT",
+        "iso:code":"MT-27",
+        "qs:local_id":"1335",
         "unlc:id":"MT-27",
         "wd:id":"Q534571"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"1a71986a6fbba65ed9dacf2303d090f5",
+    "wof:geomhash":"2619aa3b2f6ce3dd74c80d6a905db952",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,7 +315,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846223,
+    "wof:lastmodified":1695884322,
     "wof:name":"Marsaskala",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

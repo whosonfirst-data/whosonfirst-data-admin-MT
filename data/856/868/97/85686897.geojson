@@ -34,7 +34,7 @@
     "mps:latitude":35.90992,
     "mps:longitude":14.456322,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -261,14 +261,20 @@
         "gn:id":8299718,
         "gp:id":24551409,
         "hasc:id":"MT",
+        "iso:code":"MT-19",
+        "qs:local_id":"1428",
         "unlc:id":"MT-19",
         "wd:id":"Q304589"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         101752427
     ],
     "wof:country":"MT",
-    "wof:geomhash":"cc6a6fa46017458ed288b877232c7a39",
+    "wof:geomhash":"b230f2c0d38f93ed9d8641d997f23a9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -285,7 +291,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846216,
+    "wof:lastmodified":1695884323,
     "wof:name":"Iklin",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

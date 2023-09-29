@@ -34,7 +34,7 @@
     "mps:latitude":35.878329,
     "mps:longitude":14.469378,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
@@ -134,8 +134,14 @@
         "gn:id":8299742,
         "gp:id":24551406,
         "hasc:id":"MT",
+        "iso:code":"MT-43",
+        "qs:local_id":"1206",
         "unlc:id":"MT-43"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
     "wof:geomhash":"67f92acb709f4be6f3689db6c24bd0de",
     "wof:hierarchy":[
@@ -154,7 +160,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1695884322,
     "wof:name":"Qormi (Citta' Pinto)",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

@@ -34,7 +34,7 @@
     "mps:latitude":35.937062,
     "mps:longitude":14.436896,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -285,11 +285,17 @@
         "gn:id":8299737,
         "gp:id":56043491,
         "hasc:id":"MT",
+        "iso:code":"MT-38",
+        "qs:local_id":"1544",
         "unlc:id":"MT-38",
         "wd:id":"Q44397"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"ca017a4b0c896ff949cea7d58d20b5bf",
+    "wof:geomhash":"d26c75f5d7334389a7302622514b9a2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -306,7 +312,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846219,
+    "wof:lastmodified":1695884323,
     "wof:name":"Naxxar",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

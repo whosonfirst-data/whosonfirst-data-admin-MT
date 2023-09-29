@@ -34,7 +34,7 @@
     "mps:latitude":35.887249,
     "mps:longitude":14.522745,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
@@ -134,8 +134,14 @@
         "gn:id":8299702,
         "gp:id":24551404,
         "hasc:id":"MT",
+        "iso:code":"MT-03",
+        "qs:local_id":"1103",
         "unlc:id":"MT-03"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
     "wof:geomhash":"0908151ee17f1fa5035ac8c514391f21",
     "wof:hierarchy":[
@@ -154,7 +160,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1695884322,
     "wof:name":"Birgu (Citta' Vittoriosa)",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

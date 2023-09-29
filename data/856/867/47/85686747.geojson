@@ -34,7 +34,7 @@
     "mps:latitude":35.852697,
     "mps:longitude":14.503663,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -267,11 +267,17 @@
         "gn:id":8299715,
         "gp:id":24551389,
         "hasc:id":"MT",
+        "iso:code":"MT-11",
+        "qs:local_id":"1320",
         "unlc:id":"MT-11",
         "wd:id":"Q1018153"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"9138bf95b6eec009be2f844d285b2f4e",
+    "wof:geomhash":"a433ef006334eaa210070a579d64ac53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -288,7 +294,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846224,
+    "wof:lastmodified":1695884322,
     "wof:name":"Gudja",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

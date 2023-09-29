@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00001,
-    "geom:area_square_m":98355.401313,
+    "geom:area_square_m":98344.342077,
     "geom:bbox":"14.31711,36.011977,14.322982,36.015079",
     "geom:latitude":36.013583,
     "geom:longitude":14.319727,
@@ -22,7 +22,7 @@
     "mps:latitude":36.013649,
     "mps:longitude":14.319438,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
@@ -48,9 +48,16 @@
         85633331
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "iso:code":"MT-13",
+        "qs:local_id":"2622"
+    },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"6611df6b69ead00ccacda5c5bb5cd97f",
+    "wof:geomhash":"89d4f0b30fc4aab154e48bdac7efb850",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +74,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1627522383,
+    "wof:lastmodified":1695884284,
     "wof:name":"Ghajnsielem u Kemmuna",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

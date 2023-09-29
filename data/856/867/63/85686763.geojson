@@ -17,7 +17,7 @@
     "eurostat:population":3730,
     "eurostat:population_year":2020,
     "geom:area":0.000569,
-    "geom:area_square_m":5704497.655023,
+    "geom:area_square_m":5704505.799259,
     "geom:bbox":"14.35996,35.846204,14.397807,35.872696",
     "geom:latitude":35.860452,
     "geom:longitude":14.381528,
@@ -34,7 +34,7 @@
     "mps:latitude":35.85957,
     "mps:longitude":14.383104,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -273,11 +273,17 @@
         "gn:id":8299706,
         "gp:id":24551369,
         "hasc:id":"MT",
+        "iso:code":"MT-07",
+        "qs:local_id":"1416",
         "unlc:id":"MT-07",
         "wd:id":"Q905641"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"de5c5331e93baac53b771024277cbf9a",
+    "wof:geomhash":"afb1bfe59a3abad6cb657cf88b2a4e1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -294,7 +300,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846223,
+    "wof:lastmodified":1695884322,
     "wof:name":"Dingli",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

@@ -34,7 +34,7 @@
     "mps:latitude":35.880116,
     "mps:longitude":14.5226,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
@@ -72,8 +72,14 @@
         "fips:code":"",
         "gn:id":8299705,
         "gp:id":24551391,
-        "hasc:id":"MT"
+        "hasc:id":"MT",
+        "iso:code":"MT-06",
+        "qs:local_id":"1105"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
     "wof:geomhash":"beb5fd91f2182a14e75d6d5f8b64599d",
     "wof:hierarchy":[
@@ -92,7 +98,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354005,
+    "wof:lastmodified":1695884323,
     "wof:name":"Bormla (Citta' Cospicua)",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

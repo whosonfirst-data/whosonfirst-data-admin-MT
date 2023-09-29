@@ -34,7 +34,7 @@
     "mps:latitude":35.830494,
     "mps:longitude":14.452041,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -273,11 +273,17 @@
         "gn:id":8299743,
         "gp:id":24551377,
         "hasc:id":"MT",
+        "iso:code":"MT-44",
+        "qs:local_id":"1349",
         "unlc:id":"MT-44",
         "wd:id":"Q282203"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"932f386d8f626656fc5de70ea5ab1812",
+    "wof:geomhash":"73eae5b0dbad35be1728ff272b4d28c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -294,7 +300,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846221,
+    "wof:lastmodified":1695884322,
     "wof:name":"Qrendi",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

@@ -177,8 +177,14 @@
         "gn:id":8299746,
         "gp:id":24551385,
         "hasc:id":"MT",
+        "iso:code":"MT-47",
+        "qs:local_id":"1351",
         "unlc:id":"MT-47"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
     "wof:geomhash":"72ff75c5db33fc29a02b673a1dc58fea",
     "wof:hierarchy":[
@@ -197,7 +203,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1695885334,
     "wof:name":"Safi",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

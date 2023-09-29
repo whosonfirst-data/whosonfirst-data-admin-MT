@@ -34,7 +34,7 @@
     "mps:latitude":35.889823,
     "mps:longitude":14.47807,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -273,11 +273,17 @@
         "gn:id":8299752,
         "gp:id":24551410,
         "hasc:id":"MT",
+        "iso:code":"MT-54",
+        "qs:local_id":"1258",
         "unlc:id":"MT-54",
         "wd:id":"Q585420"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"65f056cf5c3fd5e124920ae4ba7a8e10",
+    "wof:geomhash":"024f0a2cf05034528cec16c37201b05f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -294,7 +300,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846216,
+    "wof:lastmodified":1695884322,
     "wof:name":"Santa Venera",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

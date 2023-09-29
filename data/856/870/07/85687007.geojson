@@ -34,7 +34,7 @@
     "mps:latitude":36.067533,
     "mps:longitude":14.201227,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
@@ -134,8 +134,14 @@
         "gn:id":8299711,
         "gp:id":24551351,
         "hasc:id":"-99",
+        "iso:code":"MT-14",
+        "qs:local_id":"2623",
         "unlc:id":"MT-14"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
     "wof:geomhash":"0dc3462987442c93d226d2fc98a62459",
     "wof:hierarchy":[
@@ -154,7 +160,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354005,
+    "wof:lastmodified":1695884323,
     "wof:name":"Gharb",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

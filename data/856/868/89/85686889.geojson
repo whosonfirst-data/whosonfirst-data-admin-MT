@@ -34,7 +34,7 @@
     "mps:latitude":35.898936,
     "mps:longitude":14.512859,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
@@ -134,8 +134,14 @@
         "gn:id":8334638,
         "gp:id":24551399,
         "hasc:id":"MT",
+        "iso:code":"MT-60",
+        "qs:local_id":"1101",
         "unlc:id":"MT-60"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         101752423
     ],
@@ -157,7 +163,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1695884323,
     "wof:name":"Valletta (Citta' Umilissima)",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

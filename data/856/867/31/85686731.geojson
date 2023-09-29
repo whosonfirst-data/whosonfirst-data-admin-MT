@@ -17,7 +17,7 @@
     "eurostat:population":13453,
     "eurostat:population_year":2020,
     "geom:area":0.00092,
-    "geom:area_square_m":9219604.26867,
+    "geom:area_square_m":9219614.048443,
     "geom:bbox":"14.500154,35.806459,14.549264,35.843872",
     "geom:latitude":35.821405,
     "geom:longitude":14.523412,
@@ -34,7 +34,7 @@
     "mps:latitude":35.816421,
     "mps:longitude":14.523029,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -284,10 +284,16 @@
         "gn:id":8299704,
         "gp:id":24551382,
         "hasc:id":"MT",
+        "iso:code":"MT-05",
+        "qs:local_id":"1315",
         "wd:id":"Q258028"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"dbea18d0ab9d6ead1beb0f631cd0046f",
+    "wof:geomhash":"a673597f83a7892d77f40fed02818a26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -304,7 +310,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846222,
+    "wof:lastmodified":1695884322,
     "wof:name":"Birzebbugia",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

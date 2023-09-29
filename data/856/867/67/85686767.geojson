@@ -34,7 +34,7 @@
     "mps:latitude":35.857471,
     "mps:longitude":14.532266,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
@@ -134,8 +134,14 @@
         "gn:id":8299765,
         "gp:id":24551384,
         "hasc:id":"MT",
+        "iso:code":"MT-67",
+        "qs:local_id":"1310",
         "unlc:id":"MT-67"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
     "wof:geomhash":"a519355f471c2d5904a9fc2f84eb6014",
     "wof:hierarchy":[
@@ -154,7 +160,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1695884322,
     "wof:name":"Zejtun (Citta' Beland)",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

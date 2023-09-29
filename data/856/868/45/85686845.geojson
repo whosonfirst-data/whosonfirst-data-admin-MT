@@ -17,7 +17,7 @@
     "eurostat:population":5255,
     "eurostat:population_year":2020,
     "geom:area":0.000047,
-    "geom:area_square_m":469533.21191,
+    "geom:area_square_m":469533.208542,
     "geom:bbox":"14.489891,35.888569,14.497448,35.896665",
     "geom:latitude":35.892458,
     "geom:longitude":14.493798,
@@ -34,7 +34,7 @@
     "mps:latitude":35.892449,
     "mps:longitude":14.493726,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -216,10 +216,16 @@
     "wof:concordances":{
         "eg:gisco_id":"MT_MT01247",
         "eurostat:nuts_2021_id":"MT01247",
+        "iso:code":"MT-41",
+        "qs:local_id":"1247",
         "wd:id":"Q223689"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"f8f7c390ada5324ed74464d2437caf1c",
+    "wof:geomhash":"4bac7f612863f6d5ee2f821506386fe6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -236,7 +242,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846215,
+    "wof:lastmodified":1695884322,
     "wof:name":"Pieta'",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

@@ -34,7 +34,7 @@
     "mps:latitude":35.871796,
     "mps:longitude":14.521966,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
@@ -351,11 +351,17 @@
         "gn:id":8299707,
         "gp:id":24551403,
         "hasc:id":"MT",
+        "iso:code":"MT-08",
+        "qs:local_id":"1117",
         "unlc:id":"MT-08",
         "wd:id":"Q44388"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
-    "wof:geomhash":"ac96ccc8391462215eb131825c9d56b2",
+    "wof:geomhash":"9aa35202ef2ebe019881901649374d21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -372,7 +378,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1690846222,
+    "wof:lastmodified":1695884322,
     "wof:name":"Fgura",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

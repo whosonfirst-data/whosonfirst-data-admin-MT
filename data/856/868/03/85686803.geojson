@@ -180,8 +180,14 @@
         "gn:id":8299730,
         "gp:id":24551393,
         "hasc:id":"MT",
+        "iso:code":"MT-26",
+        "qs:local_id":"1134",
         "unlc:id":"MT-26"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
     "wof:geomhash":"c451e21a54f870a50d31ac5f1b8a3bbc",
     "wof:hierarchy":[
@@ -200,7 +206,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354004,
+    "wof:lastmodified":1695885334,
     "wof:name":"Marsa",
     "wof:parent_id":85633331,
     "wof:placetype":"region",

@@ -147,8 +147,14 @@
         "gn:id":8299741,
         "gp:id":24551357,
         "hasc:id":"-99",
+        "iso:code":"MT-42",
+        "qs:local_id":"2648",
         "unlc:id":"MT-42"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MT",
     "wof:geomhash":"bb11a9327880073786bd509f31fe5cc3",
     "wof:hierarchy":[
@@ -167,7 +173,7 @@
         "mlt",
         "eng"
     ],
-    "wof:lastmodified":1684354005,
+    "wof:lastmodified":1695885335,
     "wof:name":"Qala",
     "wof:parent_id":85633331,
     "wof:placetype":"region",
